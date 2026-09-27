@@ -68,7 +68,11 @@ def published_dt(value):
         v=value.replace("Z","+00:00")
         dt=datetime.fromisoformat(v)
         return (dt if dt.tzinfo else dt.replace(tzinfo=timezone.utc)).astimezone(timezone.utc)
-    except Exception:return None
+    except Exception:pass
+    for fmt in ("%Y %b %d","%Y %b","%Y/%m/%d","%Y-%m-%d"):
+        try:return datetime.strptime(value,fmt).replace(tzinfo=timezone.utc)
+        except Exception:continue
+    return None
 
 def iso(dt):
     return dt.astimezone(timezone.utc).isoformat() if dt else ""

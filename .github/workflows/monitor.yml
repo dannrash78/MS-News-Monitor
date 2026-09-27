@@ -1,6 +1,10 @@
 name: MS News Monitor
 on:
   workflow_dispatch:
+  push:
+    branches: ["main"]
+    paths-ignore:
+      - "data/news.json"
   schedule:
     - cron: "0 5 * * *"
 permissions:

@@ -48,7 +48,7 @@ const defaultSources=[
 let all=[];let current='all';
 const $=id=>document.getElementById(id);
 const esc=s=>String(s==null?'':s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-function getSources(){try{const raw=localStorage.getItem('msnm_sources');return raw?JSON.parse(raw):defaultSources.map(x=>({...x}));}catch(e){return defaultSources.map(x=>({...x}));}}
+function getSources(){try{const raw=localStorage.getItem('msnm_sources');if(!raw)return defaultSources.map(x=>({...x}));const saved=JSON.parse(raw);const hasScientific=saved.some(x=>x.id==='pubmed-ms'||x.id==='clinicaltrials-ms');if(!hasScientific){const custom=saved.filter(x=>String(x.id).startsWith('custom-'));return [...defaultSources.map(x=>({...x})),...custom];}return saved;}catch(e){return defaultSources.map(x=>({...x}));}}
 function saveSources(s){try{localStorage.setItem('msnm_sources',JSON.stringify(s));}catch(e){}renderSources();}
 function renderSources(){const s=getSources();$('sourceList').innerHTML=s.length?s.map((x,i)=>`<div class="source-row"><div><div class="source-name">${esc(x.name)}</div><div class="source-meta">${esc(x.type||'rss')} · ${esc(x.feed||x.url)}</div></div><div class="source-meta">Приоритет: ${Number(x.priority)||1}</div><label class="switch"><input class="source-toggle" data-index="${i}" type="checkbox" ${x.enabled?'checked':''}> Следи</label></div>`).join(''):'<div class="muted">Няма източници.</div>';document.querySelectorAll('.source-toggle').forEach(el=>el.addEventListener('change',e=>{const s=getSources();s[Number(e.target.dataset.index)].enabled=e.target.checked;saveSources(s);}));}
 function toggleSources(){ $('sources').classList.toggle('hidden'); if(!$('sources').classList.contains('hidden'))renderSources(); }

@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="bg"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>MS News Monitor</title>
+<style>
+body{margin:0;background:#f4f7f9;color:#17202a;font-family:system-ui,-apple-system,Segoe UI,sans-serif}.wrap{max-width:1100px;margin:auto;padding:28px 18px}header,.card{background:white;border-radius:16px;padding:20px;box-shadow:0 3px 16px #0000000d;margin-bottom:14px}h1{margin:0 0 5px}.muted{color:#687580}.filters{display:flex;gap:8px;margin-top:18px;flex-wrap:wrap}button{border:1px solid #d5dde3;background:white;border-radius:9px;padding:8px 12px;cursor:pointer}button.active{background:#17202a;color:white}.row{display:flex;justify-content:space-between;gap:12px}.badge{font-size:12px;background:#edf2f5;padding:5px 9px;border-radius:20px}.title{font-size:19px;font-weight:700;margin:10px 0}.summary{line-height:1.5;color:#52606b}.actions{display:flex;gap:8px;flex-wrap:wrap}.actions a{color:inherit;text-decoration:none}.score{font-weight:700}.status{font-size:12px;color:#6d7882}
+</style></head><body><div class="wrap">
+<header><h1>🧠 MS News Monitor</h1><div class="muted">Кандидати за превод на актуална информация за множествена склероза</div><div id="meta" class="status"></div><div id="filters" class="filters"></div></header>
+<main id="news"><p class="muted">Зареждане...</p></main></div>
+<script>
+let all=[],current="all";
+const labels={all:"Всички",new:"Нови",translation:"За превод",rejected:"Отхвърлени"};
+async function load(){const r=await fetch("data/news.json?"+Date.now());const d=await r.json();all=(d.articles||[]).sort((a,b)=>(b.score||0)-(a.score||0));document.getElementById("meta").textContent=d.updated_at?"Последно обновяване: "+new Date(d.updated_at).toLocaleString("bg-BG"):"Все още няма данни";filters();render()}
+function filters(){document.getElementById("filters").innerHTML=Object.keys(labels).map(k=>"<button class='"+(current===k?"active":"")+"' onclick=\"current='"+k+"';filters();render()\">"+labels[k]+"</button>").join("")}
+function esc(s){return String(s||"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]))}
+function render(){const list=current==="all"?all:all.filter(x=>(x.status||"new")===current);const top=list.slice(0,10);document.getElementById("news").innerHTML=top.length?top.map((a,i)=>"<article class='card'><div class='row'><span class='badge'>"+esc(a.source)+"</span><span class='score'>"+(a.score||0)+"/100</span></div><div class='title'>"+(i+1)+". "+esc(a.title)+"</div><div class='status'>"+esc(a.published_at)+" · "+esc((a.topics||[]).join(", "))+"</div><p class='summary'>"+esc(a.summary||"Няма налично резюме.")+"</p><div class='actions'><a href='"+esc(a.url)+"' target='_blank'><button>Оригинал ↗</button></a><button onclick=\"alert('Редакционният workflow ще бъде активиран в следваща версия.')\">За превод</button><button onclick=\"alert('Отхвърлянето ще бъде свързано с историята в следваща версия.')\">Отхвърли</button></div></article>").join(""):"<p class='muted'>Няма намерени кандидати.</p>"}
+load();
+</script></body></html>

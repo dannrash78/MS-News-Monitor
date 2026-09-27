@@ -9,5 +9,6 @@
     {"id":"ms-trust","name":"MS Trust","url":"https://mstrust.org.uk/","feed":"","enabled":true,"priority":5},
     {"id":"national-ms-society","name":"National Multiple Sclerosis Society","url":"https://www.nationalmssociety.org/","feed":"","enabled":true,"priority":5},
     {"id":"ms-news-today","name":"Multiple Sclerosis News Today","url":"https://multiplesclerosisnewstoday.com/","feed":"","enabled":true,"priority":3}
-  ]
+  ],
+  "custom_sources": []
 }

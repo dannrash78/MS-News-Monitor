@@ -1,14 +1,66 @@
 {
   "settings": {
     "max_candidates": 10,
-    "lookback_days": 14,
-    "minimum_score": 35
+    "lookback_days": 30,
+    "minimum_score": 25
   },
   "sources": [
-    {"id":"msif","name":"MS International Federation","url":"https://www.msif.org/","feed":"","enabled":true,"priority":5},
-    {"id":"ms-trust","name":"MS Trust","url":"https://mstrust.org.uk/","feed":"","enabled":true,"priority":5},
-    {"id":"national-ms-society","name":"National Multiple Sclerosis Society","url":"https://www.nationalmssociety.org/","feed":"","enabled":true,"priority":5},
-    {"id":"ms-news-today","name":"Multiple Sclerosis News Today","url":"https://multiplesclerosisnewstoday.com/","feed":"","enabled":true,"priority":3}
+    {
+      "id": "msif",
+      "name": "MS International Federation",
+      "url": "https://www.msif.org/news-and-events/",
+      "feed": "https://www.msif.org/feed/",
+      "type": "rss",
+      "enabled": true,
+      "priority": 5
+    },
+    {
+      "id": "ms-trust",
+      "name": "MS Trust",
+      "url": "https://mstrust.org.uk/news-stories",
+      "feed": "https://mstrust.org.uk/news-stories",
+      "type": "html",
+      "enabled": true,
+      "priority": 5
+    },
+    {
+      "id": "national-ms-society",
+      "name": "National Multiple Sclerosis Society",
+      "url": "https://www.nationalmssociety.org/news-and-events/news",
+      "feed": "",
+      "type": "html",
+      "enabled": true,
+      "priority": 4
+    },
+    {
+      "id": "ms-news-today",
+      "name": "Multiple Sclerosis News Today",
+      "url": "https://multiplesclerosisnewstoday.com/",
+      "feed": "https://multiplesclerosisnewstoday.com/feed",
+      "type": "rss",
+      "enabled": true,
+      "priority": 3
+    },
+    {
+      "id": "pubmed-ms",
+      "name": "PubMed – Multiple Sclerosis",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/",
+      "feed": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/",
+      "type": "pubmed",
+      "query": "multiple sclerosis",
+      "enabled": true,
+      "priority": 5
+    },
+    {
+      "id": "clinicaltrials-ms",
+      "name": "ClinicalTrials.gov – Multiple Sclerosis",
+      "url": "https://clinicaltrials.gov/search?cond=Multiple%20Sclerosis",
+      "feed": "https://clinicaltrials.gov/api/v2/studies",
+      "type": "clinicaltrials",
+      "query": "Multiple Sclerosis",
+      "enabled": true,
+      "priority": 5
+    }
   ],
   "custom_sources": []
 }

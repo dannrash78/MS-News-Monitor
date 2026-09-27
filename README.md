@@ -36,3 +36,15 @@
 GitHub Actions изпълнява монитора ежедневно в 05:00 UTC и може да бъде стартиран ръчно.
 
 Системата е информационен инструмент и не замества медицинска или редакторска проверка.
+
+
+## V1.2.0 — scientific monitoring
+
+The monitor now supports dedicated adapters for:
+- RSS/Atom news feeds
+- PubMed via NCBI E-utilities
+- ClinicalTrials.gov API v2
+
+Default monitoring is configured for a 30-day lookback with a minimum relevance score of 25. PubMed and ClinicalTrials.gov records are kept as separate source types so they can later receive different editorial workflows.
+
+Current web pages without a stable feed/API are retained as configurable sources but are not scraped blindly; this avoids treating unstable HTML as a reliable medical data interface.

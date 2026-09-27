@@ -3,8 +3,10 @@ on:
   workflow_dispatch:
   push:
     branches: ["main"]
-    paths-ignore:
-      - "data/news.json"
+    paths:
+      - "scripts/**"
+      - "config/**"
+      - ".github/workflows/monitor.yml"
   schedule:
     - cron: "0 5 * * *"
 permissions:

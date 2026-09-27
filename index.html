@@ -6,11 +6,11 @@
 <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
 <meta http-equiv="Pragma" content="no-cache">
 <meta http-equiv="Expires" content="0">
-<title>Множествена склероза – актуално | MS News Monitor v1.2.0</title>
+<title>Множествена склероза – актуално | MS News Monitor v1.2.1</title>
 <style>
 :root{--navy:#0b2d55;--orange:#f58216;--bg:#f4f7f9;--muted:#687580;--line:#d9e1e6}
 *{box-sizing:border-box}body{margin:0;background:var(--bg);color:#17202a;font-family:system-ui,-apple-system,Segoe UI,sans-serif}.wrap{max-width:1150px;margin:auto;padding:22px 16px}
-header,.panel,.card{background:#fff;border-radius:18px;padding:20px;box-shadow:0 3px 16px #0000000d;margin-bottom:14px}.brand{display:flex;align-items:center;gap:18px}.brand img{width:92px;height:92px;object-fit:contain;border-radius:12px}.brand h1{margin:0 0 5px;color:var(--navy);font-size:27px}.version{display:inline-block;background:#edf2f5;border-radius:20px;padding:4px 9px;font-size:12px;font-weight:700}.muted,.status{color:var(--muted)}.filters,.toolbar{display:flex;gap:8px;margin-top:18px;flex-wrap:wrap}button{border:1px solid #d5dde3;background:#fff;border-radius:9px;padding:8px 12px;cursor:pointer;font:inherit}button:hover{border-color:#aebac3}button.active{background:var(--navy);color:#fff}button.primary{background:var(--orange);border-color:var(--orange);color:#fff;font-weight:700}input{width:100%;border:1px solid var(--line);border-radius:9px;padding:10px;font:inherit}.grid{display:grid;grid-template-columns:1fr 1fr;gap:14px}@media(max-width:800px){.grid{grid-template-columns:1fr}.brand{align-items:flex-start}.brand img{width:72px;height:72px}}.row{display:flex;justify-content:space-between;gap:12px;align-items:center}.badge{font-size:12px;background:#edf2f5;padding:5px 9px;border-radius:20px}.title{font-size:19px;font-weight:700;margin:10px 0;color:var(--navy)}.summary{line-height:1.5;color:#52606b}.actions{display:flex;gap:8px;flex-wrap:wrap}.score{font-weight:800;color:var(--orange)}.source-row{display:grid;grid-template-columns:1fr 1fr 90px;gap:8px;align-items:center;margin:8px 0}.source-name{font-weight:700}.source-meta{font-size:12px;color:var(--muted);overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.switch{display:flex;gap:7px;align-items:center;justify-content:flex-end;font-size:13px}.switch input{width:auto}.hidden{display:none}.notice{padding:10px 12px;background:#fff7ef;border-left:4px solid var(--orange);border-radius:8px;color:#5b4a3c;font-size:13px}
+header,.panel,.card{background:#fff;border-radius:18px;padding:20px;box-shadow:0 3px 16px #0000000d;margin-bottom:14px}.brand{display:flex;align-items:center;gap:18px}.brand img{width:92px;height:92px;object-fit:contain;border-radius:12px}.brand h1{margin:0 0 5px;color:var(--navy);font-size:27px}.version{display:inline-block;background:#edf2f5;border-radius:20px;padding:4px 9px;font-size:12px;font-weight:700}.muted,.status{color:var(--muted)}.filters,.toolbar{display:flex;gap:8px;margin-top:18px;flex-wrap:wrap}button{border:1px solid #d5dde3;background:#fff;border-radius:9px;padding:8px 12px;cursor:pointer;font:inherit}button:hover{border-color:#aebac3}button.active{background:var(--navy);color:#fff}button.primary{background:var(--orange);border-color:var(--orange);color:#fff;font-weight:700}input{width:100%;border:1px solid var(--line);border-radius:9px;padding:10px;font:inherit}.grid{display:grid;grid-template-columns:1fr 1fr;gap:14px}@media(max-width:800px){.grid{grid-template-columns:1fr}.brand{align-items:flex-start}.brand img{width:72px;height:72px}}.row{display:flex;justify-content:space-between;gap:12px;align-items:center}.badge{font-size:12px;background:#edf2f5;padding:5px 9px;border-radius:20px}.title{font-size:19px;font-weight:700;margin:10px 0;color:var(--navy)}.summary{line-height:1.5;color:#52606b}.actions{display:flex;gap:8px;flex-wrap:wrap}.score{font-weight:800;color:var(--orange)}.source-row{display:grid;grid-template-columns:1fr 1fr 90px;gap:8px;align-items:center;margin:8px 0}.source-name{font-weight:700}.source-meta{font-size:12px;color:var(--muted);overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.switch{display:flex;gap:7px;align-items:center;justify-content:flex-end;font-size:13px}.switch input{width:auto}.hidden{display:none}.notice{padding:10px 12px;background:#fff7ef;border-left:4px solid var(--orange);border-radius:8px;color:#5b4a3c;font-size:13px}.section-head{display:flex;justify-content:space-between;align-items:end;gap:12px;margin:8px 0 14px}.section-head h2{margin:0;color:var(--navy);font-size:22px}
 </style>
 </head>
 <body><div class="wrap">
@@ -39,8 +39,8 @@ header,.panel,.card{background:#fff;border-radius:18px;padding:20px;box-shadow:0
 <script>
 (() => {
 'use strict';
-const VERSION='1.2.0';
-const labels={all:'Всички',new:'Нови',translation:'За превод',rejected:'Отхвърлени'};
+const VERSION='1.2.1';
+const labels={new:'Кандидати за превод',all:'Всички',translation:'За превод',rejected:'Отхвърлени'};
 const defaultSources=[
 {id:'msif',name:'MS International Federation',url:'https://www.msif.org/news-and-events/',feed:'https://www.msif.org/feed/',type:'rss',enabled:true,priority:5},
 {id:'ms-trust',name:'MS Trust',url:'https://mstrust.org.uk/news-stories',feed:'',type:'html',enabled:true,priority:5},
@@ -49,7 +49,10 @@ const defaultSources=[
 {id:'pubmed-ms',name:'PubMed – Multiple Sclerosis',url:'https://pubmed.ncbi.nlm.nih.gov/',feed:'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/',type:'pubmed',query:'multiple sclerosis',enabled:true,priority:5},
 {id:'clinicaltrials-ms',name:'ClinicalTrials.gov – Multiple Sclerosis',url:'https://clinicaltrials.gov/search?cond=Multiple%20Sclerosis',feed:'https://clinicaltrials.gov/api/v2/studies',type:'clinicaltrials',query:'Multiple Sclerosis',enabled:true,priority:5}
 ];
-let all=[];let current='all';
+let all=[];let current='new';let statuses={};
+function readStatuses(){try{statuses=JSON.parse(localStorage.getItem('msnm_statuses')||'{}')||{};}catch(e){statuses={};}}
+function effectiveStatus(a){return statuses[a.id]||a.status||'new';}
+function saveStatus(id,status){statuses[id]=status;try{localStorage.setItem('msnm_statuses',JSON.stringify(statuses));}catch(e){}all=all.map(a=>a.id===id?{...a,status}:a);renderFilters();render();}
 const $=id=>document.getElementById(id);
 const esc=s=>String(s==null?'':s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 function getSources(){try{const raw=localStorage.getItem('msnm_sources');if(!raw)return defaultSources.map(x=>({...x}));const saved=JSON.parse(raw);const hasScientific=saved.some(x=>x.id==='pubmed-ms'||x.id==='clinicaltrials-ms');if(!hasScientific){const custom=saved.filter(x=>String(x.id).startsWith('custom-'));return [...defaultSources.map(x=>({...x})),...custom];}return saved;}catch(e){return defaultSources.map(x=>({...x}));}}
@@ -60,9 +63,56 @@ function addSource(){const name=$('newName').value.trim(),url=$('newUrl').value.
 function resetSources(){try{localStorage.removeItem('msnm_sources');}catch(e){}renderSources();}
 function exportConfig(){const sources=getSources();const payload={settings:{max_candidates:10,lookback_days:30,minimum_score:25},sources,custom_sources:sources.filter(x=>String(x.id).startsWith('custom-'))};const blob=new Blob([JSON.stringify(payload,null,2)],{type:'application/json'});const url=URL.createObjectURL(blob);const a=document.createElement('a');a.href=url;a.download='sources.json';document.body.appendChild(a);a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(url),1000);}
 function renderFilters(){ $('filters').innerHTML=Object.entries(labels).map(([k,v])=>`<button type="button" class="filter-btn ${current===k?'active':''}" data-filter="${k}">${v}</button>`).join('');document.querySelectorAll('.filter-btn').forEach(b=>b.addEventListener('click',()=>{current=b.dataset.filter;renderFilters();render();})); }
-function render(){const list=current==='all'?all:all.filter(x=>(x.status||'new')===current);const top=list.slice(0,10);$('news').innerHTML=top.length?top.map((a,i)=>`<article class="card"><div class="row"><span class="badge">${esc(a.source)}</span><span class="score">${Number(a.score)||0}/100</span></div><div class="title">${i+1}. ${esc(a.title)}</div><div class="status">${esc(a.published_at)} · ${esc((a.topics||[]).join(', '))}</div><p class="summary">${esc(a.summary||'Няма налично резюме.')}</p><div class="actions"><a href="${esc(a.url)}" target="_blank" rel="noopener"><button type="button">Оригинал ↗</button></a><button type="button" class="next-action">За превод</button><button type="button" class="reject-action">Отхвърли</button></div></article>`).join(''):'<p class="muted">Няма намерени кандидати.</p>';}
-async function load(){try{$('meta').textContent='Зареждане на новините...';const controller=new AbortController();const timer=setTimeout(()=>controller.abort(),8000);const r=await fetch('data/news.json?ts='+Date.now(),{cache:'no-store',signal:controller.signal});clearTimeout(timer);if(!r.ok)throw new Error('HTTP '+r.status);const d=await r.json();all=Array.isArray(d.articles)?d.articles.slice().sort((a,b)=>(b.score||0)-(a.score||0)):[];$('meta').textContent=d.updated_at?'Последно обновяване: '+new Date(d.updated_at).toLocaleString('bg-BG'):'Все още няма данни';renderFilters();render();}catch(e){$('meta').textContent='Dashboard v'+VERSION+' · данните не са заредени';$('news').innerHTML='<div class="card"><strong>Интерфейсът е зареден.</strong><p class="muted">Няма налични данни от <code>data/news.json</code> или зареждането е прекъснато. Настройките и бутоните остават достъпни.</p></div>';renderFilters();}}
-function init(){ $('sourcesBtn').addEventListener('click',toggleSources);$('closeSourcesBtn').addEventListener('click',toggleSources);$('exportBtn').addEventListener('click',exportConfig);$('reloadBtn').addEventListener('click',load);$('addSourceBtn').addEventListener('click',addSource);$('resetSourcesBtn').addEventListener('click',resetSources);renderSources();renderFilters();load(); }
+function render(){
+  const list=(current==='all'?all:all.filter(x=>effectiveStatus(x)===current));
+  const title=current==='new'?'Кандидати за превод':labels[current];
+  const count=list.length;
+  $('news').innerHTML='<div class="section-head"><div><h2>'+esc(title)+'</h2><div class="muted">'+count+' '+(count===1?'статия':'статии')+' в този списък</div></div><span class="badge">автоматичен подбор</span></div>';
+  if(!list.length){$('news').innerHTML+='<div class="card"><strong>Няма намерени кандидати.</strong><p class="muted">Ако очакваш новини, натисни „↻ Обнови данните“. Информацията се взема от data/news.json.</p></div>';return;}
+  $('news').innerHTML+=list.map((a,i)=>{
+    const st=effectiveStatus(a);
+    const kind={clinical_trial:'Клинично изпитване',publication:'Научна публикация',news:'Новина'}[a.kind]||'Медицинска информация';
+    const actions=st==='new'
+      ? '<button type="button" class="next-action" data-action="translation">За превод</button><button type="button" class="reject-action" data-action="rejected">Отхвърли</button>'
+      : st==='translation'
+      ? '<button type="button" data-action="new">Върни в кандидати</button><button type="button" class="reject-action" data-action="rejected">Отхвърли</button>'
+      : '<button type="button" data-action="new">Върни в кандидати</button><button type="button" class="next-action" data-action="translation">За превод</button>';
+    return '<article class="card" data-id="'+esc(a.id)+'"><div class="row"><span class="badge">'+esc(a.source)+'</span><span class="score">'+(Number(a.score)||0)+'/100</span></div><div class="status" style="margin-top:8px">'+esc(kind)+' · '+esc(a.published_at||'')+' · '+esc((a.topics||[]).join(', '))+'</div><div class="title">'+(i+1)+'. '+esc(a.title)+'</div><p class="summary">'+esc(a.summary||'Няма налично резюме.')+'</p><div class="actions"><a href="'+esc(a.url)+'" target="_blank" rel="noopener"><button type="button">Оригинал ↗</button></a>'+actions+'</div></article>';
+  }).join('');
+}
+async function fetchNewsData(){
+  const urls=['data/news.json?ts='+Date.now(),'https://raw.githubusercontent.com/dannrash78/MS-News-Monitor/main/data/news.json?ts='+Date.now()];
+  let lastError=null;
+  for(const url of urls){
+    try{
+      const controller=new AbortController();
+      const timer=setTimeout(()=>controller.abort(),8000);
+      const r=await fetch(url,{cache:'no-store',signal:controller.signal});
+      clearTimeout(timer);
+      if(!r.ok)throw new Error('HTTP '+r.status);
+      const d=await r.json();
+      if(Array.isArray(d.articles)&&d.articles.length>0)return d;
+      lastError=new Error('Файлът е наличен, но няма статии');
+    }catch(e){lastError=e;}
+  }
+  throw lastError||new Error('Данните не са достъпни');
+}
+async function load(){
+  try{
+    $('meta').textContent='Зареждане на новините...';
+    const d=await fetchNewsData();
+    all=Array.isArray(d.articles)?d.articles.slice().sort((a,b)=>(b.score||0)-(a.score||0)):[];
+    all=all.map(a=>({...a,status:effectiveStatus(a)}));
+    const newCount=all.filter(a=>effectiveStatus(a)==='new').length;
+    $('meta').textContent=(d.updated_at?'Последно обновяване: '+new Date(d.updated_at).toLocaleString('bg-BG'):'Данните са заредени')+' · '+all.length+' статии · '+newCount+' кандидати';
+    renderFilters();render();
+  }catch(e){
+    $('meta').textContent='Dashboard v'+VERSION+' · данните не са заредени';
+    $('news').innerHTML='<div class="card"><strong>Интерфейсът е зареден, но новините не са достъпни.</strong><p class="muted">Проверени са локалният файл и резервният GitHub източник. Натисни „↻ Обнови данните“.</p></div>';
+    renderFilters();
+  }
+}
+function init(){ readStatuses(); $('news').addEventListener('click',e=>{const btn=e.target.closest('[data-action]');if(!btn)return;const card=btn.closest('[data-id]');if(!card)return;saveStatus(card.dataset.id,btn.dataset.action);}); $('sourcesBtn').addEventListener('click',toggleSources);$('closeSourcesBtn').addEventListener('click',toggleSources);$('exportBtn').addEventListener('click',exportConfig);$('reloadBtn').addEventListener('click',load);$('addSourceBtn').addEventListener('click',addSource);$('resetSourcesBtn').addEventListener('click',resetSources);renderSources();renderFilters();load(); }
 if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',init);else init();
 })();
 </script></body></html>

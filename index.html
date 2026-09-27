@@ -3,6 +3,9 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="0">
 <title>Множествена склероза – актуално | MS News Monitor v1.2.0</title>
 <style>
 :root{--navy:#0b2d55;--orange:#f58216;--bg:#f4f7f9;--muted:#687580;--line:#d9e1e6}
@@ -14,12 +17,13 @@ header,.panel,.card{background:#fff;border-radius:18px;padding:20px;box-shadow:0
 <header>
   <div class="brand">
     <img src="assets/ms-logo.png" alt="Множествена склероза – актуално">
-    <div><h1>Множествена склероза – актуално</h1><div class="muted">MS News Monitor · автоматизиран подбор на информация</div><span class="version">v1.1.1</span></div>
+    <div><h1>Множествена склероза – актуално</h1><div class="muted">MS News Monitor · автоматизиран подбор на информация</div><span class="version">v1.2.0</span></div>
   </div>
   <div id="meta" class="status" style="margin-top:14px">Инициализиране...</div>
   <div class="toolbar">
     <button id="sourcesBtn" type="button">⚙️ Източници</button>
     <button id="exportBtn" type="button">⬇️ Експорт на конфигурацията</button>
+    <button id="reloadBtn" type="button">↻ Обнови данните</button>
   </div>
   <div id="filters" class="filters"></div>
 </header>
@@ -58,7 +62,7 @@ function exportConfig(){const sources=getSources();const payload={settings:{max_
 function renderFilters(){ $('filters').innerHTML=Object.entries(labels).map(([k,v])=>`<button type="button" class="filter-btn ${current===k?'active':''}" data-filter="${k}">${v}</button>`).join('');document.querySelectorAll('.filter-btn').forEach(b=>b.addEventListener('click',()=>{current=b.dataset.filter;renderFilters();render();})); }
 function render(){const list=current==='all'?all:all.filter(x=>(x.status||'new')===current);const top=list.slice(0,10);$('news').innerHTML=top.length?top.map((a,i)=>`<article class="card"><div class="row"><span class="badge">${esc(a.source)}</span><span class="score">${Number(a.score)||0}/100</span></div><div class="title">${i+1}. ${esc(a.title)}</div><div class="status">${esc(a.published_at)} · ${esc((a.topics||[]).join(', '))}</div><p class="summary">${esc(a.summary||'Няма налично резюме.')}</p><div class="actions"><a href="${esc(a.url)}" target="_blank" rel="noopener"><button type="button">Оригинал ↗</button></a><button type="button" class="next-action">За превод</button><button type="button" class="reject-action">Отхвърли</button></div></article>`).join(''):'<p class="muted">Няма намерени кандидати.</p>';}
 async function load(){try{$('meta').textContent='Зареждане на новините...';const controller=new AbortController();const timer=setTimeout(()=>controller.abort(),8000);const r=await fetch('data/news.json?ts='+Date.now(),{cache:'no-store',signal:controller.signal});clearTimeout(timer);if(!r.ok)throw new Error('HTTP '+r.status);const d=await r.json();all=Array.isArray(d.articles)?d.articles.slice().sort((a,b)=>(b.score||0)-(a.score||0)):[];$('meta').textContent=d.updated_at?'Последно обновяване: '+new Date(d.updated_at).toLocaleString('bg-BG'):'Все още няма данни';renderFilters();render();}catch(e){$('meta').textContent='Dashboard v'+VERSION+' · данните не са заредени';$('news').innerHTML='<div class="card"><strong>Интерфейсът е зареден.</strong><p class="muted">Няма налични данни от <code>data/news.json</code> или зареждането е прекъснато. Настройките и бутоните остават достъпни.</p></div>';renderFilters();}}
-function init(){ $('sourcesBtn').addEventListener('click',toggleSources);$('closeSourcesBtn').addEventListener('click',toggleSources);$('exportBtn').addEventListener('click',exportConfig);$('addSourceBtn').addEventListener('click',addSource);$('resetSourcesBtn').addEventListener('click',resetSources);renderSources();renderFilters();load(); }
+function init(){ $('sourcesBtn').addEventListener('click',toggleSources);$('closeSourcesBtn').addEventListener('click',toggleSources);$('exportBtn').addEventListener('click',exportConfig);$('reloadBtn').addEventListener('click',load);$('addSourceBtn').addEventListener('click',addSource);$('resetSourcesBtn').addEventListener('click',resetSources);renderSources();renderFilters();load(); }
 if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',init);else init();
 })();
 </script></body></html>

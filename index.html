@@ -1,17 +1,91 @@
 <!doctype html>
-<html lang="bg"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>MS News Monitor</title>
+<html lang="bg">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Множествена склероза – актуално | MS News Monitor v1.1.0</title>
 <style>
-body{margin:0;background:#f4f7f9;color:#17202a;font-family:system-ui,-apple-system,Segoe UI,sans-serif}.wrap{max-width:1100px;margin:auto;padding:28px 18px}header,.card{background:white;border-radius:16px;padding:20px;box-shadow:0 3px 16px #0000000d;margin-bottom:14px}h1{margin:0 0 5px}.muted{color:#687580}.filters{display:flex;gap:8px;margin-top:18px;flex-wrap:wrap}button{border:1px solid #d5dde3;background:white;border-radius:9px;padding:8px 12px;cursor:pointer}button.active{background:#17202a;color:white}.row{display:flex;justify-content:space-between;gap:12px}.badge{font-size:12px;background:#edf2f5;padding:5px 9px;border-radius:20px}.title{font-size:19px;font-weight:700;margin:10px 0}.summary{line-height:1.5;color:#52606b}.actions{display:flex;gap:8px;flex-wrap:wrap}.actions a{color:inherit;text-decoration:none}.score{font-weight:700}.status{font-size:12px;color:#6d7882}
-</style></head><body><div class="wrap">
-<header><h1>🧠 MS News Monitor</h1><div class="muted">Кандидати за превод на актуална информация за множествена склероза</div><div id="meta" class="status"></div><div id="filters" class="filters"></div></header>
-<main id="news"><p class="muted">Зареждане...</p></main></div>
+:root{--navy:#0b2d55;--orange:#f58216;--bg:#f4f7f9;--muted:#687580;--line:#d9e1e6}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:#17202a;font-family:system-ui,-apple-system,Segoe UI,sans-serif}
+.wrap{max-width:1150px;margin:auto;padding:22px 16px}
+header,.panel,.card{background:#fff;border-radius:18px;padding:20px;box-shadow:0 3px 16px #0000000d;margin-bottom:14px}
+.brand{display:flex;align-items:center;gap:18px}.brand img{width:92px;height:92px;object-fit:contain;border-radius:12px}.brand h1{margin:0 0 5px;color:var(--navy);font-size:27px}.version{display:inline-block;background:#edf2f5;border-radius:20px;padding:4px 9px;font-size:12px;font-weight:700}
+.muted,.status{color:var(--muted)}.filters,.toolbar{display:flex;gap:8px;margin-top:18px;flex-wrap:wrap}
+button{border:1px solid #d5dde3;background:#fff;border-radius:9px;padding:8px 12px;cursor:pointer}button:hover{border-color:#aebac3}button.active{background:var(--navy);color:#fff}
+button.primary{background:var(--orange);border-color:var(--orange);color:#fff;font-weight:700}
+input{width:100%;border:1px solid var(--line);border-radius:9px;padding:10px;font:inherit}
+.grid{display:grid;grid-template-columns:1fr 1fr;gap:14px}@media(max-width:800px){.grid{grid-template-columns:1fr}.brand{align-items:flex-start}.brand img{width:72px;height:72px}}
+.row{display:flex;justify-content:space-between;gap:12px;align-items:center}.badge{font-size:12px;background:#edf2f5;padding:5px 9px;border-radius:20px}.title{font-size:19px;font-weight:700;margin:10px 0;color:var(--navy)}.summary{line-height:1.5;color:#52606b}.actions{display:flex;gap:8px;flex-wrap:wrap}.actions a{color:inherit;text-decoration:none}.score{font-weight:800;color:var(--orange)}.source-row{display:grid;grid-template-columns:1fr 1fr 90px;gap:8px;align-items:center;margin:8px 0}.source-name{font-weight:700}.source-meta{font-size:12px;color:var(--muted);overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.switch{display:flex;gap:7px;align-items:center;justify-content:flex-end;font-size:13px}.switch input{width:auto}.hidden{display:none}.notice{padding:10px 12px;background:#fff7ef;border-left:4px solid var(--orange);border-radius:8px;color:#5b4a3c;font-size:13px}
+</style>
+</head>
+<body><div class="wrap">
+<header>
+  <div class="brand">
+    <img src="assets/ms-logo.svg" alt="Множествена склероза – актуално">
+    <div><h1>Множествена склероза – актуално</h1><div class="muted">MS News Monitor · автоматизиран подбор на информация</div><span class="version">v1.1.0</span></div>
+  </div>
+  <div id="meta" class="status" style="margin-top:14px"></div>
+  <div class="toolbar">
+    <button onclick="showPanel('sources')">⚙️ Източници</button>
+    <button onclick="exportConfig()">⬇️ Експорт на конфигурацията</button>
+  </div>
+  <div id="filters" class="filters"></div>
+</header>
+
+<section id="sources" class="panel hidden">
+  <div class="row"><div><h2 style="margin:0">Източници за следене</h2><div class="muted">Включвай/изключвай сайтове и добавяй нови RSS/Atom източници.</div></div><button onclick="showPanel('sources')">Затвори</button></div>
+  <div class="notice" style="margin-top:14px">Настройките от този екран се пазят в този браузър. Те не променят автоматично GitHub Actions конфигурацията. Използвай „Експорт“, когато искаш да прехвърлиш настройките в <code>config/sources.json</code>.</div>
+  <div id="sourceList" style="margin-top:14px"></div>
+  <hr style="border:0;border-top:1px solid #eee;margin:18px 0">
+  <h3>Добави сайт</h3>
+  <div class="grid">
+    <label>Име<input id="newName" placeholder="Напр. MS Society UK"></label>
+    <label>Сайт<input id="newUrl" placeholder="https://example.org/"></label>
+    <label>RSS / Atom feed<input id="newFeed" placeholder="https://example.org/feed.xml"></label>
+    <label>Приоритет (1–5)<input id="newPriority" type="number" min="1" max="5" value="3"></label>
+  </div>
+  <div class="toolbar"><button class="primary" onclick="addSource()">＋ Добави сайт</button><button onclick="resetSources()">↺ Върни стандартните</button></div>
+</section>
+
+<main id="news"><p class="muted">Зареждане...</p></main>
+</div>
 <script>
+const VERSION="1.1.0";
 let all=[],current="all";
 const labels={all:"Всички",new:"Нови",translation:"За превод",rejected:"Отхвърлени"};
-async function load(){const r=await fetch("data/news.json?"+Date.now());const d=await r.json();all=(d.articles||[]).sort((a,b)=>(b.score||0)-(a.score||0));document.getElementById("meta").textContent=d.updated_at?"Последно обновяване: "+new Date(d.updated_at).toLocaleString("bg-BG"):"Все още няма данни";filters();render()}
-function filters(){document.getElementById("filters").innerHTML=Object.keys(labels).map(k=>"<button class='"+(current===k?"active":"")+"' onclick=\"current='"+k+"';filters();render()\">"+labels[k]+"</button>").join("")}
+const defaultSources=[
+{id:"msif",name:"MS International Federation",url:"https://www.msif.org/",feed:"",enabled:true,priority:5},
+{id:"ms-trust",name:"MS Trust",url:"https://mstrust.org.uk/",feed:"",enabled:true,priority:5},
+{id:"national-ms-society",name:"National Multiple Sclerosis Society",url:"https://www.nationalmssociety.org/",feed:"",enabled:true,priority:5},
+{id:"ms-news-today",name:"Multiple Sclerosis News Today",url:"https://multiplesclerosisnewstoday.com/",feed:"",enabled:true,priority:3}
+];
 function esc(s){return String(s||"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]))}
-function render(){const list=current==="all"?all:all.filter(x=>(x.status||"new")===current);const top=list.slice(0,10);document.getElementById("news").innerHTML=top.length?top.map((a,i)=>"<article class='card'><div class='row'><span class='badge'>"+esc(a.source)+"</span><span class='score'>"+(a.score||0)+"/100</span></div><div class='title'>"+(i+1)+". "+esc(a.title)+"</div><div class='status'>"+esc(a.published_at)+" · "+esc((a.topics||[]).join(", "))+"</div><p class='summary'>"+esc(a.summary||"Няма налично резюме.")+"</p><div class='actions'><a href='"+esc(a.url)+"' target='_blank'><button>Оригинал ↗</button></a><button onclick=\"alert('Редакционният workflow ще бъде активиран в следваща версия.')\">За превод</button><button onclick=\"alert('Отхвърлянето ще бъде свързано с историята в следваща версия.')\">Отхвърли</button></div></article>").join(""):"<p class='muted'>Няма намерени кандидати.</p>"}
-load();
+function getSources(){try{return JSON.parse(localStorage.getItem("msnm_sources"))||defaultSources}catch(e){return defaultSources}}
+function saveSources(s){localStorage.setItem("msnm_sources",JSON.stringify(s));renderSources()}
+function showPanel(id){document.getElementById(id).classList.toggle("hidden");if(id==="sources")renderSources()}
+function renderSources(){
+ const s=getSources();const el=document.getElementById("sourceList");
+ el.innerHTML=s.map((x,i)=>"<div class='source-row'><div><div class='source-name'>"+esc(x.name)+"</div><div class='source-meta'>"+esc(x.feed||x.url)+"</div></div><div class='source-meta'>Приоритет: "+(x.priority||1)+"</div><label class='switch'><input type='checkbox' "+(x.enabled?"checked":"")+" onchange='toggleSource("+i+",this.checked)'> Следи</label></div>").join("")||"<div class='muted'>Няма източници.</div>";
+}
+function toggleSource(i,v){const s=getSources();s[i].enabled=v;saveSources(s)}
+function addSource(){
+ const name=document.getElementById("newName").value.trim(),url=document.getElementById("newUrl").value.trim(),feed=document.getElementById("newFeed").value.trim(),priority=Math.max(1,Math.min(5,Number(document.getElementById("newPriority").value)||3));
+ if(!name||!url){alert("Въведи поне име и URL на сайта.");return}
+ const s=getSources();const id="custom-"+Date.now();s.push({id,name,url,feed,enabled:true,priority});saveSources(s);
+ ["newName","newUrl","newFeed"].forEach(id=>document.getElementById(id).value="");
+}
+function resetSources(){localStorage.removeItem("msnm_sources");renderSources()}
+function exportConfig(){
+ const payload={settings:{max_candidates:10,lookback_days:14,minimum_score:35},sources:getSources(),custom_sources:getSources().filter(x=>String(x.id).startsWith("custom-"))};
+ const blob=new Blob([JSON.stringify(payload,null,2)],{type:"application/json"}),a=document.createElement("a");a.href=URL.createObjectURL(blob);a.download="sources.json";a.click();URL.revokeObjectURL(a.href);
+}
+async function load(){
+ try{const r=await fetch("data/news.json?"+Date.now());const d=await r.json();all=(d.articles||[]).sort((a,b)=>(b.score||0)-(a.score||0));document.getElementById("meta").textContent=d.updated_at?"Последно обновяване: "+new Date(d.updated_at).toLocaleString("bg-BG"):"Все още няма данни";filters();render()}
+ catch(e){document.getElementById("news").innerHTML="<div class='card'>Неуспешно зареждане на data/news.json.</div>"}
+}
+function filters(){document.getElementById("filters").innerHTML=Object.keys(labels).map(k=>"<button class='"+(current===k?"active":"")+"' onclick=\"current='"+k+"';filters();render()\">"+labels[k]+"</button>").join("")}
+function render(){
+ const list=current==="all"?all:all.filter(x=>(x.status||"new")===current),top=list.slice(0,10);
+ document.getElementById("news").innerHTML=top.length?top.map((a,i)=>"<article class='card'><div class='row'><span class='badge'>"+esc(a.source)+"</span><span class='score'>"+(a.score||0)+"/100</span></div><div class='title'>"+(i+1)+". "+esc(a.title)+"</div><div class='status'>"+esc(a.published_at)+" · "+esc((a.topics||[]).join(", "))+"</div><p class='summary'>"+esc(a.summary||"Няма налично резюме.")+"</p><div class='actions'><a href='"+esc(a.url)+"' target='_blank' rel='noopener'><button>Оригинал ↗</button></a><button onclick=\"alert('Редакционният workflow ще бъде активиран в следваща версия.')\">За превод</button><button onclick=\"alert('Отхвърлянето ще бъде свързано с историята в следваща версия.')\">Отхвърли</button></div></article>").join(""):"<p class='muted'>Няма намерени кандидати.</p>"
+}
+renderSources();load();
 </script></body></html>

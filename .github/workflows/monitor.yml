@@ -1,0 +1,21 @@
+name: MS News Monitor
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 5 * * *"
+permissions:
+  contents: write
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Run monitor
+        run: python3 scripts/monitor.py
+      - name: Commit updated data
+        run: |
+          git config user.name "MS News Monitor"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/news.json
+          git diff --cached --quiet || git commit -m "chore: update MS news"
+          git push

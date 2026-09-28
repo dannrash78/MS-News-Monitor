@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T15:39:21.917542+00:00",
+  "updated_at": "2026-09-28T11:35:54.250529+00:00",
   "articles": [
     {
       "id": "f9f3ff375c551236",
@@ -600,6 +600,22 @@
       "kind": "clinical_trial",
       "external_id": "NCT00001975",
       "score": 47,
+      "topics": [
+        "research"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "0bf5869bc6c3a727",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "A Phase IV Study of Safety and Efficacy of Everolimus in Taiwanese Patients With Tuberous Sclerosis Complex Who Have Renal Angiomyolipoma (TSC-AML)",
+      "url": "https://clinicaltrials.gov/study/NCT05252585",
+      "published_at": "2026-09-17T00:00:00+00:00",
+      "summary": "The purpose of this prospective study is to assess the safety and efficacy of everolimus in Taiwanese patients with renal angiomyolipoma (AML) associated with tuberous sclerosis complex (TSC) . Only patients who fulfil the local reimbursement criteria of everolimus for TSC-AML will be included in this study.",
+      "kind": "clinical_trial",
+      "external_id": "NCT05252585",
+      "score": 43,
       "topics": [
         "research"
       ],

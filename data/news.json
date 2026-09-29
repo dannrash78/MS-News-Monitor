@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T11:35:54.250529+00:00",
+  "updated_at": "2026-09-29T11:13:57.306576+00:00",
   "articles": [
     {
       "id": "f9f3ff375c551236",
@@ -16,6 +16,25 @@
         "clinical_trial",
         "research",
         "diagnosis"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "9cad846d4e1d6073",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "A Study to Investigate the Efficacy of Fenebrutinib in Relapsing Multiple Sclerosis (RMS)",
+      "url": "https://clinicaltrials.gov/study/NCT05119569",
+      "published_at": "2026-09-25T00:00:00+00:00",
+      "summary": "This is a study evaluating the effect of fenebrutinib on brain magnetic resonance imaging (MRI) in participants with RMS. The safety and pharmacokinetics of fenebrutinib will also be evaluated. Participants will be randomized to receive either fenebrutinib or placebo. This study consists of two parts: Double-blind treatment (DBT) phase and an optional Open-label extension (OLE) phase.",
+      "kind": "clinical_trial",
+      "external_id": "NCT05119569",
+      "score": 100,
+      "topics": [
+        "clinical_trial",
+        "treatment",
+        "regulatory",
+        "research"
       ],
       "status": "new"
     },
@@ -57,6 +76,81 @@
       "status": "new"
     },
     {
+      "id": "7721f5a922b15045",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "The Effects of High-Intensity Interval Training on Gait, Balance, and Cognitive Functions in Individuals With Multiple Sclerosis",
+      "url": "https://clinicaltrials.gov/study/NCT07578740",
+      "published_at": "2026-09-23T00:00:00+00:00",
+      "summary": "This study aims to comparatively investigate the effects of low-volume High-Intensity Interval Training (HIIT) versus Moderate-Intensity Continuous Training (MICT) on gait, balance, cognitive functions, and neurovascular biomarkers (BDNF, VEGF) in individuals with Multiple Sclerosis (MS). This randomized controlled trial will be conducted at Hacettepe University, Faculty of Physical Therapy and Rehabilitation.",
+      "kind": "clinical_trial",
+      "external_id": "NCT07578740",
+      "score": 100,
+      "topics": [
+        "clinical_trial",
+        "treatment",
+        "research",
+        "diagnosis",
+        "rehabilitation"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "cadbd0f30656b8c9",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "Fatigue Alleviation Through Neuromodulating Therapy in Multiple Sclerosis",
+      "url": "https://clinicaltrials.gov/study/NCT06569550",
+      "published_at": "2026-09-22T00:00:00+00:00",
+      "summary": "The goal of this clinical trial is to learn if repetitive Transcranial Magnetic Stimulation (rTMS) of the left premotor cortex can lessen fatigue in patients with Multiple Sclerosis, and if this is a feasible intervention. It will also give further information on fatigue in Multiple Sclerosis. The main questions it aims to answer is:\n\n* Does premotor rTMS decrease fatigue symptoms in patients with Multiple Sclerosis?\n* Is the change in fatigue reflected in an altered balance between brain excitation and inhibition in the targeted premotor cortex?\n\nResearchers will compare real rTMS with sham rTMS (which does not stimulate with a magnetic field), to see if real rTMS works to alleviate fatigue.\n\nParticipants will:\n\n* Receive real or sham rTMS for 30 minutes, 5 days in a row\n* Visit the clinic before and 6 days after for baseline and follow-up\n* Fill out on-line questionnaires 1 day and 4 weeks after the end of intervention\n* Undergo a total of 3 brain scans (Magnetic Resonance Imaging at ultra-high field), at baseline, end of intervention, and follow-up\n* Undergo lab neurophysiological measurements before and after the first intervention session\n* Keep a fatigue diary and wear an activity tracker in the period before and after the intervention",
+      "kind": "clinical_trial",
+      "external_id": "NCT06569550",
+      "score": 100,
+      "topics": [
+        "clinical_trial",
+        "treatment",
+        "research",
+        "symptoms"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "8143ccdff063e595",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "A Study of Orelabrutinib in Patients With Primary Progressive Multiple Sclerosis",
+      "url": "https://clinicaltrials.gov/study/NCT07067463",
+      "published_at": "2026-09-22T00:00:00+00:00",
+      "summary": "Orelabrutinib is a CNS-penetrable BTK inhibitor. This is a phase 3, randomized, double-blind, parallel-group, multicenter study to evaluate the efficacy and safety of orelabrutinib compared with placebo in patients with PPMS. Patients will be treated for approximately 30 to 60 months, with a minimum treatment duration of 12 months. The study will enroll approximately 705 subjects in a 2:1 randomization (orelabrutinib: placebo), globally.",
+      "kind": "clinical_trial",
+      "external_id": "NCT07067463",
+      "score": 100,
+      "topics": [
+        "clinical_trial",
+        "treatment",
+        "research"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "acfda72b3a8eebbc",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "A Study to Evaluate the Preliminary Efficacy and Safety of Terfenadine in Patients With Relapsing-Remitting Multiple Sclerosis",
+      "url": "https://clinicaltrials.gov/study/NCT07827716",
+      "published_at": "2026-09-18T00:00:00+00:00",
+      "summary": "The goal of this clinical trial is to evaluate the safety and tolerability of terfenadine when added to standard first-line disease-modifying therapy in adults with multiple sclerosis. The study will also explore whether adding terfenadine may help improve disease-related outcomes.\n\nResearchers will compare participants who receive terfenadine plus standard first-line disease-modifying therapy with participants who receive standard first-line disease-modifying therapy alone.\n\nParticipants will:\n\nBe randomly assigned to receive either terfenadine plus standard first-line disease-modifying therapy or standard first-line disease-modifying therapy alone.\n\nTake terfenadine 60 mg once daily at bedtime for 1 month if assigned to the terfenadine group.\n\nAttend study visits during screening, treatment, and follow-up over 12 months. Have physical examinations, vital sign checks, laboratory tests, electrocardiograms, imaging assessments, neurological evaluations, and collection of blood, stool, and cerebrospinal fluid samples at scheduled visits.",
+      "kind": "clinical_trial",
+      "external_id": "NCT07827716",
+      "score": 100,
+      "topics": [
+        "clinical_trial",
+        "treatment",
+        "research"
+      ],
+      "status": "new"
+    },
+    {
       "id": "17607723e6fa7ce6",
       "source_id": "clinicaltrials-ms",
       "source": "ClinicalTrials.gov – Multiple Sclerosis",
@@ -73,6 +167,44 @@
         "research",
         "symptoms",
         "quality_of_life"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "0ea0e0bfcc4821a6",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "A Study to Evaluate the Efficacy and Safety of Fenebrutinib Compared With Ocrelizumab in Adult Participants With Primary Progressive Multiple Sclerosis",
+      "url": "https://clinicaltrials.gov/study/NCT04544449",
+      "published_at": "2026-09-17T00:00:00+00:00",
+      "summary": "A study to evaluate the efficacy and safety of fenebrutinib on disability progression in adult participants with Primary Progressive Multiple Sclerosis (PPMS). All eligible participants will be randomized 1:1 to either daily oral fenebrutinib (and placebo) or intravenous (IV) ocrelizumab (and placebo) in a blinded fashion through an interactive voice or web-based response system (IxRS). 985 participants were enrolled and recruited globally. Participants who discontinue study medication early or discontinue from the study will not be replaced. The Open-Label Extension (OLE) phase is contingent on a positive benefit-risk result in the Primary Analysis of the study.",
+      "kind": "clinical_trial",
+      "external_id": "NCT04544449",
+      "score": 100,
+      "topics": [
+        "clinical_trial",
+        "treatment",
+        "regulatory",
+        "research"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "62ef64be7d78f2ba",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "Best Available Therapy Versus Autologous Hematopoietic Stem Cell Transplant for Multiple Sclerosis (BEAT-MS)",
+      "url": "https://clinicaltrials.gov/study/NCT04047628",
+      "published_at": "2026-09-16T00:00:00+00:00",
+      "summary": "This is a multi-center prospective rater-masked (blinded) randomized controlled trial of 156 participants, comparing the treatment strategy of Autologous Hematopoietic Stem Cell Transplantation (AHSCT) to the treatment strategy of Best Available Therapy (BAT) for treatment-resistant relapsing multiple sclerosis (MS). Participants will be randomized at a 1 to 1 (1:1) ratio.\n\nAll participants will be followed for 72 months after randomization (Day 0, Visit 0).",
+      "kind": "clinical_trial",
+      "external_id": "NCT04047628",
+      "score": 100,
+      "topics": [
+        "clinical_trial",
+        "treatment",
+        "regulatory",
+        "research"
       ],
       "status": "new"
     },
@@ -112,6 +244,62 @@
         "rehabilitation",
         "symptoms",
         "quality_of_life"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "f73021ccf778a19e",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "The Effects of Internet-Based and Supervised Exercise Programs in People With Multiple Sclerosis",
+      "url": "https://clinicaltrials.gov/study/NCT06210581",
+      "published_at": "2026-09-15T00:00:00+00:00",
+      "summary": "The main aim of this study is resarch and compare the effects of supervised exercise programs and internet-based exercise programs, which have started to benefit from their effects in recent years, known for not requiring conditions such as transportation distance, cost and time, on motor disorders and quality of life in people with multiple sclerosis (MS). This study conducting for develop a new perspective on conventional physiotherapy and rehabilitation practices. Our study will be performed in people with MS with a high EDSS score, is seen as an important contribution for the literature.",
+      "kind": "clinical_trial",
+      "external_id": "NCT06210581",
+      "score": 100,
+      "topics": [
+        "treatment",
+        "research",
+        "rehabilitation",
+        "quality_of_life"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "7a4e0543bad4bba8",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "A Phase 2, Multicenter, Randomized, Double-blind, Placebo-controlled Study to Evaluate the Efficacy, Safety, and Tolerability of TAK-935 (OV935) as an Adjunctive Therapy in Pediatric Participants With Developmental and/or Epileptic Encephalopathies",
+      "url": "https://clinicaltrials.gov/study/NCT03650452",
+      "published_at": "2026-09-14T00:00:00+00:00",
+      "summary": "The purpose of this study is to investigate the effect on the frequency of all seizures (convulsive and drop) in participants treated with TAK-935 compared to placebo.",
+      "kind": "clinical_trial",
+      "external_id": "NCT03650452",
+      "score": 100,
+      "topics": [
+        "clinical_trial",
+        "treatment",
+        "research"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "44dfbb4dcf06c5c2",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "First in Human (FIH) Study of ALN-SOD in Adult Participants With Amyotrophic Lateral Sclerosis Associated With Mutation in the SOD1 Gene (SOD1-ALS)",
+      "url": "https://clinicaltrials.gov/study/NCT06351592",
+      "published_at": "2026-09-11T00:00:00+00:00",
+      "summary": "This study is researching an experimental drug called ALN-SOD (called \"study drug\"). This study is focused on people with Amyotrophic Lateral Sclerosis (ALS) caused by a change in a gene called the Superoxide Dismutase-1 (SOD1) gene. This type of ALS is known as \"SOD1-ALS\". This is the first time that ALN-SOD will be given to people.\n\nThe aim of the study is to see how safe and tolerable the study drug is.\n\nThe study is looking at several other research questions, including:\n\n* The effect the study drug has on specific biomarkers, which are substances in the blood or in the fluid that surrounds the brain and spinal cord, known as Cerebrospinal Fluid (CSF)\n* How much study drug is in the blood and in the CSF, at different times\n* Whether the body makes antibodies against the study drug (which could make the drug less effective or could lead to side effects)\n* What effects the study drug has on ALS symptoms",
+      "kind": "clinical_trial",
+      "external_id": "NCT06351592",
+      "score": 100,
+      "topics": [
+        "treatment",
+        "research",
+        "diagnosis",
+        "symptoms"
       ],
       "status": "new"
     },
@@ -168,6 +356,25 @@
         "clinical_trial",
         "treatment",
         "research"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "57002dba1dc63868",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "A Study of Ocrelizumab Administered Subcutaneously in Participants With Multiple Sclerosis Who Switch From an Approved Anti-CD20 Therapy",
+      "url": "https://clinicaltrials.gov/study/NCT07609719",
+      "published_at": "2026-09-08T00:00:00+00:00",
+      "summary": "The purpose of this study is to assess the imaging biomarkers, patient outcomes, safety, tolerability, and treatment satisfaction of ocrelizumab (OCR) combined with recombinant human hyaluronidase (rHuPH20) administered subcutaneously (SC) in participants with relapsing multiple sclerosis (RMS) or primary progressive multiple sclerosis (PPMS) after switching from another anti-cluster of differentiation 20 (aCD20) therapy approved for RMS (ofatumumab SC, ublituximab-xiiy intravenous \\[IV\\], ocrelizumab IV) or PPMS (ocrelizumab IV).",
+      "kind": "clinical_trial",
+      "external_id": "NCT07609719",
+      "score": 100,
+      "topics": [
+        "treatment",
+        "regulatory",
+        "research",
+        "diagnosis"
       ],
       "status": "new"
     },
@@ -394,7 +601,7 @@
       "source": "ClinicalTrials.gov – Multiple Sclerosis",
       "title": "Non-interventional Study of Subcutaneous Ocrelizumab in Persons With Relapsing-Remitting Multiple Sclerosis",
       "url": "https://clinicaltrials.gov/study/NCT07827586",
-      "published_at": "2026-09-18T00:00:00+00:00",
+      "published_at": "2026-09-28T00:00:00+00:00",
       "summary": "The main purpose of the study is to assess patient-reported satisfaction with subcutaneous (s.c.) ocrelizumab administration in participants with relapsing-remitting multiple sclerosis (RRMS) who are treatment-naive, switching from intravenous (i.v.) ocrelizumab to s.c. ocrelizumab, or switching from a prior disease-modifying therapy (DMT) to s.c. ocrelizumab.",
       "kind": "clinical_trial",
       "external_id": "NCT07827586",
@@ -473,6 +680,40 @@
       "status": "new"
     },
     {
+      "id": "427817a9cab78b65",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "A Study to Evaluate the Safety, Tolerability, and Efficacy of BIIB017 (Peginterferon Beta-1a) in Pediatric Participants for the Treatment of Relapsing-Remitting Multiple Sclerosis",
+      "url": "https://clinicaltrials.gov/study/NCT03958877",
+      "published_at": "2026-09-24T00:00:00+00:00",
+      "summary": "This study will evaluate the safety, tolerability, and descriptive efficacy of BIIB017 in pediatric participants with relapsing-remitting multiple sclerosis (RRMS) and to assess the pharmacokinetics (PK) of BIIB017 in pediatric participants with RRMS in Part 1. In Part 2, the study will evaluate the long-term safety of BIIB017 and further describe safety and the long-term multiple sclerosis (MS) outcomes after BIIB017 treatment in participants who completed the study treatment at Week 96 in Part 1 of the study.",
+      "kind": "clinical_trial",
+      "external_id": "NCT03958877",
+      "score": 75,
+      "topics": [
+        "treatment",
+        "research"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "9469e73414b30703",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "A Study to Evaluate the Pharmacokinetics, Pharmacodynamics, Safety, Radiological and Clinical Effects of Subcutaneous Ublituximab in Participants With Relapsing Multiple Sclerosis (RMS)",
+      "url": "https://clinicaltrials.gov/study/NCT07211633",
+      "published_at": "2026-09-21T00:00:00+00:00",
+      "summary": "The purpose of this study is to assess the pharmacokinetics of ublituximab when administered subcutaneously (SC) compared to intravenous (IV) administration in participants with RMS.",
+      "kind": "clinical_trial",
+      "external_id": "NCT07211633",
+      "score": 75,
+      "topics": [
+        "treatment",
+        "research"
+      ],
+      "status": "new"
+    },
+    {
       "id": "ea3c96275a6e931b",
       "source_id": "clinicaltrials-ms",
       "source": "ClinicalTrials.gov – Multiple Sclerosis",
@@ -482,6 +723,23 @@
       "summary": "Background:\n\n\\- Contrast agents help things show up better on magnetic resonance imaging (MRI) scans. Researchers want to see if the drug ferumoxytol is a good contrast agent. They want to determine that it does not cause prolonged MRI changes in the brain and to see if it helps identify inflammation in multiple sclerosis\n\nObjective:\n\n\\- To learn how ferumoxytol can be used to image inflammation in multiple sclerosis (MS).\n\nEligibility:\n\n* Adults ages 18 70 who have MS.\n* Healthy volunteers ages 18 70.\n\nDesign:\n\n* Participants will have 5 clinic visits over 6 months.\n* Participants will be screened with a medical history, neurological exam, and blood draw. Full clinical measures will be obtained.\n* Participants will have a 7 tesla brain MRI scan that may include gadolinium contrast agent. The MRI is a metal cylinder in a strong magnetic field. The participant will lie on a table that can slide in and out of the cylinder.\n* During visit 2, ferumoxytol with be given through a catheter (a thin plastic tube) that is inserted with a needle into a vessel in the arm.\n\n\\<TAB\\>- Participants will then have a 7 tesla MRI scan of the brain..\n\n* At each of the next 3 clinic visits, participants will have a 7 tesla brain MRI and have blood drawn. The MRIs may include gadolinium.\n* Participants may have a full neurologic exam at these visits. At the final visit, full clinical measures will be obtained.\n* Participants may have more MRI scans if a 6-month MRI shows ferumoxytol still in the brain.",
       "kind": "clinical_trial",
       "external_id": "NCT02511028",
+      "score": 75,
+      "topics": [
+        "treatment",
+        "research"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "10c66ebacf99ab09",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "Web Intervention for Parents of Youth With Genetic Syndromes (WINGS)",
+      "url": "https://clinicaltrials.gov/study/NCT06139172",
+      "published_at": "2026-09-18T00:00:00+00:00",
+      "summary": "The purpose of this study is to evaluate the effectiveness of an adapted, telehealth functional behavioral therapy (FBTsIDD) specifically focused on promoting appropriate communication and behavioral strategies in individuals with syndromic intellectual and developmental disorders.\n\nParticipants will be asked to complete virtual study assessments at intake and then on a monthly basis for the duration of 3-6 months. In addition, participants will attend weekly or biweekly virtual intervention visits with a study therapist.",
+      "kind": "clinical_trial",
+      "external_id": "NCT06139172",
       "score": 75,
       "topics": [
         "treatment",
@@ -542,6 +800,40 @@
       "status": "new"
     },
     {
+      "id": "454066392f51978c",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "TWEAK, a New Biomarker for Predicting Inflammatory Relapses in Multiple Sclerosis",
+      "url": "https://clinicaltrials.gov/study/NCT03974997",
+      "published_at": "2026-09-23T00:00:00+00:00",
+      "summary": "A significant variation in the serum concentration of the circulating cytokine TWEAK is associated with the onset of an inflammatory attack of MS. Study the concentration variations of the serum soluble form of cytokine TWEAK during the first year of MS and to analyze their correlation with the occurrence of an inflammatory disease outbreak.",
+      "kind": "clinical_trial",
+      "external_id": "NCT03974997",
+      "score": 69,
+      "topics": [
+        "research",
+        "diagnosis"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "7d3c8c5175ebfe1a",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "A Study to Evaluate the Efficacy, Safety and Tolerability of BMS-986368 in Participants With Multiple Sclerosis Spasticity",
+      "url": "https://clinicaltrials.gov/study/NCT06782490",
+      "published_at": "2026-09-09T00:00:00+00:00",
+      "summary": "The purpose of this study is to evaluate the efficacy, safety, and tolerability of BMS-986368 in participants with Multiple Sclerosis Spasticity",
+      "kind": "clinical_trial",
+      "external_id": "NCT06782490",
+      "score": 62,
+      "topics": [
+        "research",
+        "symptoms"
+      ],
+      "status": "new"
+    },
+    {
       "id": "8d766e2171aec190",
       "source_id": "ms-news-today",
       "source": "Multiple Sclerosis News Today",
@@ -554,6 +846,23 @@
       "topics": [
         "research",
         "symptoms"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "f45e3ad2cd178536",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "Comparing the Safety and Benefit of Natalizumab (Tysabri®) At-home Infusion vs At-hospital Infusion in Multiple Sclerosis",
+      "url": "https://clinicaltrials.gov/study/NCT04777539",
+      "published_at": "2026-09-02T00:00:00+00:00",
+      "summary": "At-home use of Natalizumab in multiple sclerosis (MS) patients has been temporarily granted by French security agency of medicines and Health products (ANSM). The main objective of the study is to compare the safety of natalizumab administration at home vs at hospital based on retrospective and prospective data collection. Quality of life, patient perception of at-home natalizumab administration are also evaluated as secondary objectives as well as medico-economic assessment of the method.\n\nData will be collected for a 12-month retrospective period and a 12-month prospective period.",
+      "kind": "clinical_trial",
+      "external_id": "NCT04777539",
+      "score": 59,
+      "topics": [
+        "research",
+        "quality_of_life"
       ],
       "status": "new"
     },
@@ -606,6 +915,22 @@
       "status": "new"
     },
     {
+      "id": "e7aac88ee9a77546",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "A Study of LY3541860 in Adult Participants With Relapsing Multiple Sclerosis",
+      "url": "https://clinicaltrials.gov/study/NCT06220669",
+      "published_at": "2026-09-23T00:00:00+00:00",
+      "summary": "The main purpose of this study is to evaluate the safety and efficacy of LY3541860 in adult participants with multiple sclerosis that gets worse and gets better. The study will last about 9 months with additional 6 months follow-up.",
+      "kind": "clinical_trial",
+      "external_id": "NCT06220669",
+      "score": 43,
+      "topics": [
+        "research"
+      ],
+      "status": "new"
+    },
+    {
       "id": "0bf5869bc6c3a727",
       "source_id": "clinicaltrials-ms",
       "source": "ClinicalTrials.gov – Multiple Sclerosis",
@@ -628,7 +953,22 @@
       "title": "Common herpesviruses have differing roles in MS, large study says",
       "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/09/23/common-herpesviruses-differing-roles-ms-large-study-says/",
       "published_at": "Thu, 24 Sep 2026 12:00:59 +0000",
-      "summary": "<a href=\"https://multiplesclerosisnewstoday.com/news-posts/2026/09/23/common-herpesviruses-differing-roles-ms-large-study-says/\" title=\"Common herpesviruses have differing roles in MS, large study says\" rel=\"nofollow\"><img width=\"800\" height=\"533\" src=\"https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/02/iStock-2170318504-800x533.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"An illustration of the Epstein-Barr virus.\" style=\"display: block; margin: auto; margin-bottom: 15px;max-width: 100%;\" link_thumbnail=\"1\" decoding=\"async\" srcset=\"https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/02/iStock-2170318504-800x533.jpg 800w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/02/iStock-2170318504-380x253.jpg 380w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/02/iStock-2170318504-768x512.jpg 768w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/02/iStock-2170318504-1536x1024.jpg 1536w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/02/iStock-2170318504.jpg 1800w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-wp-pid=\"159224\" /></a><p>Prior infection with the cytomegalovirus (CMV), a type of herpesvirus, was associated with lower odds of developing multiple sclerosis (MS), while herpes simplex virus (HSV) infection showed no significant association with the disease. That’s according to a study involving data from more than 320,000 individuals in Israel that also confirmed the known link between a [&#8230;]</p> <p>The post <a href=\"https://multiplesclerosisnewstoday.com/news-posts/2026/09/23/common-herpesviruses-differing-roles-ms-large-study-says/\">Common herpesviruses have differing roles in MS, large study says</a> appeared first on <a href=\"https://multiplesclerosisnewstoday.com\">Multiple Sclerosis News Today</a>.</p>",
+      "summary": "<a href=\"https://multiplesclerosisnewstoday.com/news-posts/2026/09/23/common-herpesviruses-differing-roles-ms-large-study-says/\" title=\"Common herpesviruses have differing roles in MS, large study says\" rel=\"nofollow\"><img width=\"800\" height=\"533\" src=\"https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/02/iStock-2170318504-800x533.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"An illustration of the Epstein-Barr virus.\" style=\"display: block; margin: auto; margin-bottom: 15px;max-width: 100%;\" link_thumbnail=\"1\" decoding=\"async\" loading=\"lazy\" srcset=\"https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/02/iStock-2170318504-800x533.jpg 800w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/02/iStock-2170318504-380x253.jpg 380w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/02/iStock-2170318504-768x512.jpg 768w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/02/iStock-2170318504-1536x1024.jpg 1536w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/02/iStock-2170318504.jpg 1800w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-wp-pid=\"159224\" /></a><p>Prior infection with the cytomegalovirus (CMV), a type of herpesvirus, was associated with lower odds of developing multiple sclerosis (MS), while herpes simplex virus (HSV) infection showed no significant association with the disease. That’s according to a study involving data from more than 320,000 individuals in Israel that also confirmed the known link between a [&#8230;]</p> <p>The post <a href=\"https://multiplesclerosisnewstoday.com/news-posts/2026/09/23/common-herpesviruses-differing-roles-ms-large-study-says/\">Common herpesviruses have differing roles in MS, large study says</a> appeared first on <a href=\"https://multiplesclerosisnewstoday.com\">Multiple Sclerosis News Today</a>.</p>",
+      "kind": "news",
+      "score": 37,
+      "topics": [
+        "research"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "fd529fb39a0c8def",
+      "source_id": "ms-news-today",
+      "source": "Multiple Sclerosis News Today",
+      "title": "Nerve damage marker linked to lower daily activity in progressive MS",
+      "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/09/28/nerve-damage-marker-tied-lower-daily-activity-progressive-ms/",
+      "published_at": "Mon, 28 Sep 2026 13:30:35 +0000",
+      "summary": "<a href=\"https://multiplesclerosisnewstoday.com/news-posts/2026/09/28/nerve-damage-marker-tied-lower-daily-activity-progressive-ms/\" title=\"Nerve damage marker linked to lower daily activity in progressive MS\" rel=\"nofollow\"><img width=\"800\" height=\"533\" src=\"https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/09/bllod-test-800x533.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"A blue-gloved hand holds a test tube filled with blood.\" style=\"display: block; margin: auto; margin-bottom: 15px;max-width: 100%;\" link_thumbnail=\"1\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/09/bllod-test-800x533.jpg 800w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/09/bllod-test-380x253.jpg 380w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/09/bllod-test-768x512.jpg 768w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/09/bllod-test-1536x1024.jpg 1536w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/09/bllod-test.jpg 1800w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-wp-pid=\"165625\" /></a><p>Higher blood levels of neurofilament light chain (NfL), a well-established marker of nerve damage, are associated with lower daily activity in people with progressive forms of multiple sclerosis (MS), a study found. The study also demonstrated that patients in whom NfL levels increased more rapidly over time tended to experience greater declines in daily activity, [&#8230;]</p> <p>The post <a href=\"https://multiplesclerosisnewstoday.com/news-posts/2026/09/28/nerve-damage-marker-tied-lower-daily-activity-progressive-ms/\">Nerve damage marker linked to lower daily activity in progressive MS</a> appeared first on <a href=\"https://multiplesclerosisnewstoday.com\">Multiple Sclerosis News Today</a>.</p>",
       "kind": "news",
       "score": 37,
       "topics": [
@@ -658,7 +998,7 @@
       "title": "Guest Voice: Redefining strength with relapsing-remitting MS",
       "url": "https://multiplesclerosisnewstoday.com/guest-voice/2026/09/25/guest-voice-redefining-strength-relapsing-remitting-ms/",
       "published_at": "Fri, 25 Sep 2026 14:00:18 +0000",
-      "summary": "<a href=\"https://multiplesclerosisnewstoday.com/guest-voice/2026/09/25/guest-voice-redefining-strength-relapsing-remitting-ms/\" title=\"Guest Voice: Redefining strength with relapsing-remitting MS\" rel=\"nofollow\"><img width=\"800\" height=\"300\" src=\"https://multiplesclerosisnewstoday.com/wp-content/uploads/2025/11/IMG_1873-800x300.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin: auto; margin-bottom: 15px;max-width: 100%;\" link_thumbnail=\"1\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://multiplesclerosisnewstoday.com/wp-content/uploads/2025/11/IMG_1873-800x300.png 800w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2025/11/IMG_1873-380x142.png 380w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2025/11/IMG_1873-768x288.png 768w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2025/11/IMG_1873-1536x575.png 1536w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2025/11/IMG_1873.png 1800w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-wp-pid=\"155888\" /></a><p>Life always comes with difficulties, and throwing a debilitating chronic illness on top of everything else is never easy. I believe my multiple sclerosis (MS) symptoms began in early July 2008. I was dragging my left leg and foot, so I had to borrow my grandmother&#8217;s walker and take a month off work. Then, things [&#8230;]</p> <p>The post <a href=\"https://multiplesclerosisnewstoday.com/guest-voice/2026/09/25/guest-voice-redefining-strength-relapsing-remitting-ms/\">Guest Voice: Redefining strength with relapsing-remitting MS</a> appeared first on <a href=\"https://multiplesclerosisnewstoday.com\">Multiple Sclerosis News Today</a>.</p>",
+      "summary": "<a href=\"https://multiplesclerosisnewstoday.com/guest-voice/2026/09/25/guest-voice-redefining-strength-relapsing-remitting-ms/\" title=\"Guest Voice: Redefining strength with relapsing-remitting MS\" rel=\"nofollow\"><img width=\"800\" height=\"300\" src=\"https://multiplesclerosisnewstoday.com/wp-content/uploads/2025/11/IMG_1873-800x300.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin: auto; margin-bottom: 15px;max-width: 100%;\" link_thumbnail=\"1\" decoding=\"async\" srcset=\"https://multiplesclerosisnewstoday.com/wp-content/uploads/2025/11/IMG_1873-800x300.png 800w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2025/11/IMG_1873-380x142.png 380w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2025/11/IMG_1873-768x288.png 768w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2025/11/IMG_1873-1536x575.png 1536w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2025/11/IMG_1873.png 1800w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-wp-pid=\"155888\" /></a><p>Life always comes with difficulties, and throwing a debilitating chronic illness on top of everything else is never easy. I believe my multiple sclerosis (MS) symptoms began in early July 2008. I was dragging my left leg and foot, so I had to borrow my grandmother&#8217;s walker and take a month off work. Then, things [&#8230;]</p> <p>The post <a href=\"https://multiplesclerosisnewstoday.com/guest-voice/2026/09/25/guest-voice-redefining-strength-relapsing-remitting-ms/\">Guest Voice: Redefining strength with relapsing-remitting MS</a> appeared first on <a href=\"https://multiplesclerosisnewstoday.com\">Multiple Sclerosis News Today</a>.</p>",
       "kind": "news",
       "score": 28,
       "topics": [

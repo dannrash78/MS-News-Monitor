@@ -1,6 +1,42 @@
 {
-  "updated_at": "2026-09-29T11:13:57.306576+00:00",
+  "updated_at": "2026-09-30T11:02:29.134462+00:00",
   "articles": [
+    {
+      "id": "320df194a5b2aa66",
+      "source_id": "ms-news-today",
+      "source": "Multiple Sclerosis News Today",
+      "title": "Digital lifestyle program linked to some lasting benefits in MS patients",
+      "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/09/29/digital-lifestyle-program-linked-lasting-benefits-ms-patients/",
+      "published_at": "Tue, 29 Sep 2026 17:30:26 +0000",
+      "summary": "<a href=\"https://multiplesclerosisnewstoday.com/news-posts/2026/09/29/digital-lifestyle-program-linked-lasting-benefits-ms-patients/\" title=\"Digital lifestyle program linked to some lasting benefits in MS patients\" rel=\"nofollow\"><img width=\"800\" height=\"533\" src=\"https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/09/iStock-626362448-800x533.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Healthy food, including a salad and fresh fruits, and exercise equipment including running shoes, a smartphone, and dumbbells, are arranged on wood background.\" style=\"display: block; margin: auto; margin-bottom: 15px;max-width: 100%;\" link_thumbnail=\"1\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/09/iStock-626362448-800x533.jpg 800w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/09/iStock-626362448-380x253.jpg 380w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/09/iStock-626362448-768x512.jpg 768w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/09/iStock-626362448-1536x1024.jpg 1536w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/09/iStock-626362448.jpg 1800w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-wp-pid=\"166045\" /></a><p>A digital lifestyle program promoting a balanced diet, regular physical activity, better sleep, and stress management was associated with improvements in several measures and behaviors reported by people with multiple sclerosis (MS), a study found. Most gains emerged during the intensive three-month program. Over the next 21 months, improvements slightly faded, but most outcomes remained [&#8230;]</p> <p>The post <a href=\"https://multiplesclerosisnewstoday.com/news-posts/2026/09/29/digital-lifestyle-program-linked-lasting-benefits-ms-patients/\">Digital lifestyle program linked to some lasting benefits in MS patients</a> appeared first on <a href=\"https://multiplesclerosisnewstoday.com\">Multiple Sclerosis News Today</a>.</p>",
+      "kind": "news",
+      "score": 100,
+      "topics": [
+        "regulatory",
+        "research",
+        "rehabilitation",
+        "nutrition"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "06b18d29d18dbd63",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "Phase 2 Basket Trial of Nab-sirolimus in Patients With Malignant Solid Tumors With Pathogenic Alterations in TSC1/TSC2 Genes (PRECISION 1)",
+      "url": "https://clinicaltrials.gov/study/NCT05103358",
+      "published_at": "2026-09-28T00:00:00+00:00",
+      "summary": "A Phase 2 multi-center open-label basket trial of nab-sirolimus for adult and adolescent patients with malignant solid tumors harboring pathogenic inactivating alterations in TSC1 or TSC2 genes",
+      "kind": "clinical_trial",
+      "external_id": "NCT05103358",
+      "score": 100,
+      "topics": [
+        "clinical_trial",
+        "regulatory",
+        "research"
+      ],
+      "status": "new"
+    },
     {
       "id": "f9f3ff375c551236",
       "source_id": "clinicaltrials-ms",
@@ -133,6 +169,44 @@
       "status": "new"
     },
     {
+      "id": "a999f5e330e95fc5",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "Treatment of Participants With Primary or Secondary Progressive Multiple Sclerosis",
+      "url": "https://clinicaltrials.gov/study/NCT07477639",
+      "published_at": "2026-09-21T00:00:00+00:00",
+      "summary": "The goal of this clinical trial is to treat male and female participants with two types of Multiple Sclerosis (MS) called primary progressive or secondary progressive MS.\n\nThe main questions the trial aims to answer are the following:\n\n* Is TRX319 safe when administered to patients with progressive forms of MS?\n* At what dose does TRX319 work the best to treat participants with primary and or secondary progressive MS?\n* Is pre-conditioning (with Bendamustine) needed to allow TRX319 to better treat participants with primary and/or secondary progressive MS?\n\nParticipants will be asked to be on study for up 1 year and may receive up to 3 total administrations of TRX319. While on study, participants will have blood tests and other assessments (MRI scans and lumbar punctures) done to understand the safety of TRX319 and how it may benefit their multiple sclerosis.",
+      "kind": "clinical_trial",
+      "external_id": "NCT07477639",
+      "score": 100,
+      "topics": [
+        "clinical_trial",
+        "treatment",
+        "regulatory",
+        "research"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "00329db2923c3633",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "A Study to Evaluate the Efficacy and Safety of Fenebrutinib Compared With Teriflunomide in Relapsing Multiple Sclerosis (RMS)",
+      "url": "https://clinicaltrials.gov/study/NCT04586010",
+      "published_at": "2026-09-21T00:00:00+00:00",
+      "summary": "A study to evaluate the efficacy and safety of fenebrutinib on disability progression and relapse rate in adult participants with RMS. Eligible participants will be randomized in a 1:1 ratio to receive either fenebrutinib or teriflunomide. At the end of the double-blind treatment (DBT) phase (after disclosure of the DBT results), the Sponsor will determine whether or not to initiate the open-label extension (OLE) phase of the study.",
+      "kind": "clinical_trial",
+      "external_id": "NCT04586010",
+      "score": 100,
+      "topics": [
+        "clinical_trial",
+        "treatment",
+        "regulatory",
+        "research"
+      ],
+      "status": "new"
+    },
+    {
       "id": "acfda72b3a8eebbc",
       "source_id": "clinicaltrials-ms",
       "source": "ClinicalTrials.gov – Multiple Sclerosis",
@@ -190,6 +264,24 @@
       "status": "new"
     },
     {
+      "id": "76a0f550c427670e",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "Monitoring Intensity During Balance Training in Persons With Multiple Sclerosis",
+      "url": "https://clinicaltrials.gov/study/NCT07805850",
+      "published_at": "2026-09-17T00:00:00+00:00",
+      "summary": "Balance training is recommended to improve gait stability and mobility. However, there are currently no clearly defined methods for controlling the intensity (challenge) of balance training. This research project aims to determine whether balance training for individuals with multiple sclerosis (MS), individually tailored to the level of difficulty and exertion, is feasible and possible within an inpatient rehabilitation setting. Participants will be randomly assigned to one of two groups: either they will complete group training focusing on strength, endurance, and balance in addition to their regular therapy program, or they will receive individually tailored balance training. Both groups will undergo an initial assessment followed by seven training sessions, each lasting approximately 45-60 minutes. Before discharge, the initial assessments will be repeated. These assessments include completing questionnaires, performing gait tests, balance tests, and a short cognitive test. Interviews will also be conducted with patients and therapists. These are intended to help better assess the feasibility of the training and to gain more insight into the experiences with the training.",
+      "kind": "clinical_trial",
+      "external_id": "NCT07805850",
+      "score": 100,
+      "topics": [
+        "treatment",
+        "research",
+        "rehabilitation"
+      ],
+      "status": "new"
+    },
+    {
       "id": "62ef64be7d78f2ba",
       "source_id": "clinicaltrials-ms",
       "source": "ClinicalTrials.gov – Multiple Sclerosis",
@@ -205,6 +297,25 @@
         "treatment",
         "regulatory",
         "research"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "89d27c72508b9047",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "Magnetic Resonance Imaging (MRI) to Evaluate Activity of Multiple Sclerosis (MS)",
+      "url": "https://clinicaltrials.gov/study/NCT00001248",
+      "published_at": "2026-09-16T00:00:00+00:00",
+      "summary": "Studies performed under 89-N-0045 are designed to examine the natural history of multiple sclerosis (MS) using MRI and immunological measures. In addition to studying the natural history of untreated patients, the natural history of patients receiving approved disease-modifying therapies of MS will be examined. In both cohorts of patients levels of disease activity on MRI will be compared with immunological characteristics in order to help identify disease mechanism. Patients with either definite MS (based either on clinical or combined clinical and MRI criteria) or with an initial presentation of neurological dysfunction consistent with MS will be studied longitudinally by MRI. Disease activity on MRI will be assessed using several MRI measures of disease activity including the number of contrast enhancing lesions, the overall burden of disease, brain atrophy and measures to assess axonal damage. Patients will be assessed clinically and correlations between immunological and genetic factors and disease activity as seen clinically or by MRI will be studied.\n\nA second cohort of patients starting the use of approved therapy will also be examined. Patients referred to NIH prior to beginning approved therapy will be assessed with a series of three monthly MRIs to determine the level of pretreatment disease activity. After beginning approved therapy under the direction of their private physician, patients will be followed similarly to the natural history cohort. Immunological and genetic findings will be accessed before and during therapy in order to help establish the mechanisms of action of the therapies and to identify mechanisms accounting for either a response or lack of response to therapy. Part of the collected samples willl be cryopreserved to provide respository for further studies focusing on detection of biomarkers indicative of disease state, disease stage or repsonse to therapies.\n\nAdditionally, a cohort of normal volunteers will be studied. The studies in the normal volunteers will be used to establish the most appropriate imaging sequences for studying normal white matter in MS patients using magnetization transfer (MT) imaging sequences for studying normal white matter in MS patients using magnetization transfer (MT) imaging and to provide normative immunological measures.",
+      "kind": "clinical_trial",
+      "external_id": "NCT00001248",
+      "score": 100,
+      "topics": [
+        "treatment",
+        "regulatory",
+        "research",
+        "diagnosis"
       ],
       "status": "new"
     },
@@ -267,6 +378,44 @@
       "status": "new"
     },
     {
+      "id": "ea460db0ac63af4b",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "Treatment of Cognitive Deficits in Multiple Sclerosis With High-Definition Transcranial Direct Current Stimulation",
+      "url": "https://clinicaltrials.gov/study/NCT05958381",
+      "published_at": "2026-09-15T00:00:00+00:00",
+      "summary": "The purpose of the study is to test whether low level electric stimulation, called transcranial Direct Current Stimulation (tDCS), on the part of the brain (i.e., presupplementary motor area) thought to aid in memory will improve verbal retrieval in multiple sclerosis patients. The primary outcome measures are neuropsychological assessments of verbal retrieval, and the secondary measures are neuropsychological assessments of other cognitive abilities and electroencephalography (EEG) measures. Additionally, the study will examine the degree to which baseline assessments of cognition and concussion history predict responses to treatment over time, both on assessments administered within the intervention period and at follow-up.",
+      "kind": "clinical_trial",
+      "external_id": "NCT05958381",
+      "score": 100,
+      "topics": [
+        "treatment",
+        "research",
+        "symptoms",
+        "nutrition"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "f8fd070ccc1288c5",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "Cannabis (THC vs. CBD) in Multiple Sclerosis",
+      "url": "https://clinicaltrials.gov/study/NCT06261489",
+      "published_at": "2026-09-15T00:00:00+00:00",
+      "summary": "The goal of this clinical trial is to examine the effect of Cannabis components, THC and CBD, on cognition and bladder symptoms in people with Multiple Sclerosis (MS).\n\nParticipants will complete questionnaires and cognitive tests. They will be randomly assigned to receive either CBD or THC oil and will take the study drug for 15 weeks.",
+      "kind": "clinical_trial",
+      "external_id": "NCT06261489",
+      "score": 100,
+      "topics": [
+        "clinical_trial",
+        "treatment",
+        "research",
+        "symptoms"
+      ],
+      "status": "new"
+    },
+    {
       "id": "7a4e0543bad4bba8",
       "source_id": "clinicaltrials-ms",
       "source": "ClinicalTrials.gov – Multiple Sclerosis",
@@ -320,6 +469,43 @@
         "rehabilitation",
         "symptoms",
         "quality_of_life"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "7bce19fef12b189c",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "Effects of Virtual Reality on Sleep Quality and Mental Well-being",
+      "url": "https://clinicaltrials.gov/study/NCT06074419",
+      "published_at": "2026-09-10T00:00:00+00:00",
+      "summary": "It is known that being in natural environments helps increase a person's well-being. It may not always be easy for individuals with neurological diseases to reach these environments due to their mobility limitations, other symptoms and other diseases. Virtual reality technology offers us unlimited opportunities to create these environments digitally and safely.\n\nIn this research, virtual nature videos will be watched using virtual reality glasses. This process will be done in the experimental group. In the control group, no action will be taken. The scores of the two groups will be compared.\n\nThe purpose of this presentation is to investigate whether virtual reality affects the mental well-being of beginners and the limits of sleep.",
+      "kind": "clinical_trial",
+      "external_id": "NCT06074419",
+      "score": 100,
+      "topics": [
+        "research",
+        "rehabilitation",
+        "symptoms",
+        "quality_of_life"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "a9e314e181912b99",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "A Pharmacokinetics (PK), Pharmacodynamics (PD), Safety and Tolerability Study of Fenebrutinib in Children and Adolescents With Relapsing Multiple Sclerosis (RMS)",
+      "url": "https://clinicaltrials.gov/study/NCT07161258",
+      "published_at": "2026-09-10T00:00:00+00:00",
+      "summary": "This open label, single arm study will evaluate the PK and PD effects of fenebrutinib in children and adolescents with RMS aged between 10 and \\< 18 years.\n\nThis study consists of a Dose Exploration Period and an Optional Extension Period. Eligible participants may choose to continue treatment with fenebrutinib in the optional extension period after completing the dose exploration period.",
+      "kind": "clinical_trial",
+      "external_id": "NCT07161258",
+      "score": 100,
+      "topics": [
+        "treatment",
+        "regulatory",
+        "research"
       ],
       "status": "new"
     },
@@ -398,6 +584,28 @@
       "status": "new"
     },
     {
+      "id": "971204975167f960",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "Early Symptoms in Multiple Sclerosis: an Investigation Using fMRI and Gait Analysis to Develop Personalized Balance Training for People With Low Disability",
+      "url": "https://clinicaltrials.gov/study/NCT07805733",
+      "published_at": "2026-09-04T00:00:00+00:00",
+      "summary": "Background\n\nMany people with Multiple Sclerosis (MS) experience a hidden yet clinically significant symptom: impaired balance or a persistent feeling of instability, even during the early stages of the disease (Martin et al., 2006). Although these individuals may appear to walk normally, they often report feeling unsteady, avoiding crowded environments, or fearing falls. In some cases, however, balance deficits become overt and disabling, depending on the location and extent of lesions within the central nervous system. This heterogeneity complicates both the assessment and treatment of balance disorders in MS and highlights the need for personalized evaluation and rehabilitation strategies (Carpinella et al., 2022).\n\nBecause early balance impairments are often subtle, they tend to be underestimated in clinical practice and may remain untreated for months or even years. This delay can negatively affect confidence, mobility, safety, and overall quality of life. The present project seeks to address this gap by promoting early identification and intervention before substantial disability develops.\n\nProject Objectives\n\nThe objectives of this project are:\n\nTo identify the mechanisms underlying early balance impairment in people with MS.\n\nTo develop and evaluate an early intervention based on Vestibular Physical Therapy (VPT) that specifically targets sensory reweighting and visuo-vestibular integration. The rehabilitation program is designed to improve gaze stability and saccadic velocity, both of which are essential for maintaining postural control and dynamic balance. In addition, functional magnetic resonance imaging (fMRI) will be used to investigate the neurophysiological mechanisms underlying the intervention, providing insight into how the brain adapts to vestibular stimulation.\n\nIf successful, this approach could enable clinicians to detect and treat balance impairments at an earlier stage, using objective and measurable changes in gait and brain function as biomarkers of rehabilitation efficacy.\n\nMethodology\n\nThe study will recruit two groups of participants:\n\nIndividuals diagnosed with Multiple Sclerosis (Thompson et al., 2018; Wallace et al., 2025) with mild disability (Expanded Disability Status Scale, EDSS ≤ 2.5) who report balance complaints.\n\nHealthy volunteers matched for age and sex.\n\nAt baseline (T0), all participants will undergo a comprehensive assessment including:\n\nStructural and functional MRI with vestibular stimulation to investigate the integrity and functional organization of the vestibular network.\n\nInstrumented gait analysis using wearable inertial sensors (Castiglia et al., 2025).\n\nValidated clinical scales and questionnaires assessing objective balance performance, perceived stability, fear of falling, fall risk, and health-related quality of life.\n\nParticipants with MS will then be randomly assigned to one of two groups:\n\nIntervention group: Participants will receive a structured Vestibular Physical Therapy (VPT) program consisting of 12 sessions (three sessions per week). Unlike conventional vestibular rehabilitation, this protocol specifically focuses on sensory reweighting and visuo-vestibular integration to enhance gaze stability, saccadic velocity, and postural control.\n\nControl group: Participants will continue receiving standard clinical care for MS without additional vestibular rehabilitation during the initial study phase.\n\nFollowing completion of the 12-session intervention, all participants will repeat the full assessment battery (T1) to evaluate changes in gait performance, balance, patient-reported outcomes, and brain function.\n\nAfter a 4-week washout period, a crossover design will be implemented, with participants switching to the alternate treatment arm for an additional 12-session period, followed by a final assessment (T2). Participants initially assigned to the control group will not require a washout period before crossing over to the intervention, as they will not have received VPT during the first phase of the study.",
+      "kind": "clinical_trial",
+      "external_id": "NCT07805733",
+      "score": 100,
+      "topics": [
+        "treatment",
+        "regulatory",
+        "research",
+        "diagnosis",
+        "rehabilitation",
+        "symptoms",
+        "quality_of_life"
+      ],
+      "status": "new"
+    },
+    {
       "id": "dbc8ff1df22ac48f",
       "source_id": "clinicaltrials-ms",
       "source": "ClinicalTrials.gov – Multiple Sclerosis",
@@ -452,6 +660,44 @@
         "treatment",
         "regulatory",
         "research"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "681eeaaf50fb3c36",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "Ocrelizumab Discontinuation in Relapsing Multiple Sclerosis",
+      "url": "https://clinicaltrials.gov/study/NCT05285891",
+      "published_at": "2026-09-01T00:00:00+00:00",
+      "summary": "This study is a prospective, multi-center, randomized, double blinded, placebo-controlled study of OCR treatment-discontinuation in patients with early RMS. All eligible participants will be initiated on OCR using the standard approved administration schedule of two 300 mg infusions separated by 14 days (i.e., Days 0 and 14) for a total of 600 mg, followed by 600 mg infusions at Month 6,12, 18, and 24. At Month 24, participants will be randomized (2:1) to one of two Arms with randomized treatment beginning at Month 30: Arm 1: placebo infusions every 6 months; or Arm 2: OCR infusions every 6 months. The treatment period will be for a total of 48 months.",
+      "kind": "clinical_trial",
+      "external_id": "NCT05285891",
+      "score": 100,
+      "topics": [
+        "clinical_trial",
+        "treatment",
+        "regulatory",
+        "research"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "fc23de9bf40af6a1",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "Feasibility and Effectiveness of a Mindfulness Program Delivered by Web to Patients During Hospitalization and Caregivers.",
+      "url": "https://clinicaltrials.gov/study/NCT05623254",
+      "published_at": "2026-09-01T00:00:00+00:00",
+      "summary": "Hospitalization is often a traumatic event so stressful for the life of patients. Isolation, loneliness, worries about clinical examinations, results from examinations and final diagnosis, uncertainty about the future are the most common feelings that patients report when during hospitalized for different disease conditions; these feelings are not related to the pathological condition.\n\nAlso the discomfort of the caregivers is significant, as the necessities and priorities of the family change significantly during the hospitalization of a member (worries about the future, help and support are not enough to sustain the situation, problems with the work schedule ). Nowadays in North American and North European countries, mindfulness practice is offered to patients by multifaith Chaplaincy teams and health-care operators (e.g. physicians, nurses, psychologists), as a way of helping patients come to terms with diagnosis and adjust to their prognosis. To the extent that patients can bear it, instructions are given to keep coming back to the present moment, here and now, to bodily and affective experience, relaxing in it. To that purpose patients are encouraged to accept the situation as it develops, and let go of excessive concerns and unhelpful narratives that undermine the capacity to manage pain, fear and suffering. Moreover, similar programmes are designed for caregivers and the patients' families, aimed at developing their resilience in delivering the support, via face-to-face sessions, and instructions and encouragement for a regular practice at home.\n\nIn the last years, due to the dramatic emergency for the COVID-19 pandemic, different applications for mindfulness have been realized by specific APPs or web platforms that allow patients to practice mindfulness regularly guided by a physician or an expert in mindfulness: patients can stay at home and mindfulness sessions can be delivered by technological modalities. In different hospitals, protocols have been implemented for the treatment of patients remotely, using specific platforms or APPs. These remote interventions are complementary to the regular face-to-face sessions and they are suitable for most patients and easily applied.",
+      "kind": "clinical_trial",
+      "external_id": "NCT05623254",
+      "score": 100,
+      "topics": [
+        "treatment",
+        "research",
+        "diagnosis",
+        "symptoms"
       ],
       "status": "new"
     },
@@ -579,6 +825,41 @@
       "status": "new"
     },
     {
+      "id": "bb317e5358315196",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "Gait Pattern and Its Relation to Cognition and VEP in Multiple Sclerosis",
+      "url": "https://clinicaltrials.gov/study/NCT07847086",
+      "published_at": "2026-09-29T00:00:00+00:00",
+      "summary": "This cross-sectional study aims to assess the pattern of gait in patients with multiple sclerosis and to evaluate its relation to cognitive function, visual evoked potentials, and radiological findings.",
+      "kind": "clinical_trial",
+      "external_id": "NCT07847086",
+      "score": 88,
+      "topics": [
+        "research",
+        "rehabilitation",
+        "symptoms"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "d5bb9b8255ae822a",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "SIZOMUS Safety of Ixazomib Targeting Plasma Cells in Multiple Sclerosis",
+      "url": "https://clinicaltrials.gov/study/NCT03783416",
+      "published_at": "2026-09-08T00:00:00+00:00",
+      "summary": "The study seeks to investigate safety and efficacy of ixazomib (NINLARO), a proteasome inhibitor, in multiple sclerosis (MS). Participants will receive either ixazomib capsules or placebo capsules for up to 24 months.",
+      "kind": "clinical_trial",
+      "external_id": "NCT03783416",
+      "score": 87,
+      "topics": [
+        "clinical_trial",
+        "research"
+      ],
+      "status": "new"
+    },
+    {
       "id": "30b0467d9f50670e",
       "source_id": "clinicaltrials-ms",
       "source": "ClinicalTrials.gov – Multiple Sclerosis",
@@ -596,6 +877,24 @@
       "status": "new"
     },
     {
+      "id": "c9a403c1f40ce0b8",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "Effects of Spinal Stabilization on the Pelvic Floor in Women With Multiple Sclerosis",
+      "url": "https://clinicaltrials.gov/study/NCT07074587",
+      "published_at": "2026-09-28T00:00:00+00:00",
+      "summary": "The purpose of this study was to investigate the effects of spinal stabilization exercises focusing on the pelvic floor on core stability, urinary symptoms and pelvic floor muscle function in women with Multiple Sclerosis and lower urinary tract symptoms. Participants will be randomly assigned to a control group that receives pelvic floor muscle exercises only or an experimental group that receives both pelvic floor muscle exercises and spinal stabilization exercise focused on the pelvic floor. Outcome measures will be assessed pre- and post-intervention using validated instruments.",
+      "kind": "clinical_trial",
+      "external_id": "NCT07074587",
+      "score": 84,
+      "topics": [
+        "research",
+        "rehabilitation",
+        "symptoms"
+      ],
+      "status": "new"
+    },
+    {
       "id": "2a6f772e503f8a57",
       "source_id": "clinicaltrials-ms",
       "source": "ClinicalTrials.gov – Multiple Sclerosis",
@@ -605,6 +904,23 @@
       "summary": "The main purpose of the study is to assess patient-reported satisfaction with subcutaneous (s.c.) ocrelizumab administration in participants with relapsing-remitting multiple sclerosis (RRMS) who are treatment-naive, switching from intravenous (i.v.) ocrelizumab to s.c. ocrelizumab, or switching from a prior disease-modifying therapy (DMT) to s.c. ocrelizumab.",
       "kind": "clinical_trial",
       "external_id": "NCT07827586",
+      "score": 83,
+      "topics": [
+        "treatment",
+        "research"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "afb41d205c2a056d",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "A Study of Disease Modifying Therapy Use in Women With Multiple Sclerosis Before, During, and After Pregnancy",
+      "url": "https://clinicaltrials.gov/study/NCT07844070",
+      "published_at": "2026-09-28T00:00:00+00:00",
+      "summary": "This study aims to assess the real-world patterns of disease modifying therapy (DMT) use before, during, and after pregnancy in women with multiple sclerosis (MS). The study will use a pooled closed claims database containing closed payer medical and pharmacy claims data for patients in the United States (US).",
+      "kind": "clinical_trial",
+      "external_id": "NCT07844070",
       "score": 83,
       "topics": [
         "treatment",
@@ -663,6 +979,40 @@
       "status": "new"
     },
     {
+      "id": "985e487964741132",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "A Study Evaluating the Presence and Concentration of BRIUMVI™ (Ublituximab) in Breast Milk",
+      "url": "https://clinicaltrials.gov/study/NCT06143514",
+      "published_at": "2026-09-24T00:00:00+00:00",
+      "summary": "The primary objective of the lactation study is to characterize the presence and concentration of BRIUMVI™ in breast milk among breastfeeding participants who receive BRIUMVI™ therapeutically for the treatment of relapsing forms of multiple sclerosis (RMS).",
+      "kind": "clinical_trial",
+      "external_id": "NCT06143514",
+      "score": 79,
+      "topics": [
+        "treatment",
+        "research"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "41ce8ee80c45a9de",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "A Study Evaluating the Effect of BRIUMVI® (Ublituximab) on Pregnancy and Infant Outcomes in Participants With Multiple Sclerosis (MS)",
+      "url": "https://clinicaltrials.gov/study/NCT06433765",
+      "published_at": "2026-09-21T00:00:00+00:00",
+      "summary": "The primary objective of the study is to compare the prevalence rate of major congenital malformations (MCM) between 2 cohorts of pregnant participants with MS who are exposed to BRIUMVI® and who are unexposed to BRIUMVI®.",
+      "kind": "clinical_trial",
+      "external_id": "NCT06433765",
+      "score": 79,
+      "topics": [
+        "treatment",
+        "research"
+      ],
+      "status": "new"
+    },
+    {
       "id": "51e0109b953c8f03",
       "source_id": "clinicaltrials-ms",
       "source": "ClinicalTrials.gov – Multiple Sclerosis",
@@ -697,6 +1047,23 @@
       "status": "new"
     },
     {
+      "id": "f2ad63dbd4d14657",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "Propionic Acid for Multiple Sclerosis: Safety and Benefits",
+      "url": "https://clinicaltrials.gov/study/NCT07595081",
+      "published_at": "2026-09-22T00:00:00+00:00",
+      "summary": "The purpose of this study is to explore the long-term safety, tolerability, and clinical efficacy of propionic acid as an add-on therapy in multiple sclerosis (MS).",
+      "kind": "clinical_trial",
+      "external_id": "NCT07595081",
+      "score": 75,
+      "topics": [
+        "treatment",
+        "research"
+      ],
+      "status": "new"
+    },
+    {
       "id": "9469e73414b30703",
       "source_id": "clinicaltrials-ms",
       "source": "ClinicalTrials.gov – Multiple Sclerosis",
@@ -706,6 +1073,23 @@
       "summary": "The purpose of this study is to assess the pharmacokinetics of ublituximab when administered subcutaneously (SC) compared to intravenous (IV) administration in participants with RMS.",
       "kind": "clinical_trial",
       "external_id": "NCT07211633",
+      "score": 75,
+      "topics": [
+        "treatment",
+        "research"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "da384424b060446a",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "Study to Assess Effects of Ublituximab in Pediatric Participants With Relapsing Forms of Multiple Sclerosis",
+      "url": "https://clinicaltrials.gov/study/NCT07220252",
+      "published_at": "2026-09-21T00:00:00+00:00",
+      "summary": "The primary purpose of this study is to evaluate the pharmacokinetics (PK) and pharmacodynamics (PD) of ublituximab in participants ages 10 to less than (\\<)18 years and body weight greater than or equal to (≥)25 kilograms (kg) to less than or equal to (≤)40 kg with RMS (Part A) and to evaluate the non-inferiority of ublituximab compared with fingolimod in pediatric RMS participants with body weight ≥ 25 kg (Part B). The study will further evaluate long-term safety and efficacy of ublituximab in RMS in pediatric participants during its extension period (Part C).",
+      "kind": "clinical_trial",
+      "external_id": "NCT07220252",
       "score": 75,
       "topics": [
         "treatment",
@@ -774,6 +1158,23 @@
       "summary": "The purpose of this study is to assess the safety, tolerability and pharmacokinetics (i.e. how study drug is taken up by the body) of TBN in healthy participants.",
       "kind": "clinical_trial",
       "external_id": "NCT04667013",
+      "score": 75,
+      "topics": [
+        "treatment",
+        "research"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "ef0291bbf317334f",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "Human Amniotic Mesenchymal Cell Secretome for Neurodegeneration and Neuroinflammation",
+      "url": "https://clinicaltrials.gov/study/NCT06551649",
+      "published_at": "2026-09-09T00:00:00+00:00",
+      "summary": "Neurodegenerative diseases are debilitating conditions characterized by chronic inflammation, leading to dysfunction of both the non-neuronal cellular components of the central nervous system and peripheral blood immune cells. Thus, it is crucial to develop an innovative therapeutic strategy that not only effectively contrast neurodegeneration but also aims to reduce inflammation.\n\nThe overall aim of the study is to provide a preclinical in vitro demonstration of the immunomodulatory and pro-regenerative potential of the human amniotic mesenchymal stromal cell (hAMSC) secretome in counteracting neurodegeneration.\n\nThis potential will be evaluated in three-dimensional in vitro models of neurodegenerative diseases, such as amyotrophic lateral sclerosis (ALS) and chronic demyelinating disease (multiple sclerosis - MS). To this end, the study includes sample collection from patients without pharmacological treatment and without medical devices. Patients diagnosed with ALS, patients diagnosed with MS, and healthy volunteers will be recruited to collect blood samples and skin biopsies. Patient-specific and control organoid platforms, mimicking cellular heterogeneity and tridimensional interactions within the central nervous system including the inflammatory compartment, will be developed to be used as a valuable tool to investigate the in vitro efficacy of the hAMSC secretome.",
+      "kind": "clinical_trial",
+      "external_id": "NCT06551649",
       "score": 75,
       "topics": [
         "treatment",
@@ -873,7 +1274,7 @@
       "title": "Mouse study shows how high-fat diet might trigger brain damage in MS",
       "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/09/25/mouse-study-links-high-fat-diet-potential-brain-damage-ms/",
       "published_at": "Fri, 25 Sep 2026 13:15:07 +0000",
-      "summary": "<a href=\"https://multiplesclerosisnewstoday.com/news-posts/2026/09/25/mouse-study-links-high-fat-diet-potential-brain-damage-ms/\" title=\"Mouse study shows how high-fat diet might trigger brain damage in MS\" rel=\"nofollow\"><img width=\"800\" height=\"600\" src=\"https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/09/iStock-2255826292-800x600.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Freshly made cheeseburgers and fries are lined up in individual wrappers in a restaurant kitchen.\" style=\"display: block; margin: auto; margin-bottom: 15px;max-width: 100%;\" link_thumbnail=\"1\" decoding=\"async\" srcset=\"https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/09/iStock-2255826292-800x600.jpg 800w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/09/iStock-2255826292-380x285.jpg 380w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/09/iStock-2255826292-768x576.jpg 768w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/09/iStock-2255826292-1536x1152.jpg 1536w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/09/iStock-2255826292-1200x900-cropped.jpg 1200w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/09/iStock-2255826292.jpg 1800w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-wp-pid=\"165975\" /></a><p>A high-fat diet may lead to worse disability in people with multiple sclerosis (MS) by altering the composition of gut bacteria, leading to changes in the number of immune cells that enter the brain, a study in mice suggests. According to the researchers, these findings show how a diet high in fat may ultimately cause [&#8230;]</p> <p>The post <a href=\"https://multiplesclerosisnewstoday.com/news-posts/2026/09/25/mouse-study-links-high-fat-diet-potential-brain-damage-ms/\">Mouse study shows how high-fat diet might trigger brain damage in MS</a> appeared first on <a href=\"https://multiplesclerosisnewstoday.com\">Multiple Sclerosis News Today</a>.</p>",
+      "summary": "<a href=\"https://multiplesclerosisnewstoday.com/news-posts/2026/09/25/mouse-study-links-high-fat-diet-potential-brain-damage-ms/\" title=\"Mouse study shows how high-fat diet might trigger brain damage in MS\" rel=\"nofollow\"><img width=\"800\" height=\"600\" src=\"https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/09/iStock-2255826292-800x600.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Freshly made cheeseburgers and fries are lined up in individual wrappers in a restaurant kitchen.\" style=\"display: block; margin: auto; margin-bottom: 15px;max-width: 100%;\" link_thumbnail=\"1\" decoding=\"async\" loading=\"lazy\" srcset=\"https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/09/iStock-2255826292-800x600.jpg 800w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/09/iStock-2255826292-380x285.jpg 380w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/09/iStock-2255826292-768x576.jpg 768w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/09/iStock-2255826292-1536x1152.jpg 1536w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/09/iStock-2255826292-1200x900-cropped.jpg 1200w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/09/iStock-2255826292.jpg 1800w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-wp-pid=\"165975\" /></a><p>A high-fat diet may lead to worse disability in people with multiple sclerosis (MS) by altering the composition of gut bacteria, leading to changes in the number of immune cells that enter the brain, a study in mice suggests. According to the researchers, these findings show how a diet high in fat may ultimately cause [&#8230;]</p> <p>The post <a href=\"https://multiplesclerosisnewstoday.com/news-posts/2026/09/25/mouse-study-links-high-fat-diet-potential-brain-damage-ms/\">Mouse study shows how high-fat diet might trigger brain damage in MS</a> appeared first on <a href=\"https://multiplesclerosisnewstoday.com\">Multiple Sclerosis News Today</a>.</p>",
       "kind": "news",
       "score": 57,
       "topics": [
@@ -947,6 +1348,21 @@
       "status": "new"
     },
     {
+      "id": "871035b11a85c504",
+      "source_id": "ms-news-today",
+      "source": "Multiple Sclerosis News Today",
+      "title": "DNA changes in pediatric MS point to possible role for Epstein-Barr virus",
+      "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/09/29/dna-changes-pediatric-ms-point-possible-role-ebv/",
+      "published_at": "Tue, 29 Sep 2026 12:00:46 +0000",
+      "summary": "<a href=\"https://multiplesclerosisnewstoday.com/news-posts/2026/09/29/dna-changes-pediatric-ms-point-possible-role-ebv/\" title=\"DNA changes in pediatric MS point to possible role for Epstein-Barr virus\" rel=\"nofollow\"><img width=\"800\" height=\"600\" src=\"https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/09/iStock-1393830512-800x600.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Illustration of DNA wrapped around histone proteins, representing epigenetic changes in gene regulation.\" style=\"display: block; margin: auto; margin-bottom: 15px;max-width: 100%;\" link_thumbnail=\"1\" decoding=\"async\" srcset=\"https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/09/iStock-1393830512-800x600.jpg 800w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/09/iStock-1393830512-380x285.jpg 380w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/09/iStock-1393830512-768x576.jpg 768w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/09/iStock-1393830512-1536x1152.jpg 1536w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/09/iStock-1393830512-1200x900-cropped.jpg 1200w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/09/iStock-1393830512.jpg 1800w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-wp-pid=\"166075\" /></a><p>In children and adolescents with multiple sclerosis (MS), chemical changes that can influence how genes are switched on or off differ from those seen in young people without the disease, a new study found. These changes, known as DNA methylation, were found in regions of DNA containing genes linked to several biological pathways, including those [&#8230;]</p> <p>The post <a href=\"https://multiplesclerosisnewstoday.com/news-posts/2026/09/29/dna-changes-pediatric-ms-point-possible-role-ebv/\">DNA changes in pediatric MS point to possible role for Epstein-Barr virus</a> appeared first on <a href=\"https://multiplesclerosisnewstoday.com\">Multiple Sclerosis News Today</a>.</p>",
+      "kind": "news",
+      "score": 37,
+      "topics": [
+        "research"
+      ],
+      "status": "new"
+    },
+    {
       "id": "6605b647ffaab591",
       "source_id": "ms-news-today",
       "source": "Multiple Sclerosis News Today",
@@ -968,7 +1384,7 @@
       "title": "Nerve damage marker linked to lower daily activity in progressive MS",
       "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/09/28/nerve-damage-marker-tied-lower-daily-activity-progressive-ms/",
       "published_at": "Mon, 28 Sep 2026 13:30:35 +0000",
-      "summary": "<a href=\"https://multiplesclerosisnewstoday.com/news-posts/2026/09/28/nerve-damage-marker-tied-lower-daily-activity-progressive-ms/\" title=\"Nerve damage marker linked to lower daily activity in progressive MS\" rel=\"nofollow\"><img width=\"800\" height=\"533\" src=\"https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/09/bllod-test-800x533.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"A blue-gloved hand holds a test tube filled with blood.\" style=\"display: block; margin: auto; margin-bottom: 15px;max-width: 100%;\" link_thumbnail=\"1\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/09/bllod-test-800x533.jpg 800w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/09/bllod-test-380x253.jpg 380w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/09/bllod-test-768x512.jpg 768w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/09/bllod-test-1536x1024.jpg 1536w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/09/bllod-test.jpg 1800w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-wp-pid=\"165625\" /></a><p>Higher blood levels of neurofilament light chain (NfL), a well-established marker of nerve damage, are associated with lower daily activity in people with progressive forms of multiple sclerosis (MS), a study found. The study also demonstrated that patients in whom NfL levels increased more rapidly over time tended to experience greater declines in daily activity, [&#8230;]</p> <p>The post <a href=\"https://multiplesclerosisnewstoday.com/news-posts/2026/09/28/nerve-damage-marker-tied-lower-daily-activity-progressive-ms/\">Nerve damage marker linked to lower daily activity in progressive MS</a> appeared first on <a href=\"https://multiplesclerosisnewstoday.com\">Multiple Sclerosis News Today</a>.</p>",
+      "summary": "<a href=\"https://multiplesclerosisnewstoday.com/news-posts/2026/09/28/nerve-damage-marker-tied-lower-daily-activity-progressive-ms/\" title=\"Nerve damage marker linked to lower daily activity in progressive MS\" rel=\"nofollow\"><img width=\"800\" height=\"533\" src=\"https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/09/bllod-test-800x533.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"A blue-gloved hand holds a test tube filled with blood.\" style=\"display: block; margin: auto; margin-bottom: 15px;max-width: 100%;\" link_thumbnail=\"1\" decoding=\"async\" srcset=\"https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/09/bllod-test-800x533.jpg 800w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/09/bllod-test-380x253.jpg 380w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/09/bllod-test-768x512.jpg 768w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/09/bllod-test-1536x1024.jpg 1536w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/09/bllod-test.jpg 1800w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-wp-pid=\"165625\" /></a><p>Higher blood levels of neurofilament light chain (NfL), a well-established marker of nerve damage, are associated with lower daily activity in people with progressive forms of multiple sclerosis (MS), a study found. The study also demonstrated that patients in whom NfL levels increased more rapidly over time tended to experience greater declines in daily activity, [&#8230;]</p> <p>The post <a href=\"https://multiplesclerosisnewstoday.com/news-posts/2026/09/28/nerve-damage-marker-tied-lower-daily-activity-progressive-ms/\">Nerve damage marker linked to lower daily activity in progressive MS</a> appeared first on <a href=\"https://multiplesclerosisnewstoday.com\">Multiple Sclerosis News Today</a>.</p>",
       "kind": "news",
       "score": 37,
       "topics": [
@@ -998,7 +1414,7 @@
       "title": "Guest Voice: Redefining strength with relapsing-remitting MS",
       "url": "https://multiplesclerosisnewstoday.com/guest-voice/2026/09/25/guest-voice-redefining-strength-relapsing-remitting-ms/",
       "published_at": "Fri, 25 Sep 2026 14:00:18 +0000",
-      "summary": "<a href=\"https://multiplesclerosisnewstoday.com/guest-voice/2026/09/25/guest-voice-redefining-strength-relapsing-remitting-ms/\" title=\"Guest Voice: Redefining strength with relapsing-remitting MS\" rel=\"nofollow\"><img width=\"800\" height=\"300\" src=\"https://multiplesclerosisnewstoday.com/wp-content/uploads/2025/11/IMG_1873-800x300.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin: auto; margin-bottom: 15px;max-width: 100%;\" link_thumbnail=\"1\" decoding=\"async\" srcset=\"https://multiplesclerosisnewstoday.com/wp-content/uploads/2025/11/IMG_1873-800x300.png 800w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2025/11/IMG_1873-380x142.png 380w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2025/11/IMG_1873-768x288.png 768w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2025/11/IMG_1873-1536x575.png 1536w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2025/11/IMG_1873.png 1800w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-wp-pid=\"155888\" /></a><p>Life always comes with difficulties, and throwing a debilitating chronic illness on top of everything else is never easy. I believe my multiple sclerosis (MS) symptoms began in early July 2008. I was dragging my left leg and foot, so I had to borrow my grandmother&#8217;s walker and take a month off work. Then, things [&#8230;]</p> <p>The post <a href=\"https://multiplesclerosisnewstoday.com/guest-voice/2026/09/25/guest-voice-redefining-strength-relapsing-remitting-ms/\">Guest Voice: Redefining strength with relapsing-remitting MS</a> appeared first on <a href=\"https://multiplesclerosisnewstoday.com\">Multiple Sclerosis News Today</a>.</p>",
+      "summary": "<a href=\"https://multiplesclerosisnewstoday.com/guest-voice/2026/09/25/guest-voice-redefining-strength-relapsing-remitting-ms/\" title=\"Guest Voice: Redefining strength with relapsing-remitting MS\" rel=\"nofollow\"><img width=\"800\" height=\"300\" src=\"https://multiplesclerosisnewstoday.com/wp-content/uploads/2025/11/IMG_1873-800x300.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin: auto; margin-bottom: 15px;max-width: 100%;\" link_thumbnail=\"1\" decoding=\"async\" loading=\"lazy\" srcset=\"https://multiplesclerosisnewstoday.com/wp-content/uploads/2025/11/IMG_1873-800x300.png 800w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2025/11/IMG_1873-380x142.png 380w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2025/11/IMG_1873-768x288.png 768w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2025/11/IMG_1873-1536x575.png 1536w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2025/11/IMG_1873.png 1800w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-wp-pid=\"155888\" /></a><p>Life always comes with difficulties, and throwing a debilitating chronic illness on top of everything else is never easy. I believe my multiple sclerosis (MS) symptoms began in early July 2008. I was dragging my left leg and foot, so I had to borrow my grandmother&#8217;s walker and take a month off work. Then, things [&#8230;]</p> <p>The post <a href=\"https://multiplesclerosisnewstoday.com/guest-voice/2026/09/25/guest-voice-redefining-strength-relapsing-remitting-ms/\">Guest Voice: Redefining strength with relapsing-remitting MS</a> appeared first on <a href=\"https://multiplesclerosisnewstoday.com\">Multiple Sclerosis News Today</a>.</p>",
       "kind": "news",
       "score": 28,
       "topics": [

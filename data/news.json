@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T11:02:29.134462+00:00",
+  "updated_at": "2026-10-01T11:29:11.964459+00:00",
   "articles": [
     {
       "id": "320df194a5b2aa66",
@@ -16,6 +16,24 @@
         "research",
         "rehabilitation",
         "nutrition"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "93b6a1d39839d9b5",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "Safety and Efficacy of AV078 in Participants With Tuberous Sclerosis Complex (TSC) Refractory Epilepsy (RESTOR-1)",
+      "url": "https://clinicaltrials.gov/study/NCT07680322",
+      "published_at": "2026-09-29T00:00:00+00:00",
+      "summary": "This Phase 2, randomized, double-blind, placebo-controlled study will evaluate the safety, tolerability, and efficacy of oral AV078 in participants with refractory epilepsy due to tuberous sclerosis complex (TSC). Approximately 42 participants will be randomized in a 5:1 ratio to receive AV078 or placebo.\n\nThe study will include a Screening Period collecting 4 weeks of pre-treatment Baseline data on seizure frequency, and progress to a 12-week Treatment Period, followed by an in person final follow-up visit approximately 2 weeks after the last dose.",
+      "kind": "clinical_trial",
+      "external_id": "NCT07680322",
+      "score": 100,
+      "topics": [
+        "clinical_trial",
+        "treatment",
+        "research"
       ],
       "status": "new"
     },
@@ -221,6 +239,24 @@
         "clinical_trial",
         "treatment",
         "research"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "f54592e8cbcc2cd7",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "Effect of Combined Exercise Training in Patients With Multiple Sclerosis",
+      "url": "https://clinicaltrials.gov/study/NCT06595394",
+      "published_at": "2026-09-18T00:00:00+00:00",
+      "summary": "The aim of this clinical trial is exercise in sarcopenic MS patients to demonstrate the effectiveness of education. The main questions it aims to answer are: -Can exercise training make a change in muscle thickness in sarcopenic MS patients?\n\n--Does exercise training have an effect on balance in sarcopenic MS patients?\n\n\\- Does exercise training have an effect on the risk of falling in sarcopenic MS patients?\n\nParticipants will:\n\nThey will continue combined exercise applications 3 days a week for 8 weeks. Evaluations will be made before the application and at the end of the 8 weeks. The data will be analyzed afterwards.",
+      "kind": "clinical_trial",
+      "external_id": "NCT06595394",
+      "score": 100,
+      "topics": [
+        "clinical_trial",
+        "research",
+        "rehabilitation"
       ],
       "status": "new"
     },
@@ -606,6 +642,26 @@
       "status": "new"
     },
     {
+      "id": "0a643fea480eaa62",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "[18F]F-DED PET Imaging of Reactive Astrocytes in Multiple Sclerosis",
+      "url": "https://clinicaltrials.gov/study/NCT07805473",
+      "published_at": "2026-09-04T00:00:00+00:00",
+      "summary": "Despite significant advancements in multiple sclerosis (MS) treatment over the past decade, a specific imaging biomarker for predicting disease progression remains lacking. This project is conducted as a non-therapeutic clinical trial with an investigational medicinal product and aims to validate PET imaging with the radiotracer \\[18F\\]fluorodeprenyl-D2 (\\[18F\\]F-DED) as a diagnostic tool for detecting chronic active lesions in MS and to evaluate its potential as a predictor of disease progression. Chronic astrocyte activation plays a key role in MS pathology, yet current imaging techniques, such as MRI, have limited sensitivity in identifying chronic neuroinflammation. By leveraging PET imaging with \\[18F\\]F-DED, which specifically targets activated astrocytes, this study seeks to provide a more precise assessment of chronic inflammatory lesions in MS patients. The project will follow a cross-sectional and longitudinal design: O1) To validate the ability of \\[18F\\]F-DED PET to identify chronic active lesions by comparing PET findings with MRI markers, including paramagnetic rings (PRLs) and determine its diagnostic accuracy; O2) To explore the relationship between astrocyte-targeted PET imaging and blood-based biomarkers of astrogliosis ; O3) To assess the predictive value of PET-detected chronic inflammation in disease progression over a three-year follow-up period through regression analysis, integrating clinical parameters such as disability progression (EDSS scores), relapse rates, and MRI changes. A total of 30 MS patients will be recruited from the MS Unit of Hospital del Mar and undergo PET and MRI imaging, following a single intravenous administration of the investigational radiotracer \\[18F\\]F-DED, together with MRI imaging with advanced image fusion techniques ensuring precise lesion localization. Machine learning models will be applied to imaging and clinical data to identify biomarkers associated with MS progression. By improving diagnostic accuracy and predicting disease evolution, this clinical trial aims to enhance patient stratification and treatment personalization.",
+      "kind": "clinical_trial",
+      "external_id": "NCT07805473",
+      "score": 100,
+      "topics": [
+        "clinical_trial",
+        "treatment",
+        "regulatory",
+        "research",
+        "diagnosis"
+      ],
+      "status": "new"
+    },
+    {
       "id": "dbc8ff1df22ac48f",
       "source_id": "clinicaltrials-ms",
       "source": "ClinicalTrials.gov – Multiple Sclerosis",
@@ -877,6 +933,24 @@
       "status": "new"
     },
     {
+      "id": "9783e439d19113bf",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "Multiple Sclerosis Severity and Caregiver Health Outcomes",
+      "url": "https://clinicaltrials.gov/study/NCT07842744",
+      "published_at": "2026-09-25T00:00:00+00:00",
+      "summary": "This cross-sectional observational study aims to investigate the associations between multiple sclerosis (MS) severity and caregivers' sleep quality, physical activity, body awareness, perceived stress, and caregiver burden. A total of 68 caregivers of patients with MS will be recruited from Başkent University Hospital. MS severity will be assessed using the Expanded Disability Status Scale (EDSS), while caregiver health outcomes will be evaluated using validated questionnaires. The findings are expected to provide insight into the multidimensional impact of MS severity on caregiver health and well-being.",
+      "kind": "clinical_trial",
+      "external_id": "NCT07842744",
+      "score": 85,
+      "topics": [
+        "research",
+        "rehabilitation",
+        "quality_of_life"
+      ],
+      "status": "new"
+    },
+    {
       "id": "c9a403c1f40ce0b8",
       "source_id": "clinicaltrials-ms",
       "source": "ClinicalTrials.gov – Multiple Sclerosis",
@@ -1030,6 +1104,57 @@
       "status": "new"
     },
     {
+      "id": "0f767a1bb4fc8d64",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "Motor Imagery and Action Observation for Gait Function in MS",
+      "url": "https://clinicaltrials.gov/study/NCT07137624",
+      "published_at": "2026-09-18T00:00:00+00:00",
+      "summary": "This study will investigate whether mentally simulating walking movements while watching others walk can improve walking performance in individuals with Multiple Sclerosis (MS). Participants will be divided into two groups: one group will watch walking videos and imagine themselves walking, while the other group will watch nature scenes. The study will measure muscle activity and walking patterns to assess the effects. The results may help support the use of mental practice techniques to improve mobility in people with MS.",
+      "kind": "clinical_trial",
+      "external_id": "NCT07137624",
+      "score": 77,
+      "topics": [
+        "research",
+        "rehabilitation"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "d94f0e9fa9ac29dc",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "A Study to Evaluate the Efficacy, Safety, Pharmacokinetics, and Pharmacodynamics of Ocrelizumab in Participants With Relapsing Multiple Sclerosis and Primary Progressive Multiple Sclerosis",
+      "url": "https://clinicaltrials.gov/study/NCT07483450",
+      "published_at": "2026-09-30T00:00:00+00:00",
+      "summary": "The main purpose of this study is to evaluate the efficacy of ocrelizumab in participants with relapsing multiple sclerosis (RMS) and to characterize the ocrelizumab pharmacodynamic (PD) profile in Chinese participants with primary progressive multiple sclerosis (PPMS).",
+      "kind": "clinical_trial",
+      "external_id": "NCT07483450",
+      "score": 75,
+      "topics": [
+        "treatment",
+        "research"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "0e03343db3c2f7e3",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "Expanded Access to Intrathecal Administration of Autologous Mesenchymal Stem Cell-derived Neural Progenitors (MSC-NP) in Progressive Multiple Sclerosis",
+      "url": "https://clinicaltrials.gov/study/NCT03822858",
+      "published_at": "2026-09-25T00:00:00+00:00",
+      "summary": "To give expanded access to intrathecal autologous MSC-NP treatment to patients with progressive MS who do not meet the inclusion/exclusion criteria of our Phase II stem cell trial.",
+      "kind": "clinical_trial",
+      "external_id": "NCT03822858",
+      "score": 75,
+      "topics": [
+        "treatment",
+        "research"
+      ],
+      "status": "new"
+    },
+    {
       "id": "427817a9cab78b65",
       "source_id": "clinicaltrials-ms",
       "source": "ClinicalTrials.gov – Multiple Sclerosis",
@@ -1090,6 +1215,23 @@
       "summary": "The primary purpose of this study is to evaluate the pharmacokinetics (PK) and pharmacodynamics (PD) of ublituximab in participants ages 10 to less than (\\<)18 years and body weight greater than or equal to (≥)25 kilograms (kg) to less than or equal to (≤)40 kg with RMS (Part A) and to evaluate the non-inferiority of ublituximab compared with fingolimod in pediatric RMS participants with body weight ≥ 25 kg (Part B). The study will further evaluate long-term safety and efficacy of ublituximab in RMS in pediatric participants during its extension period (Part C).",
       "kind": "clinical_trial",
       "external_id": "NCT07220252",
+      "score": 75,
+      "topics": [
+        "treatment",
+        "research"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "d692a86efcf3976f",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "A Study to Evaluate Pharmacokinetics (PK) and Safety of Subcutaneous (SC) Ublituximab Administered at Various Injection Sites and Relative Bioavailability Via Autoinjector (AI) Versus Syringe Subcutaneously in Participants With Multiple Sclerosis (MS)",
+      "url": "https://clinicaltrials.gov/study/NCT07503873",
+      "published_at": "2026-09-21T00:00:00+00:00",
+      "summary": "The purpose of this study is to evaluate the PK and safety of ublituximab SC at different sites of administration and relative bioavailability of ublituximab SC administered with a prefilled pen versus syringe.",
+      "kind": "clinical_trial",
+      "external_id": "NCT07503873",
       "score": 75,
       "topics": [
         "treatment",
@@ -1166,6 +1308,23 @@
       "status": "new"
     },
     {
+      "id": "8422e3001c101a4e",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "Study to Evaluate the Effectiveness and Safety of Ozanimod Compared to Fingolimod in Children and Adolescents With Relapsing Remitting Multiple Sclerosis",
+      "url": "https://clinicaltrials.gov/study/NCT06408259",
+      "published_at": "2026-09-10T00:00:00+00:00",
+      "summary": "The purpose of this study is to evaluate the effectiveness, safety, tolerability, drug levels and drug effects of ozanimod compared to fingolimod in children and adolescents with relapsing remitting multiple sclerosis (RRMS).",
+      "kind": "clinical_trial",
+      "external_id": "NCT06408259",
+      "score": 75,
+      "topics": [
+        "treatment",
+        "research"
+      ],
+      "status": "new"
+    },
+    {
       "id": "ef0291bbf317334f",
       "source_id": "clinicaltrials-ms",
       "source": "ClinicalTrials.gov – Multiple Sclerosis",
@@ -1201,6 +1360,23 @@
       "status": "new"
     },
     {
+      "id": "bdf83b5d6af7eeb1",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "Hybrid Rehabilitation Approach Through Group Exercise and Telerehabilitation in Patients With Multiple Sclerosis",
+      "url": "https://clinicaltrials.gov/study/NCT05469568",
+      "published_at": "2026-09-30T00:00:00+00:00",
+      "summary": "The aim of the study is to determine the benefits of outpatient group rehabilitation with subsequent telerehabilitation. The patient will participate in a 12-week circuit training, including training once a week in a group of six under the guidance of two physiotherapists. After the outpatient rehabilitation, the patient will gain access to a mobile application and will be asked to record all physical activities there.",
+      "kind": "clinical_trial",
+      "external_id": "NCT05469568",
+      "score": 69,
+      "topics": [
+        "research",
+        "rehabilitation"
+      ],
+      "status": "new"
+    },
+    {
       "id": "454066392f51978c",
       "source_id": "clinicaltrials-ms",
       "source": "ClinicalTrials.gov – Multiple Sclerosis",
@@ -1211,6 +1387,40 @@
       "kind": "clinical_trial",
       "external_id": "NCT03974997",
       "score": 69,
+      "topics": [
+        "research",
+        "diagnosis"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "00f69299b1417a26",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "Assessment of the Frequency of Functional Neurological Disorders in Multiple Sclerosis and Analysis of Clinical and Psychological Determinants: A Multicenter Cross-Sectional Study",
+      "url": "https://clinicaltrials.gov/study/NCT07849816",
+      "published_at": "2026-09-30T00:00:00+00:00",
+      "summary": "Multiple sclerosis (MS) and functional neurological disorders (FND) share clinical features, which may result in FND being overlooked in patients with MS. They also share common comorbidities, including depression and alexithymia.\n\nAs their management differs, assessing the frequency and determinants of FND in patients with MS is important to improve diagnosis and ensure appropriate management.",
+      "kind": "clinical_trial",
+      "external_id": "NCT07849816",
+      "score": 65,
+      "topics": [
+        "research",
+        "diagnosis"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "16bf8c023fad9643",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "Neurodegenerative Diseases Progression Markers (MARKERS-NDD)",
+      "url": "https://clinicaltrials.gov/study/NCT06596746",
+      "published_at": "2026-09-02T00:00:00+00:00",
+      "summary": "MARKERS-NDD is a prospective, observational, longitudinal study, which aims to collect data from patients affected by neurodegenerative diseases (NDD) followed longitudinally for routine examinations performed as part of normal clinical practice. Data collected from clinical evaluations, movement analysis, brain imaging, neuropsychological and electroencephalographic assessments, blood chemistry tests will be analysed to carry out statistical investigations and predictive analyses, also using artificial intelligence systems, which allow the identification of new early markers of diagnosis and prognosis of neurodegenerative diseases.",
+      "kind": "clinical_trial",
+      "external_id": "NCT06596746",
+      "score": 65,
       "topics": [
         "research",
         "diagnosis"
@@ -1284,6 +1494,55 @@
       "status": "new"
     },
     {
+      "id": "0f9f432c0154c5b2",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "A Non-Interventional Pilot Study to Explore the Role of Gut Flora in Disease",
+      "url": "https://clinicaltrials.gov/study/NCT04031469",
+      "published_at": "2026-09-21T00:00:00+00:00",
+      "summary": "This study seeks to correlate microbiome sequencing data with information provided by patients and their medical records.",
+      "kind": "clinical_trial",
+      "external_id": "NCT04031469",
+      "score": 55,
+      "topics": [
+        "research",
+        "nutrition"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "34e42b8a53ffb6ad",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "Study of Skin Tumors in Tuberous Sclerosis",
+      "url": "https://clinicaltrials.gov/study/NCT00001975",
+      "published_at": "2026-09-28T00:00:00+00:00",
+      "summary": "Tuberous sclerosis is a rare, hereditary disease in which patients develop multiple tumors. Although not cancerous, the tumors can affect various organs, including the heart, lungs, kidneys, skin, and central nervous system, with serious medical consequences. The severity of disease varies greatly among patients, from barely detectable to fatal. This study will investigate what causes skin tumors to develop in patients with this disease.\n\nPatients with tuberous sclerosis 18 years and older may enroll in this study. Participants will undergo a medical history and thorough skin examination by a dermatologist. Those with skin tumors will be asked to undergo biopsy (tissue removal) of up to eight lesions, under a local anesthetic, for research purposes. The biopsies will all be done the same day. The tissue samples will be used for: examination of genetic changes, measurement of certain proteins and other substances, and growing in culture to study the genetics of tuberous sclerosis.\n\n...",
+      "kind": "clinical_trial",
+      "external_id": "NCT00001975",
+      "score": 47,
+      "topics": [
+        "research"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "7c91b764573f49f7",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "A Study to Evaluate White Matter Hyperintensities in Migraine",
+      "url": "https://clinicaltrials.gov/study/NCT05112289",
+      "published_at": "2026-09-24T00:00:00+00:00",
+      "summary": "The purpose of this research is to better understand brain white matter hyperintensities (WMH) in women with migraines",
+      "kind": "clinical_trial",
+      "external_id": "NCT05112289",
+      "score": 47,
+      "topics": [
+        "research"
+      ],
+      "status": "new"
+    },
+    {
       "id": "63e72740f93e5db5",
       "source_id": "clinicaltrials-ms",
       "source": "ClinicalTrials.gov – Multiple Sclerosis",
@@ -1300,16 +1559,32 @@
       "status": "new"
     },
     {
-      "id": "34e42b8a53ffb6ad",
+      "id": "729f163c3082a324",
       "source_id": "clinicaltrials-ms",
       "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "Study of Skin Tumors in Tuberous Sclerosis",
-      "url": "https://clinicaltrials.gov/study/NCT00001975",
-      "published_at": "2026-09-16T00:00:00+00:00",
-      "summary": "Tuberous sclerosis is a rare, hereditary disease in which patients develop multiple tumors. Although not cancerous, the tumors can affect various organs, including the heart, lungs, kidneys, skin, and central nervous system, with serious medical consequences. The severity of disease varies greatly among patients, from barely detectable to fatal. This study will investigate what causes skin tumors to develop in patients with this disease.\n\nPatients with tuberous sclerosis 18 years and older may enroll in this study. Participants will undergo a medical history and thorough skin examination by a dermatologist. Those with skin tumors will be asked to undergo biopsy (tissue removal) of up to eight lesions, under a local anesthetic, for research purposes. The biopsies will all be done the same day. The tissue samples will be used for: examination of genetic changes, measurement of certain proteins and other substances, and growing in culture to study the genetics of tuberous sclerosis.",
+      "title": "Neurocutaneous Syndromes in Children: Prevalence and Clinical Characteristics",
+      "url": "https://clinicaltrials.gov/study/NCT07843823",
+      "published_at": "2026-09-28T00:00:00+00:00",
+      "summary": "This cross-sectional study aims to determine the prevalence, clinical characteristics, and management patterns of neurocutaneous syndromes among children attending the Pediatric Neurology Unit at Assiut University.",
       "kind": "clinical_trial",
-      "external_id": "NCT00001975",
-      "score": 47,
+      "external_id": "NCT07843823",
+      "score": 43,
+      "topics": [
+        "research"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "ba5f72fa02a4972c",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "The CanISleepinMS Study: Effect of Cannabidiol (CBD) on Sleep Quality in Patients With Multiple Sclerosis",
+      "url": "https://clinicaltrials.gov/study/NCT07840924",
+      "published_at": "2026-09-25T00:00:00+00:00",
+      "summary": "Evaluating the effect of 300 mg purified cannabidiol (CBD) on sleep quality in patients with multiple sclerosis (MS).",
+      "kind": "clinical_trial",
+      "external_id": "NCT07840924",
+      "score": 43,
       "topics": [
         "research"
       ],
@@ -1341,6 +1616,38 @@
       "summary": "The purpose of this prospective study is to assess the safety and efficacy of everolimus in Taiwanese patients with renal angiomyolipoma (AML) associated with tuberous sclerosis complex (TSC) . Only patients who fulfil the local reimbursement criteria of everolimus for TSC-AML will be included in this study.",
       "kind": "clinical_trial",
       "external_id": "NCT05252585",
+      "score": 43,
+      "topics": [
+        "research"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "eae2a189fee754b7",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "Body Awareness, Trunk Stability, and Arm Function in MS",
+      "url": "https://clinicaltrials.gov/study/NCT07151534",
+      "published_at": "2026-09-17T00:00:00+00:00",
+      "summary": "The aim of this study is to investigate the relationship between body awareness, trunk stabilization, and upper extremity functionality in patients with Multiple Sclerosis (MS).\n\nHypotheses of the study:\n\nH1: There is a significant relationship between body awareness and upper extremity functionality in patients with MS.\n\nH2: There is a significant relationship between body awareness and trunk stabilization in patients with MS.\n\nH3: Body awareness is reduced in patients with MS compared to healthy individuals.\n\nH4: Trunk stabilization is reduced in patients with MS compared to healthy individuals.\n\nH5: Upper extremity functionality is reduced in patients with MS compared to healthy individuals.",
+      "kind": "clinical_trial",
+      "external_id": "NCT07151534",
+      "score": 43,
+      "topics": [
+        "research"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "55879df3c88163ac",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "A Study to Investigate the Safety, Tolerability, and Processing by the Body of Intravenous and Subcutaneous RO7121932 Administration in Participants With Multiple Sclerosis",
+      "url": "https://clinicaltrials.gov/study/NCT05704361",
+      "published_at": "2026-09-14T00:00:00+00:00",
+      "summary": "The primary purpose of the study is to evaluate the safety and tolerability of a single-ascending intravenous (IV) dose (Part 1), a single-ascending subcutaneous (SC) dose (Part 2), and multiple ascending SC doses (Part 3), and multiple-ascending SC doses following a single IV dose (Part 4) of RO7121932 in participants with multiple sclerosis (MS). Only Parts 1 and 2 of the study will be conducted in the United States, whereas Parts 1, 2, 3, and 4 will be conducted in all other participating countries outside the United States.",
+      "kind": "clinical_trial",
+      "external_id": "NCT05704361",
       "score": 43,
       "topics": [
         "research"
@@ -1423,5 +1730,7 @@
       "status": "new"
     }
   ],
-  "source_errors": []
+  "source_errors": [
+    "Multiple Sclerosis News Today: HTTP Error 403: Forbidden"
+  ]
 }

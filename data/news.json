@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T10:59:07.850758+00:00",
+  "updated_at": "2026-10-03T10:18:26.436139+00:00",
   "articles": [
     {
       "id": "6a4e64b11a3d0fd8",
@@ -38,6 +38,45 @@
       "status": "new"
     },
     {
+      "id": "4afcc05d57c288d4",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "Enhancing Self-Esteem in Patients With Multiple Sclerosis: A Randomised Controlled Trial of the Lexical Association Technique",
+      "url": "https://clinicaltrials.gov/study/NCT07064291",
+      "published_at": "2026-10-02T00:00:00+00:00",
+      "summary": "The goal of this clinical trial is to learn whether the Lexical Association Technique (LAT) can improve well-being in people recently diagnosed with multiple sclerosis (MS), either relapsing-remitting (RRMS) or secondary progressive (SPMS).\n\nThe main questions it aims to answer are:\n\n* Does the LAT increase well-being more than a placebo technique ?\n* Does this technique help reduce psychological distress and improve quality of life ?\n\nParticipants will:\n\n* Be randomly assigned to either the LAT group or the active control group\n* Complete short visualization exercises at home using a personal computer\n* Fill out questionnaires about self-esteem, stress, anxiety, depression, quality of life, and adjustment to illness\n* Take part in the study over several weeks, with assessments before, after, and 14 days after the intervention\n\nResearchers will compare results between the two groups (LAT group vs. Control group) to test the immediate and lasting effects of the LAT.",
+      "kind": "clinical_trial",
+      "external_id": "NCT07064291",
+      "score": 100,
+      "topics": [
+        "clinical_trial",
+        "research",
+        "rehabilitation",
+        "quality_of_life"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "db24947a33e5969b",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "A Phase 1b Study of C-CAR168 in Participants With Systemic Sclerosis (SSc)",
+      "url": "https://clinicaltrials.gov/study/NCT07854483",
+      "published_at": "2026-10-02T00:00:00+00:00",
+      "summary": "This Phase 1b, multicenter, open-label study will evaluate the safety and efficacy of a single infusion of autologous anti-CD20/BCMA chimeric antigen receptor T cells (C-CAR168) following lymphodepleting chemotherapy in participants with refractory Systemic Sclerosis (SSc) who are not responding to standard therapy. Approximately 6-12 participants will undergo leukapheresis, lymphodepletion with fludarabine and cyclophosphamide, and infusion of C-CAR168. Participants will be followed for 24 months (2 years) to evaluate safety, CAR T-cell persistence, pharmacokinetics/pharmacodynamics, biomarkers, and preliminary efficacy results. Long-term safety follow-up for gene therapy-related events will continue for up to 15 years following CAR T-cell infusion.",
+      "kind": "clinical_trial",
+      "external_id": "NCT07854483",
+      "score": 100,
+      "topics": [
+        "clinical_trial",
+        "treatment",
+        "regulatory",
+        "research",
+        "diagnosis"
+      ],
+      "status": "new"
+    },
+    {
       "id": "3677512aaa9e00d3",
       "source_id": "clinicaltrials-ms",
       "source": "ClinicalTrials.gov – Multiple Sclerosis",
@@ -72,6 +111,26 @@
         "treatment",
         "research",
         "symptoms"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "0f4518c027ff17b6",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "Psychological Interventions for Multiple Sclerosis: Effects on Anxiety, Depression, and Cognition.",
+      "url": "https://clinicaltrials.gov/study/NCT07273604",
+      "published_at": "2026-09-30T00:00:00+00:00",
+      "summary": "This study evaluated the efficacy of two structured psychological interventions in individuals with relapsing-remitting multiple sclerosis (RRMS). The main objective was to evaluate whether Group-Based Cognitive-Behavioral Therapy (CBT) and Psychophysiological Regulation Therapy (PRT) improved emotional well-being and objective cognitive functioning compared with Standard Care (SC).\n\nA total of 153 individuals with RRMS were assessed for eligibility, of whom 148 were randomized to one of three study conditions: Group-Based CBT, PRT, or SC (waiting-list control). Participants were allocated using a simple computer-generated randomization sequence with a 1:1:1 allocation ratio.\n\nBoth active interventions were delivered in small groups over 12 weekly sessions. CBT and PRT shared a common therapeutic framework comprising psychoeducation, mindfulness, psychophysiological regulation strategies, and homework assignments. The CBT condition additionally incorporated specific cognitive-behavioral components during sessions 4-10.\n\nAssessments were conducted at baseline and immediately after completion of the 12-week intervention period using standardized psychological and neuropsychological measures. The study evaluated treatment effects across complementary domains of emotional functioning and objective cognitive performance.",
+      "kind": "clinical_trial",
+      "external_id": "NCT07273604",
+      "score": 100,
+      "topics": [
+        "clinical_trial",
+        "treatment",
+        "research",
+        "symptoms",
+        "quality_of_life"
       ],
       "status": "new"
     },
@@ -131,6 +190,24 @@
       "status": "new"
     },
     {
+      "id": "87c4ec09e7ec3582",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "Vancomycin Study in Multiple Sclerosis (MS)",
+      "url": "https://clinicaltrials.gov/study/NCT05539729",
+      "published_at": "2026-09-28T00:00:00+00:00",
+      "summary": "The overall goal of this study is to elucidate a mechanism by which vancomycin modulates the gut-brain axis in multiple sclerosis (MS). The gut microbiome plays an important role in autoimmunity, including MS. However, the identity of gut microbes modulating neuroinflammation in MS and their mechanisms of action remain obscure. Hence, here the research team proposes to investigate the effects of vancomycin on the gut microbiota composition, peripheral immune function, and brain MRI lesions in MS patients.",
+      "kind": "clinical_trial",
+      "external_id": "NCT05539729",
+      "score": 100,
+      "topics": [
+        "regulatory",
+        "research",
+        "nutrition"
+      ],
+      "status": "new"
+    },
+    {
       "id": "f9f3ff375c551236",
       "source_id": "clinicaltrials-ms",
       "source": "ClinicalTrials.gov – Multiple Sclerosis",
@@ -164,6 +241,24 @@
         "treatment",
         "regulatory",
         "research"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "7b181e372c9bf2d2",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "A Phase 2a Study of SUN-627 in Participants With Non-Active Secondary Progressive and Primary Progressive Multiple Sclerosis (SPMS/PPMS)",
+      "url": "https://clinicaltrials.gov/study/NCT07840326",
+      "published_at": "2026-09-25T00:00:00+00:00",
+      "summary": "The goal of this Phase 2 clinical trial is to investigate the safety and tolerability of SUN-627 in men and women aged 18-70 years old with a diagnosis of non-active SPMS/PPMS.",
+      "kind": "clinical_trial",
+      "external_id": "NCT07840326",
+      "score": 100,
+      "topics": [
+        "clinical_trial",
+        "research",
+        "diagnosis"
       ],
       "status": "new"
     },
@@ -290,6 +385,25 @@
       "summary": "A study to evaluate the efficacy and safety of fenebrutinib on disability progression and relapse rate in adult participants with RMS. Eligible participants will be randomized in a 1:1 ratio to receive either fenebrutinib or teriflunomide. At the end of the double-blind treatment (DBT) phase (after disclosure of the DBT results), the Sponsor will determine whether or not to initiate the open-label extension (OLE) phase of the study.",
       "kind": "clinical_trial",
       "external_id": "NCT04586010",
+      "score": 100,
+      "topics": [
+        "clinical_trial",
+        "treatment",
+        "regulatory",
+        "research"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "a18721d52db3cf50",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "Study to Evaluate Safety, Efficacy and Pharmacokinetics (PK) of a Modified Regimen of Ublituximab",
+      "url": "https://clinicaltrials.gov/study/NCT05877963",
+      "published_at": "2026-09-21T00:00:00+00:00",
+      "summary": "The primary purpose of this phase 3b study is to assess the efficacy of a modified regimen of ublituximab in participants with relapsing multiple sclerosis (RMS) as measured by T1 Gadolinium (Gd)-enhancing lesions in Part A; PK in Part B along with efficacy of ublituximab as measured by T1 Gd-enhancing lesions in participants who had a suboptimal experience on prior anti-CD20 therapy in Part C. The study consists of 3 parts: Part A is single-armed and open-label, Part B is randomized, double-blind, placebo-controlled, and Part C is single-armed and open-label.",
+      "kind": "clinical_trial",
+      "external_id": "NCT05877963",
       "score": 100,
       "topics": [
         "clinical_trial",
@@ -546,6 +660,25 @@
       "status": "new"
     },
     {
+      "id": "40f6389b73d7d95a",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "RE104 Safety and Efficacy Study in Adjustment Disorder in Cancer and Other Medical Illnesses",
+      "url": "https://clinicaltrials.gov/study/NCT07002034",
+      "published_at": "2026-09-15T00:00:00+00:00",
+      "summary": "The purpose of this study is to determine if treatment with a single dose of RE104 for Injection reduces depressive symptoms or depressive symptoms mixed with anxiety symptoms in participants with Adjustment Disorder due to cancer or other illnesses such as Amyotrophic Lateral Sclerosis (ALS), Multiple Sclerosis (MS), Parkinson's Disease (PD) or Idiopathic Pulmonary Fibrosis (IPF) as compared to active-placebo.",
+      "kind": "clinical_trial",
+      "external_id": "NCT07002034",
+      "score": 100,
+      "topics": [
+        "clinical_trial",
+        "treatment",
+        "research",
+        "symptoms"
+      ],
+      "status": "new"
+    },
+    {
       "id": "7a4e0543bad4bba8",
       "source_id": "clinicaltrials-ms",
       "source": "ClinicalTrials.gov – Multiple Sclerosis",
@@ -654,6 +787,26 @@
         "clinical_trial",
         "regulatory",
         "research"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "0d18fd33f85849ec",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "Clinical Pilates for Balance and Function in Multiple Sclerosis",
+      "url": "https://clinicaltrials.gov/study/NCT07800039",
+      "published_at": "2026-09-09T00:00:00+00:00",
+      "summary": "This randomized controlled trial evaluated the effects of an 8-week Clinical Pilates program on balance and physical function in individuals with multiple sclerosis (MS). Participants were randomly allocated to one of three groups: Clinical Pilates, conventional exercise-based physiotherapy, or a control group receiving postural guidance without a structured rehabilitation program. The two intervention groups completed 16 supervised exercise sessions over 8 weeks. Outcomes included static and dynamic balance, functional mobility, lower-limb motor function, fatigue, and exercise-related motivation. Assessments were conducted at baseline, after 4 and 8 weeks, and at a one-month follow-up.",
+      "kind": "clinical_trial",
+      "external_id": "NCT07800039",
+      "score": 100,
+      "topics": [
+        "clinical_trial",
+        "treatment",
+        "research",
+        "rehabilitation",
+        "symptoms"
       ],
       "status": "new"
     },
@@ -889,6 +1042,24 @@
       "status": "new"
     },
     {
+      "id": "fe4d2f9ed7e730fe",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "Effect of Corticosteroids on Inflammation at the Edge of Acute Multiple Sclerosis Plaques",
+      "url": "https://clinicaltrials.gov/study/NCT02784210",
+      "published_at": "2026-09-16T00:00:00+00:00",
+      "summary": "Background:\n\nMultiple sclerosis (MS) affects the brain, spinal cord, and optic nerves. MS lesions can appear on the MRI (magnetic resonance imaging) scans in many ways. Sometimes they light up from the outer edge and fill inward. This is called ring enhancement. Researchers think this type of lesion may not heal as well as others. Corticosteroids are the standard treatment to reduce symptoms of MS relapse. But there is no standard treatment for people with enhancing MS lesions without signs of MS relapse. Researchers want to see if a short-term high-dose course of corticosteroids helps heal those lesions.\n\nObjective:\n\nTo study the effects of short-term high-dose corticosteroids on ring-enhancing MS.\n\nEligibility:\n\nAdults ages 18 and older who:\n\n* Have MS and a rim-enhancing lesion on a prior brain MRI\n* Are enrolled in another NINDS protocol\n\nDesign:\n\nParticipants will be screened under another protocol\n\nParticipants will be randomly assigned to get either no treatment or 3 days of treatment with a corticosteroid.\n\nParticipants will have:\n\n* 1 baseline visit\n* 3 days of high-dose steroids, intravenous or oral. If IV, participants will receive methylprednisolone by IV each day. Participants will also be prescribed medicine to protect their stomach.\n* Follow-up visits will be at week 13 and week 25 after randomization to treatment or no treatment.\n\nVisits include medical history and physical exam. Participants will have blood and urine tests. Participants will also have neurological exams and MRIs. Participants lie on a table that slides into a cylinder. They are in the scanner 1.5-2 hours. They get a dye through a catheter: A needle guides a thin plastic tube into an arm vein.",
+      "kind": "clinical_trial",
+      "external_id": "NCT02784210",
+      "score": 98,
+      "topics": [
+        "treatment",
+        "research",
+        "symptoms"
+      ],
+      "status": "new"
+    },
+    {
       "id": "54c5517436f14814",
       "source_id": "clinicaltrials-ms",
       "source": "ClinicalTrials.gov – Multiple Sclerosis",
@@ -982,7 +1153,7 @@
       "title": "FDA grants priority review to ‘high-efficacy’ drug for 2 types of MS",
       "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/10/01/fda-grants-priority-review-high-efficacy-oral-drug-treat-2-ms-types/",
       "published_at": "Thu, 01 Oct 2026 14:30:44 +0000",
-      "summary": "<a href=\"https://multiplesclerosisnewstoday.com/news-posts/2026/10/01/fda-grants-priority-review-high-efficacy-oral-drug-treat-2-ms-types/\" title=\"FDA grants priority review to &#8216;high-efficacy&#8217; drug for 2 types of MS\" rel=\"nofollow\"><img width=\"800\" height=\"532\" src=\"https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/09/iStock-2200850893-800x532.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"A close-up view of the U.S. Food and Drug Administration website shows the agency&#039;s name in white letters against a blue background.\" style=\"display: block; margin: auto; margin-bottom: 15px;max-width: 100%;\" link_thumbnail=\"1\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/09/iStock-2200850893-800x532.jpg 800w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/09/iStock-2200850893-380x253.jpg 380w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/09/iStock-2200850893-768x511.jpg 768w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/09/iStock-2200850893-1536x1022.jpg 1536w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/09/iStock-2200850893.jpg 1800w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-wp-pid=\"166198\" /></a><p>The U.S. Food and Drug Administration (FDA) has agreed to review an application from Roche seeking approval of its BTK inhibitor fenebrutinib as a treatment for relapsing forms of both multiple sclerosis (MS) and primary progressive MS (PPMS). Further, the FDA granted the application priority review, under which the regulatory agency aims to make its decision [&#8230;]</p> <p>The post <a href=\"https://multiplesclerosisnewstoday.com/news-posts/2026/10/01/fda-grants-priority-review-high-efficacy-oral-drug-treat-2-ms-types/\">FDA grants priority review to &#8216;high-efficacy&#8217; drug for 2 types of MS</a> appeared first on <a href=\"https://multiplesclerosisnewstoday.com\">Multiple Sclerosis News Today</a>.</p>",
+      "summary": "<a href=\"https://multiplesclerosisnewstoday.com/news-posts/2026/10/01/fda-grants-priority-review-high-efficacy-oral-drug-treat-2-ms-types/\" title=\"FDA grants priority review to &#8216;high-efficacy&#8217; drug for 2 types of MS\" rel=\"nofollow\"><img width=\"800\" height=\"532\" src=\"https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/09/iStock-2200850893-800x532.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"A close-up view of the U.S. Food and Drug Administration website shows the agency&#039;s name in white letters against a blue background.\" style=\"display: block; margin: auto; margin-bottom: 15px;max-width: 100%;\" link_thumbnail=\"1\" decoding=\"async\" srcset=\"https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/09/iStock-2200850893-800x532.jpg 800w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/09/iStock-2200850893-380x253.jpg 380w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/09/iStock-2200850893-768x511.jpg 768w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/09/iStock-2200850893-1536x1022.jpg 1536w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/09/iStock-2200850893.jpg 1800w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-wp-pid=\"166198\" /></a><p>The U.S. Food and Drug Administration (FDA) has agreed to review an application from Roche seeking approval of its BTK inhibitor fenebrutinib as a treatment for relapsing forms of both multiple sclerosis (MS) and primary progressive MS (PPMS). Further, the FDA granted the application priority review, under which the regulatory agency aims to make its decision [&#8230;]</p> <p>The post <a href=\"https://multiplesclerosisnewstoday.com/news-posts/2026/10/01/fda-grants-priority-review-high-efficacy-oral-drug-treat-2-ms-types/\">FDA grants priority review to &#8216;high-efficacy&#8217; drug for 2 types of MS</a> appeared first on <a href=\"https://multiplesclerosisnewstoday.com\">Multiple Sclerosis News Today</a>.</p>",
       "kind": "news",
       "score": 91,
       "topics": [
@@ -1015,7 +1186,7 @@
       "source": "ClinicalTrials.gov – Multiple Sclerosis",
       "title": "Gait Pattern and Its Relation to Cognition and VEP in Multiple Sclerosis",
       "url": "https://clinicaltrials.gov/study/NCT07847086",
-      "published_at": "2026-09-29T00:00:00+00:00",
+      "published_at": "2026-10-01T00:00:00+00:00",
       "summary": "This cross-sectional study aims to assess the pattern of gait in patients with multiple sclerosis and to evaluate its relation to cognitive function, visual evoked potentials, and radiological findings.",
       "kind": "clinical_trial",
       "external_id": "NCT07847086",
@@ -1112,6 +1283,23 @@
         "research",
         "rehabilitation",
         "symptoms"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "7dd2ffe8cf84280f",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "Alternate Pre-med in Anti-Cluster of Differentiation 20 (CD20) Pilot Project",
+      "url": "https://clinicaltrials.gov/study/NCT07472413",
+      "published_at": "2026-10-02T00:00:00+00:00",
+      "summary": "The purpose of this study is to assess and compare how well multiple sclerosis (MS) patients tolerate cetirizine versus diphenhydramine as a pre-medication before receiving anti-CD20 infusion therapy of ocrelizumab, ublituximab or rituximab. The study will also compare the safety of cetirizine versus diphenhydramine as a pre-medication for preventing infusion reactions in MS patients receiving anti-CD20 infusion therapy.",
+      "kind": "clinical_trial",
+      "external_id": "NCT07472413",
+      "score": 83,
+      "topics": [
+        "treatment",
+        "research"
       ],
       "status": "new"
     },
@@ -1610,187 +1798,19 @@
       "status": "new"
     },
     {
-      "id": "4014540092291556",
-      "source_id": "ms-news-today",
-      "source": "Multiple Sclerosis News Today",
-      "title": "Learning to listen as I wage a never-ending, silent battle with chronic pain",
-      "url": "https://multiplesclerosisnewstoday.com/columns/2026/09/30/learning-listen-wage-never-ending-silent-battle-chronic-pain/",
-      "published_at": "Wed, 30 Sep 2026 14:00:33 +0000",
-      "summary": "<a href=\"https://multiplesclerosisnewstoday.com/columns/2026/09/30/learning-listen-wage-never-ending-silent-battle-chronic-pain/\" title=\"Learning to listen as I wage a never-ending, silent battle with chronic pain\" rel=\"nofollow\"><img width=\"800\" height=\"300\" src=\"https://multiplesclerosisnewstoday.com/wp-content/uploads/2024/03/IMG_1374-800x300.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Main banner for Desiree Lama&#039;s column, &quot;Authentically Human.&quot;\" style=\"display: block; margin: auto; margin-bottom: 15px;max-width: 100%;\" link_thumbnail=\"1\" decoding=\"async\" srcset=\"https://multiplesclerosisnewstoday.com/wp-content/uploads/2024/03/IMG_1374-800x300.png 800w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2024/03/IMG_1374-380x142.png 380w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2024/03/IMG_1374-768x288.png 768w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2024/03/IMG_1374-1536x575.png 1536w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2024/03/IMG_1374.png 1800w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-wp-pid=\"138158\" /></a><p>With multiple sclerosis (MS), pain can sometimes be obvious, and sometimes it is something I carry quietly while I go about my day. From the outside, I might look fine. I can have a conversation, answer emails, laugh with someone, or get through everything I need to do, but that does not mean my body [&#8230;]</p> <p>The post <a href=\"https://multiplesclerosisnewstoday.com/columns/2026/09/30/learning-listen-wage-never-ending-silent-battle-chronic-pain/\">Learning to listen as I wage a never-ending, silent battle with chronic pain</a> appeared first on <a href=\"https://multiplesclerosisnewstoday.com\">Multiple Sclerosis News Today</a>.</p>",
-      "kind": "news",
-      "score": 70,
-      "topics": [
-        "regulatory",
-        "symptoms"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "bdf83b5d6af7eeb1",
+      "id": "ff7fe3c7bbb51493",
       "source_id": "clinicaltrials-ms",
       "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "Hybrid Rehabilitation Approach Through Group Exercise and Telerehabilitation in Patients With Multiple Sclerosis",
-      "url": "https://clinicaltrials.gov/study/NCT05469568",
-      "published_at": "2026-09-30T00:00:00+00:00",
-      "summary": "The aim of the study is to determine the benefits of outpatient group rehabilitation with subsequent telerehabilitation. The patient will participate in a 12-week circuit training, including training once a week in a group of six under the guidance of two physiotherapists. After the outpatient rehabilitation, the patient will gain access to a mobile application and will be asked to record all physical activities there.",
-      "kind": "clinical_trial",
-      "external_id": "NCT05469568",
-      "score": 69,
-      "topics": [
-        "research",
-        "rehabilitation"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "454066392f51978c",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "TWEAK, a New Biomarker for Predicting Inflammatory Relapses in Multiple Sclerosis",
-      "url": "https://clinicaltrials.gov/study/NCT03974997",
-      "published_at": "2026-09-23T00:00:00+00:00",
-      "summary": "A significant variation in the serum concentration of the circulating cytokine TWEAK is associated with the onset of an inflammatory attack of MS. Study the concentration variations of the serum soluble form of cytokine TWEAK during the first year of MS and to analyze their correlation with the occurrence of an inflammatory disease outbreak.",
-      "kind": "clinical_trial",
-      "external_id": "NCT03974997",
-      "score": 69,
-      "topics": [
-        "research",
-        "diagnosis"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "00f69299b1417a26",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "Assessment of the Frequency of Functional Neurological Disorders in Multiple Sclerosis and Analysis of Clinical and Psychological Determinants: A Multicenter Cross-Sectional Study",
-      "url": "https://clinicaltrials.gov/study/NCT07849816",
-      "published_at": "2026-09-30T00:00:00+00:00",
-      "summary": "Multiple sclerosis (MS) and functional neurological disorders (FND) share clinical features, which may result in FND being overlooked in patients with MS. They also share common comorbidities, including depression and alexithymia.\n\nAs their management differs, assessing the frequency and determinants of FND in patients with MS is important to improve diagnosis and ensure appropriate management.",
-      "kind": "clinical_trial",
-      "external_id": "NCT07849816",
-      "score": 65,
-      "topics": [
-        "research",
-        "diagnosis"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "ee316a52bb55076d",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "Clinical Investigation to Validate the Safety and Performance of Integrating Functional Electrical Stimulation Into the ABLE Exoskeleton",
-      "url": "https://clinicaltrials.gov/study/NCT07550699",
+      "title": "Early Detection of Selected Neuropathologies in Motor Vehicle Drivers",
+      "url": "https://clinicaltrials.gov/study/NCT07360886",
       "published_at": "2026-09-08T00:00:00+00:00",
-      "summary": "The primary objective of this study is to validate the safety and clinical performance of the ABLE Exoskeleton with integrated Functional Electrical Stimulation (ABLE FES) in individuals with neurological conditions that impair gait, including spinal cord injury, acquired brain injury, and multiple sclerosis.\n\nThe secondary objective is to collect preliminary data on the potential clinical and psychosocial benefits of combining robotic gait assistance with electrical stimulation.",
+      "summary": "This study aims to develop accessible methods for the early detection of selected neuropathologies in drivers, focusing on multiple sclerosis and Parkinson's disease. The primary objective is to identify clinical tests that correlate with outcomes from the Vienna Test System (VTS), thereby enabling early diagnosis without the need for complex neurological or neuropsychological assessments. Findings could improve the effectiveness of routine driver medical check-ups and inform future modifications to Czech traffic law to enhance road safety.",
       "kind": "clinical_trial",
-      "external_id": "NCT07550699",
-      "score": 65,
-      "topics": [
-        "research",
-        "rehabilitation"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "16bf8c023fad9643",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "Neurodegenerative Diseases Progression Markers (MARKERS-NDD)",
-      "url": "https://clinicaltrials.gov/study/NCT06596746",
-      "published_at": "2026-09-02T00:00:00+00:00",
-      "summary": "MARKERS-NDD is a prospective, observational, longitudinal study, which aims to collect data from patients affected by neurodegenerative diseases (NDD) followed longitudinally for routine examinations performed as part of normal clinical practice. Data collected from clinical evaluations, movement analysis, brain imaging, neuropsychological and electroencephalographic assessments, blood chemistry tests will be analysed to carry out statistical investigations and predictive analyses, also using artificial intelligence systems, which allow the identification of new early markers of diagnosis and prognosis of neurodegenerative diseases.",
-      "kind": "clinical_trial",
-      "external_id": "NCT06596746",
-      "score": 65,
+      "external_id": "NCT07360886",
+      "score": 73,
       "topics": [
         "research",
         "diagnosis"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "90c9b3af658b1bc5",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "A Closed Loop, Doctor to Patient, Mobile Application for Depression in People With Multiple Sclerosis",
-      "url": "https://clinicaltrials.gov/study/NCT05865405",
-      "published_at": "2026-09-14T00:00:00+00:00",
-      "summary": "The researchers want to find out if an electronic application called MS CATCH can enhance patients' and doctors' experiences during and in between clinical visits. MS CATCH is a smartphone-based tool which allows patients to enter their mood related symptoms at regular intervals, which is then available to their Neurologist in their electronic medical record. The neurologist is also able to view additional information from their medical record, and receives alerts for changes reported by the patient that raise concern for the patient's mental health.",
-      "kind": "clinical_trial",
-      "external_id": "NCT05865405",
-      "score": 62,
-      "topics": [
-        "research",
-        "symptoms"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "7d3c8c5175ebfe1a",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "A Study to Evaluate the Efficacy, Safety and Tolerability of BMS-986368 in Participants With Multiple Sclerosis Spasticity",
-      "url": "https://clinicaltrials.gov/study/NCT06782490",
-      "published_at": "2026-09-09T00:00:00+00:00",
-      "summary": "The purpose of this study is to evaluate the efficacy, safety, and tolerability of BMS-986368 in participants with Multiple Sclerosis Spasticity",
-      "kind": "clinical_trial",
-      "external_id": "NCT06782490",
-      "score": 62,
-      "topics": [
-        "research",
-        "symptoms"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "36e7dc46cd3b7380",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "Clinical Investigation of the Quality of Life Benefit of Using a Home Walking Exoskeleton for a Population of Multiple Sclerosis Patients.",
-      "url": "https://clinicaltrials.gov/study/NCT05835622",
-      "published_at": "2026-09-25T00:00:00+00:00",
-      "summary": "The goal of this clinical investigation is to evaluate the effectiveness of home use of a lightweight robotic lower limb exoskeleton as a walking aid device on quality of life in patients with multiple sclerosis with gait disorders.\n\nParticipants will wear an exoskeleton (Keeogo) for 8 weeks at home during the experimental phase. This phase is compared to an 8-week control phase at home with advice on regular physical activity adapted to their abilities.",
-      "kind": "clinical_trial",
-      "external_id": "NCT05835622",
-      "score": 61,
-      "topics": [
-        "rehabilitation",
-        "quality_of_life"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "8d766e2171aec190",
-      "source_id": "ms-news-today",
-      "source": "Multiple Sclerosis News Today",
-      "title": "Breathing problems worsen along with MS disability, study finds",
-      "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/09/23/breathing-problems-worsen-along-ms-disability-study-finds/",
-      "published_at": "Wed, 23 Sep 2026 12:00:01 +0000",
-      "summary": "<a href=\"https://multiplesclerosisnewstoday.com/news-posts/2026/09/23/breathing-problems-worsen-along-ms-disability-study-finds/\" title=\"Breathing problems worsen along with MS disability, study finds\" rel=\"nofollow\"><img width=\"800\" height=\"450\" src=\"https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/09/iStock-2152773304-800x450.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"A man struggles to breathe, with one hand over his mouth and the other on his chest.\" style=\"display: block; margin: auto; margin-bottom: 15px;max-width: 100%;\" link_thumbnail=\"1\" decoding=\"async\" loading=\"lazy\" srcset=\"https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/09/iStock-2152773304-800x450.jpg 800w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/09/iStock-2152773304-380x214.jpg 380w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/09/iStock-2152773304-768x432.jpg 768w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/09/iStock-2152773304-1536x864.jpg 1536w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/09/iStock-2152773304-1200x675-cropped.jpg 1200w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/09/iStock-2152773304.jpg 1800w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-wp-pid=\"165638\" /></a><p>Breathing problems are common in advanced multiple sclerosis (MS), becoming more frequent as disability increases, according to a study by researchers in London. &#8220;Screening for respiratory dysfunction can be easily incorporated into routine clinical care by asking about respiratory symptoms,” they wrote. The study, “Respiratory dysfunction in people with advanced multiple sclerosis,” was published in [&#8230;]</p> <p>The post <a href=\"https://multiplesclerosisnewstoday.com/news-posts/2026/09/23/breathing-problems-worsen-along-ms-disability-study-finds/\">Breathing problems worsen along with MS disability, study finds</a> appeared first on <a href=\"https://multiplesclerosisnewstoday.com\">Multiple Sclerosis News Today</a>.</p>",
-      "kind": "news",
-      "score": 60,
-      "topics": [
-        "research",
-        "symptoms"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "f45e3ad2cd178536",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "Comparing the Safety and Benefit of Natalizumab (Tysabri®) At-home Infusion vs At-hospital Infusion in Multiple Sclerosis",
-      "url": "https://clinicaltrials.gov/study/NCT04777539",
-      "published_at": "2026-09-02T00:00:00+00:00",
-      "summary": "At-home use of Natalizumab in multiple sclerosis (MS) patients has been temporarily granted by French security agency of medicines and Health products (ANSM). The main objective of the study is to compare the safety of natalizumab administration at home vs at hospital based on retrospective and prospective data collection. Quality of life, patient perception of at-home natalizumab administration are also evaluated as secondary objectives as well as medico-economic assessment of the method.\n\nData will be collected for a 12-month retrospective period and a 12-month prospective period.",
-      "kind": "clinical_trial",
-      "external_id": "NCT04777539",
-      "score": 59,
-      "topics": [
-        "research",
-        "quality_of_life"
       ],
       "status": "new"
     }

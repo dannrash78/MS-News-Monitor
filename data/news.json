@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T11:02:06.016606+00:00",
+  "updated_at": "2026-10-05T12:10:11.208746+00:00",
   "articles": [
     {
       "id": "6a4e64b11a3d0fd8",
@@ -77,6 +77,68 @@
       "status": "new"
     },
     {
+      "id": "b5e1b3f9473de43b",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "Testosterone Treatment for Erectile Dysfunction and Multiple Sclerosis",
+      "url": "https://clinicaltrials.gov/study/NCT04601233",
+      "published_at": "2026-10-02T00:00:00+00:00",
+      "summary": "The purpose of the study is to determine the effects of testosterone treatment on erectile function, fatigue, depression, cognitive function, quality of life, urinary incontinence, pain, and damage to neurons in male Multiple Sclerosis patients with low testosterone, using questionnaires, blood samples and a rectal exam in volunteers 55 years and older.",
+      "kind": "clinical_trial",
+      "external_id": "NCT04601233",
+      "score": 100,
+      "topics": [
+        "treatment",
+        "research",
+        "symptoms",
+        "quality_of_life"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "aae568d8cfb78cf2",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "Bridging Gaps in the Multidimensional Assessment and Management of Overlapping Symptoms in Multiple Sclerosis and Functional Motor Disorders: Prevalence and Rehabilitation Effectiveness",
+      "url": "https://clinicaltrials.gov/study/NCT07856485",
+      "published_at": "2026-10-02T00:00:00+00:00",
+      "summary": "Multiple sclerosis (MS) is a chronic immune-mediated disease of the central nervous system that may cause a broad range of motor and non-motor symptoms. New or worsening neurological symptoms in people with MS are frequently interpreted as a possible relapse. However, relapse-like episodes are not always caused by new inflammatory disease activity and may instead reflect infection, fever, comorbidities, fluctuations of pre-existing symptoms, or an overlapping functional neurological disorder. Functional motor disorders (FMDs) are characterized by altered voluntary motor control and may present with weakness, tremor, gait disturbance, postural instability, abnormal movements, or impaired motor performance. These manifestations may resemble MS-related symptoms and may coexist with established structural neurological disease. In people with MS, functional motor symptoms may therefore be misclassified as relapse or disease progression, potentially leading to unnecessary investigations, corticosteroid treatment, inappropriate escalation of disease-modifying therapy, avoidable healthcare use, and delayed access to appropriate rehabilitation. Despite growing recognition of FMD-MS overlap, its prevalence, clinical characteristics, and optimal management remain insufficiently defined. This multicenter prospective study aims to improve the identification, characterization, and management of FMD-MS overlap in people with MS presenting with acute neurological symptom worsening. The study consists of two sequential and interconnected parts.\n\nPart A is an observational, cross-sectional diagnostic and prevalence study. A total of 192 adults with MS according to the 2017 revisions of the McDonald criteria and reporting new or worsening neurological symptoms within the previous 30 days will be enrolled at two tertiary MS centers in Italy. No study-assigned treatment will be administered during Part A. Participants will undergo a standardized multidimensional assessment including demographic and MS-related clinical information, neurological examination, evaluation of positive functional motor signs, disability and functional measures, gait and balance assessments, patient-reported outcome measures, and review of laboratory and magnetic resonance imaging findings obtained as part of routine clinical care when clinically indicated.\n\nThe primary aim of Part A is to estimate the prevalence of FMD-MS overlap, also referred to in the protocol as functional pseudorelapse, among people with MS presenting with acute symptom worsening. Additional aims are to distinguish FMD-MS overlap from true MS relapse and other causes of symptom worsening and to identify demographic, clinical, functional, gait, balance, psychological, quality-of-life, and routine-care imaging characteristics associated with each diagnostic category.\n\nPart B is a pilot randomized, assessor-blinded, active-controlled rehabilitation study. Approximately 26 participants with confirmed FMD-MS overlap identified during Part A and meeting the additional rehabilitation eligibility criteria will enter Part B. These 26 participants are included within the overall cohort of 192 participants and are not an additional study population.\n\nParticipants entering Part B will be randomized in a 1:1 ratio to either a targeted FMD-specific multidisciplinary rehabilitation programme or conventional MS rehabilitation. The experimental programme will include five consecutive days of in-person rehabilitation focused on education regarding functional symptom mechanisms, movement retraining using attentional-redirection strategies, and development of an individualized self-management plan. This will be followed by a 12-week home-based programme supported by weekly telemedicine sessions. The active comparator will consist of conventional MS rehabilitation addressing mobility, strength, gait, balance, endurance, fatigue management, and functional independence, without protocolized FMD-specific techniques.\n\nPart B aims to assess the feasibility, safety, and preliminary efficacy of the FMD-specific rehabilitation programme compared with conventional MS rehabilitation. Outcomes will be assessed at baseline, immediately after the five-day intervention, and at three months. The main efficacy outcome will be change in functional motor symptom severity, with additional evaluation of disability, functional performance, gait, balance, fatigue, pain, emotional functioning, quality of life, healthcare utilization, and costs.\n\nOverall, the study is expected to provide prospective evidence on the frequency and clinical profile of FMD-MS overlap and preliminary evidence on whether a mechanism-specific rehabilitation approach may improve outcomes in affected people with MS.",
+      "kind": "clinical_trial",
+      "external_id": "NCT07856485",
+      "score": 100,
+      "topics": [
+        "clinical_trial",
+        "treatment",
+        "regulatory",
+        "research",
+        "diagnosis",
+        "rehabilitation",
+        "symptoms",
+        "quality_of_life"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "b6ecd8d833995ef1",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "Stopping TSC Onset and Progression 2B: Sirolimus TSC Epilepsy Prevention Study",
+      "url": "https://clinicaltrials.gov/study/NCT05104983",
+      "published_at": "2026-10-02T00:00:00+00:00",
+      "summary": "This trial is a Phase II randomized, double-blind, placebo controlled multi-site study to evaluate the safety and efficacy of early sirolimus to prevent or delay seizure onset in TSC infants.\n\nThis study is supported by research funding from the Office of Orphan Products Division (OOPD) of the US Food and Drug Administration (FDA).",
+      "kind": "clinical_trial",
+      "external_id": "NCT05104983",
+      "score": 100,
+      "topics": [
+        "clinical_trial",
+        "treatment",
+        "regulatory",
+        "research",
+        "symptoms"
+      ],
+      "status": "new"
+    },
+    {
       "id": "3677512aaa9e00d3",
       "source_id": "clinicaltrials-ms",
       "source": "ClinicalTrials.gov – Multiple Sclerosis",
@@ -131,6 +193,24 @@
         "research",
         "symptoms",
         "quality_of_life"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "5a904aa9b7064bfa",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "A Study of Orelabrutinib in Patients With Secondary Progressive Multiple Sclerosis",
+      "url": "https://clinicaltrials.gov/study/NCT07299019",
+      "published_at": "2026-09-30T00:00:00+00:00",
+      "summary": "Orelabrutinib is a CNS-penetrable BTK inhibitor. This is a phase 3, randomized, double-blind, parallel-group, multicenter study to evaluate the efficacy and safety of orelabrutinib compared with placebo in patients with non-active Secondary Progress MS. Patients will be treated for approximately 24 to 60 months, with a minimum treatment duration of 12 months. The study will enroll approximately 990 subjects in a 2:1 randomization (orelabrutinib: placebo), globally.",
+      "kind": "clinical_trial",
+      "external_id": "NCT07299019",
+      "score": 100,
+      "topics": [
+        "clinical_trial",
+        "treatment",
+        "research"
       ],
       "status": "new"
     },
@@ -204,6 +284,25 @@
         "regulatory",
         "research",
         "nutrition"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "28997da8c529a723",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "A Study to Evaluate the Efficacy, Safety and Pharmacokinetics (PK) of a Higher Dose of Ocrelizumab in Adults With Relapsing Multiple Sclerosis (RMS)",
+      "url": "https://clinicaltrials.gov/study/NCT04544436",
+      "published_at": "2026-09-28T00:00:00+00:00",
+      "summary": "This is a randomized, double-blind, controlled, parallel group, multicenter study to evaluate efficacy, safety and PK of a higher dose of ocrelizumab per intravenous (IV) infusion every 24 weeks (Q24W) in participants with RMS, in comparison to the approved 600 milligrams (mg) dose of ocrelizumab.",
+      "kind": "clinical_trial",
+      "external_id": "NCT04544436",
+      "score": 100,
+      "topics": [
+        "clinical_trial",
+        "treatment",
+        "regulatory",
+        "research"
       ],
       "status": "new"
     },
@@ -352,6 +451,24 @@
       "topics": [
         "clinical_trial",
         "treatment",
+        "research"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "cbd19f8df60ec3f0",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "Clinnova-MS: A Prospective Cohort Study of Patients With Multiple Sclerosis: A Trans-regional Digital Health Effort Unlocking the Potential of Artificial Intelligence and Data Science in Health Care",
+      "url": "https://clinicaltrials.gov/study/NCT07280871",
+      "published_at": "2026-09-22T00:00:00+00:00",
+      "summary": "The Clinnova-Multiple Sclerosis (MS) study is part of the Clinnova program (NCT06526364; NCT06235684 and NCT05733702), which seeks to advance precision medicine and the digitalization of healthcare through high-quality, interoperable health data.\n\nThis program focuses on people with multiple sclerosis (MS) and aims to identify objective surrogate markers derived from clinical, epidemiological, imaging, and omics data that can predict disease activity, such as progression or relapses.\n\nBy combining data science and artificial intelligence, the project seeks to improve patient stratification, support personalized therapeutic decisions, and provide insights into the mechanisms underlying treatment response and disease progression.\n\nAlthough many therapies are available for MS, it remains challenging to determine the most appropriate strategy for each patient and to prevent long-term disability. Current treatments mainly target relapses and inflammation, with limited effects on chronic progression. Clinnova-MS will collect and analyze real-world and research data to better understand variability in disease activity and treatment outcomes, enabling more precise, evidence-based care within the standard of care. This study represents the first step toward the broader Clinnova objective: developing sustainable, personalized, and preventive healthcare for people living with MS.",
+      "kind": "clinical_trial",
+      "external_id": "NCT07280871",
+      "score": 100,
+      "topics": [
+        "treatment",
+        "regulatory",
         "research"
       ],
       "status": "new"
@@ -1078,6 +1195,24 @@
       "status": "new"
     },
     {
+      "id": "4743ecec2c692e15",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "Effect of High Intensity Training on Motor and Cognitive Functions",
+      "url": "https://clinicaltrials.gov/study/NCT06219304",
+      "published_at": "2026-09-10T00:00:00+00:00",
+      "summary": "Fatigability is one of the most prevalent disorder in MS followed by walking, balance and cognitive disorders.\n\nHowever, there are few experimental studies on the effects of fatigability on balance and gait hampering the knowledge of causal fatigue-related changes of walking, balance and cognition. Nowadays, instrumented systems such as wearable devices and optoelectronic systems are available and can be used to provide quantitative and objective indexes useful to monitor the changes of gait parameters during a fatiguing performance. (Moreover), instrumented assessment of patients' performances in dual task paradigms can reveal the possible impact of fatigability on cognitive functions. So far, high intensity functional training has been already used in MS to reduce fatigability. However, the true impact of reduced fatigability on walking, balance and cognition has not been assessed after a fatiguing task making impossible to understand the real impact of treatments focusing on fatigability on these functions.\n\nThus, the aims of the present proposal are to assess the: 1) the acute effect of experimentally induced motor fatigability on walking, balance and cognitive functions using an objective instrumented assessment before, during, and after an overground fatiguing walking test. 2) to investigate the effect of high intensity multimodal functional training to improve motor and cognitive disorders.",
+      "kind": "clinical_trial",
+      "external_id": "NCT06219304",
+      "score": 96,
+      "topics": [
+        "treatment",
+        "rehabilitation",
+        "symptoms"
+      ],
+      "status": "new"
+    },
+    {
       "id": "3d594916182ef2d1",
       "source_id": "ms-news-today",
       "source": "Multiple Sclerosis News Today",
@@ -1304,6 +1439,23 @@
       "status": "new"
     },
     {
+      "id": "0948c9253373356c",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "Oral FMT (Fecal Microbial Transplant) in Subjects With Multiple Sclerosis",
+      "url": "https://clinicaltrials.gov/study/NCT04096443",
+      "published_at": "2026-10-01T00:00:00+00:00",
+      "summary": "The goal of this pilot study is to determine whether fecal microbial transplant (FMT) has the potential to be an effective, safe and tolerable therapy for the treatment of multiple sclerosis (MS). The investigators plan to gather preliminary data in a small cohort of 10 to 15 adults with MS.",
+      "kind": "clinical_trial",
+      "external_id": "NCT04096443",
+      "score": 83,
+      "topics": [
+        "treatment",
+        "research"
+      ],
+      "status": "new"
+    },
+    {
       "id": "2a6f772e503f8a57",
       "source_id": "clinicaltrials-ms",
       "source": "ClinicalTrials.gov – Multiple Sclerosis",
@@ -1448,6 +1600,23 @@
       "summary": "The primary objective of the study is to compare the prevalence rate of major congenital malformations (MCM) between 2 cohorts of pregnant participants with MS who are exposed to BRIUMVI® and who are unexposed to BRIUMVI®.",
       "kind": "clinical_trial",
       "external_id": "NCT06433765",
+      "score": 79,
+      "topics": [
+        "treatment",
+        "research"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "c3246e2c2eb31624",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "A Real-World Study of Ofatumumab in Multiple Sclerosis Patients in Germany and Japan",
+      "url": "https://clinicaltrials.gov/study/NCT07821411",
+      "published_at": "2026-09-15T00:00:00+00:00",
+      "summary": "This study aims to evaluate the real-world persistence and adherence to ofatumumab (OMB) treatment in adult patients with relapsing multiple sclerosis (RMS). This is a non-interventional study using administrative claims data available in Germany and Japan.",
+      "kind": "clinical_trial",
+      "external_id": "NCT07821411",
       "score": 79,
       "topics": [
         "treatment",
@@ -1656,161 +1825,6 @@
       "topics": [
         "treatment",
         "research"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "ea3c96275a6e931b",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "In Vivo Characterization of Inflammation With Ferumoxytol, an Ultrasmall Superparamagnetic Iron Oxide Nanoparticle, on 7 Tesla Magnetic Resonance Imaging",
-      "url": "https://clinicaltrials.gov/study/NCT02511028",
-      "published_at": "2026-09-18T00:00:00+00:00",
-      "summary": "Background:\n\n\\- Contrast agents help things show up better on magnetic resonance imaging (MRI) scans. Researchers want to see if the drug ferumoxytol is a good contrast agent. They want to determine that it does not cause prolonged MRI changes in the brain and to see if it helps identify inflammation in multiple sclerosis\n\nObjective:\n\n\\- To learn how ferumoxytol can be used to image inflammation in multiple sclerosis (MS).\n\nEligibility:\n\n* Adults ages 18 70 who have MS.\n* Healthy volunteers ages 18 70.\n\nDesign:\n\n* Participants will have 5 clinic visits over 6 months.\n* Participants will be screened with a medical history, neurological exam, and blood draw. Full clinical measures will be obtained.\n* Participants will have a 7 tesla brain MRI scan that may include gadolinium contrast agent. The MRI is a metal cylinder in a strong magnetic field. The participant will lie on a table that can slide in and out of the cylinder.\n* During visit 2, ferumoxytol with be given through a catheter (a thin plastic tube) that is inserted with a needle into a vessel in the arm.\n\n\\<TAB\\>- Participants will then have a 7 tesla MRI scan of the brain..\n\n* At each of the next 3 clinic visits, participants will have a 7 tesla brain MRI and have blood drawn. The MRIs may include gadolinium.\n* Participants may have a full neurologic exam at these visits. At the final visit, full clinical measures will be obtained.\n* Participants may have more MRI scans if a 6-month MRI shows ferumoxytol still in the brain.",
-      "kind": "clinical_trial",
-      "external_id": "NCT02511028",
-      "score": 75,
-      "topics": [
-        "treatment",
-        "research"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "10c66ebacf99ab09",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "Web Intervention for Parents of Youth With Genetic Syndromes (WINGS)",
-      "url": "https://clinicaltrials.gov/study/NCT06139172",
-      "published_at": "2026-09-18T00:00:00+00:00",
-      "summary": "The purpose of this study is to evaluate the effectiveness of an adapted, telehealth functional behavioral therapy (FBTsIDD) specifically focused on promoting appropriate communication and behavioral strategies in individuals with syndromic intellectual and developmental disorders.\n\nParticipants will be asked to complete virtual study assessments at intake and then on a monthly basis for the duration of 3-6 months. In addition, participants will attend weekly or biweekly virtual intervention visits with a study therapist.",
-      "kind": "clinical_trial",
-      "external_id": "NCT06139172",
-      "score": 75,
-      "topics": [
-        "treatment",
-        "research"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "100b7d100467a89b",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "A Study of Ocrelizumab in Children and Adolescents With Relapsing-Remitting Multiple Sclerosis",
-      "url": "https://clinicaltrials.gov/study/NCT04075266",
-      "published_at": "2026-09-14T00:00:00+00:00",
-      "summary": "This 12-year study will evaluate the safety, tolerability, pharmacokinetics, and pharmacodynamic (PD) effects of ocrelizumab in children and adolescents ages ≥ 10 to ≤ 18 years with relapsing-remitting multiple sclerosis (RRMS). The data from this study will serve to determine the dosing regimen of ocrelizumab to be further investigated in the subsequent Phase III study in children and adolescents.",
-      "kind": "clinical_trial",
-      "external_id": "NCT04075266",
-      "score": 75,
-      "topics": [
-        "treatment",
-        "research"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "89215d45f15d2d13",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "A Multiple Dose Study to Investigate Safety, Tolerability and Pharmacokinetics of TBN",
-      "url": "https://clinicaltrials.gov/study/NCT04667013",
-      "published_at": "2026-09-11T00:00:00+00:00",
-      "summary": "The purpose of this study is to assess the safety, tolerability and pharmacokinetics (i.e. how study drug is taken up by the body) of TBN in healthy participants.",
-      "kind": "clinical_trial",
-      "external_id": "NCT04667013",
-      "score": 75,
-      "topics": [
-        "treatment",
-        "research"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "8422e3001c101a4e",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "Study to Evaluate the Effectiveness and Safety of Ozanimod Compared to Fingolimod in Children and Adolescents With Relapsing Remitting Multiple Sclerosis",
-      "url": "https://clinicaltrials.gov/study/NCT06408259",
-      "published_at": "2026-09-10T00:00:00+00:00",
-      "summary": "The purpose of this study is to evaluate the effectiveness, safety, tolerability, drug levels and drug effects of ozanimod compared to fingolimod in children and adolescents with relapsing remitting multiple sclerosis (RRMS).",
-      "kind": "clinical_trial",
-      "external_id": "NCT06408259",
-      "score": 75,
-      "topics": [
-        "treatment",
-        "research"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "ef0291bbf317334f",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "Human Amniotic Mesenchymal Cell Secretome for Neurodegeneration and Neuroinflammation",
-      "url": "https://clinicaltrials.gov/study/NCT06551649",
-      "published_at": "2026-09-09T00:00:00+00:00",
-      "summary": "Neurodegenerative diseases are debilitating conditions characterized by chronic inflammation, leading to dysfunction of both the non-neuronal cellular components of the central nervous system and peripheral blood immune cells. Thus, it is crucial to develop an innovative therapeutic strategy that not only effectively contrast neurodegeneration but also aims to reduce inflammation.\n\nThe overall aim of the study is to provide a preclinical in vitro demonstration of the immunomodulatory and pro-regenerative potential of the human amniotic mesenchymal stromal cell (hAMSC) secretome in counteracting neurodegeneration.\n\nThis potential will be evaluated in three-dimensional in vitro models of neurodegenerative diseases, such as amyotrophic lateral sclerosis (ALS) and chronic demyelinating disease (multiple sclerosis - MS). To this end, the study includes sample collection from patients without pharmacological treatment and without medical devices. Patients diagnosed with ALS, patients diagnosed with MS, and healthy volunteers will be recruited to collect blood samples and skin biopsies. Patient-specific and control organoid platforms, mimicking cellular heterogeneity and tridimensional interactions within the central nervous system including the inflammatory compartment, will be developed to be used as a valuable tool to investigate the in vitro efficacy of the hAMSC secretome.",
-      "kind": "clinical_trial",
-      "external_id": "NCT06551649",
-      "score": 75,
-      "topics": [
-        "treatment",
-        "research"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "d76105fa39deab4d",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "Dietary Approaches to Treat Multiple Sclerosis-Related Fatigue Study",
-      "url": "https://clinicaltrials.gov/study/NCT02914964",
-      "published_at": "2026-09-18T00:00:00+00:00",
-      "summary": "The purpose of this study is to compare the effect of the Swank Diet (low saturated fat) and the Wahls Elimination Diet (modified paleo) on fatigue levels in individuals with relapsing-remitting multiple sclerosis who have documented fatigue. Participants will follow their usual diet for 12 weeks and then be randomly assigned to follow one of the two diets for 24 weeks.",
-      "kind": "clinical_trial",
-      "external_id": "NCT02914964",
-      "score": 74,
-      "topics": [
-        "research",
-        "symptoms",
-        "nutrition"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "9c4bd8fa16857a4d",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "Autoimmune Intervention Mastery Course Study",
-      "url": "https://clinicaltrials.gov/study/NCT05057676",
-      "published_at": "2026-09-18T00:00:00+00:00",
-      "summary": "The goal of this project is to critically evaluate the effectiveness of using an online program to improve diet and self-care in patients with multiple sclerosis (MS), clinically isolated syndrome (CIS), fibromyalgia, post acute sequela of covid, and cancer in remission with persisting fatigue.",
-      "kind": "clinical_trial",
-      "external_id": "NCT05057676",
-      "score": 74,
-      "topics": [
-        "research",
-        "symptoms",
-        "nutrition"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "ff7fe3c7bbb51493",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "Early Detection of Selected Neuropathologies in Motor Vehicle Drivers",
-      "url": "https://clinicaltrials.gov/study/NCT07360886",
-      "published_at": "2026-09-08T00:00:00+00:00",
-      "summary": "This study aims to develop accessible methods for the early detection of selected neuropathologies in drivers, focusing on multiple sclerosis and Parkinson's disease. The primary objective is to identify clinical tests that correlate with outcomes from the Vienna Test System (VTS), thereby enabling early diagnosis without the need for complex neurological or neuropsychological assessments. Findings could improve the effectiveness of routine driver medical check-ups and inform future modifications to Czech traffic law to enhance road safety.",
-      "kind": "clinical_trial",
-      "external_id": "NCT07360886",
-      "score": 73,
-      "topics": [
-        "research",
-        "diagnosis"
       ],
       "status": "new"
     }

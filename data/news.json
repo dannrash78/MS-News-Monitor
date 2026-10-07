@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T11:53:51.582943+00:00",
+  "updated_at": "2026-10-07T11:38:56.872085+00:00",
   "articles": [
     {
       "id": "6a4e64b11a3d0fd8",
@@ -34,6 +34,25 @@
         "research",
         "rehabilitation",
         "nutrition"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "ed0d7de7e3fdf1a7",
+      "source_id": "ms-news-today",
+      "source": "Multiple Sclerosis News Today",
+      "title": "Probiotics linked to less fatigue and depression in relapsing-remitting MS",
+      "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/10/06/probiotics-linked-less-fatigue-disability-relapsing-remitting-ms/",
+      "published_at": "Tue, 06 Oct 2026 17:45:06 +0000",
+      "summary": "<a href=\"https://multiplesclerosisnewstoday.com/news-posts/2026/10/06/probiotics-linked-less-fatigue-disability-relapsing-remitting-ms/\" title=\"Probiotics linked to less fatigue and depression in relapsing-remitting MS\" rel=\"nofollow\"><img width=\"800\" height=\"533\" src=\"https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/09/iStock-2241629271-800x533.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"A woman drinks from a small bottle of yogurt.\" style=\"display: block; margin: auto; margin-bottom: 15px;max-width: 100%;\" link_thumbnail=\"1\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/09/iStock-2241629271-800x533.jpg 800w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/09/iStock-2241629271-380x253.jpg 380w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/09/iStock-2241629271-768x512.jpg 768w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/09/iStock-2241629271-1536x1024.jpg 1536w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/09/iStock-2241629271.jpg 1800w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-wp-pid=\"166013\" /></a><p>Adding probiotics to standard multiple sclerosis (MS) therapies may help to reduce fatigue, depression, and disability levels, as well as improve quality of life, in people with relapsing-remitting MS (RRMS), according to data from a small clinical trial. Probiotics are live microorganisms intended to support health. Compared with patients who continued standard treatment alone, those who [&#8230;]</p> <p>The post <a href=\"https://multiplesclerosisnewstoday.com/news-posts/2026/10/06/probiotics-linked-less-fatigue-disability-relapsing-remitting-ms/\">Probiotics linked to less fatigue and depression in relapsing-remitting MS</a> appeared first on <a href=\"https://multiplesclerosisnewstoday.com\">Multiple Sclerosis News Today</a>.</p>",
+      "kind": "news",
+      "score": 100,
+      "topics": [
+        "clinical_trial",
+        "treatment",
+        "research",
+        "symptoms",
+        "quality_of_life"
       ],
       "status": "new"
     },
@@ -135,6 +154,24 @@
         "regulatory",
         "research",
         "symptoms"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "f0dd908a5000cf20",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "Targeting Residual Activity By Precision, Biomarker-Guided Combination Therapies of Multiple Sclerosis (TRAP-MS)",
+      "url": "https://clinicaltrials.gov/study/NCT03109288",
+      "published_at": "2026-10-02T00:00:00+00:00",
+      "summary": "Background:\n\nIn people with multiple sclerosis (MS), brain and cerebrospinal fluid (CSF) biomarkers indicate inflammation or disease. Researchers want to see if 4 drugs given alone or combined affect MS biomarkers. They want to see if a change in biomarker levels can predict which drugs a person with MS might respond to.\n\nObjective:\n\nTo see if signs of inflammation in CSF help predict a person s response to different drugs.\n\nEligibility:\n\nPeople ages 18 and older who:\n\n* Are in protocol 09-I-0032\n* Have progressive MS\n* Can stand and walk a few steps\n* Take an MS drug\n\nDesign:\n\nParticipants will be screened in protocol 09-I-0032.\n\nParticipants will take 1 of the 4 study drugs. Researchers will call after 1 month to see how they are doing. Some will start a second drug. They may take each drug or combination for up to 18 months.\n\nParticipants will have 2 visits a year for up to 6 years. Visits include:\n\n* Medical history\n* Physical exam\n* Blood and heart tests\n* X-rays and scans\n* Eye exam and tear collection\n* Lumbar puncture: A needle inserted between back bones removes some CSF.\n* Lymphocytapheresis: Blood is removed through a needle in one arm and run through a machine. The blood is returned through a needle in the other arm.\n* A sensor on the forehead records blood flow and oxygen use.\n* Participants may get a device for testing at home.\n\nParticipants will stop taking the drugs if they have taken 2 drugs together for 18 months or if they do not do well on the drugs.\n\nParticipants will be called 3 months later to see how they are doing....",
+      "kind": "clinical_trial",
+      "external_id": "NCT03109288",
+      "score": 100,
+      "topics": [
+        "treatment",
+        "research",
+        "diagnosis"
       ],
       "status": "new"
     },
@@ -814,6 +851,25 @@
       "status": "new"
     },
     {
+      "id": "9169698f46fb8f1d",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "A Clinical Study to Evaluate the Safety and Efficacy of GT802 Injection in the Treatment of Relapsing/Refractory Multiple Sclerosis",
+      "url": "https://clinicaltrials.gov/study/NCT07748637",
+      "published_at": "2026-09-14T00:00:00+00:00",
+      "summary": "This is a single-arm, open-label, dose-escalation clinical trial intended to evaluate the safety, efficacy and cellular pharmacokinetics of GT802 for the treatment of relapsing/refractory multiple sclerosis.",
+      "kind": "clinical_trial",
+      "external_id": "NCT07748637",
+      "score": 100,
+      "topics": [
+        "clinical_trial",
+        "treatment",
+        "regulatory",
+        "research"
+      ],
+      "status": "new"
+    },
+    {
       "id": "44dfbb4dcf06c5c2",
       "source_id": "clinicaltrials-ms",
       "source": "ClinicalTrials.gov – Multiple Sclerosis",
@@ -924,6 +980,24 @@
         "research",
         "rehabilitation",
         "symptoms"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "588166e9e35cfe4f",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "VIGIP-SEP2: Training of Patients by Nurses on ADR Reporting by RRMS Patient Via an App",
+      "url": "https://clinicaltrials.gov/study/NCT04116424",
+      "published_at": "2026-09-09T00:00:00+00:00",
+      "summary": "The patient's reporting of adverse drug reactions (ADRs) is recognized as being of interest for post-marketing safety monitoring, but is still underdeveloped in France, with an average lower than the European average. A multidisciplinary team of the University Hospital of Caen, composed of neurologists and pharmacovigilants, has been carrying out since autumn 2017 a national study (VIGIP-SEP1) with 24 research centers in France (12 universitary hospitals, 6 general hospitals, and 6 private-practice neurologists) whose main objective was to evaluate the impact of multiple sclerosis (MS) patients' use of a mobile application (App) to report their ADRs. ADR reports are sent by patients directly via the App to the Regional Pharmacovigilance Centers, after analyze, clinical pharmacologist send it to the National Competent Authority. As part of VIGIP-SEP1, the accompaniment for the use of the App was carried out very simply by neurologists.\n\nWe designed a randomized controlled trial based on the assumption that a nurse training of the patient, after the initial prescription of an oral MS drug, with a follow-up within 6 months, will increase by 3 times the number of patients who report ADRs compared to a simple information presented by the neurologist. The number of subjects required is 23 subjects per group.",
+      "kind": "clinical_trial",
+      "external_id": "NCT04116424",
+      "score": 100,
+      "topics": [
+        "clinical_trial",
+        "treatment",
+        "research"
       ],
       "status": "new"
     },
@@ -1164,7 +1238,7 @@
       "source": "ClinicalTrials.gov – Multiple Sclerosis",
       "title": "Effect of Corticosteroids on Inflammation at the Edge of Acute Multiple Sclerosis Plaques",
       "url": "https://clinicaltrials.gov/study/NCT02784210",
-      "published_at": "2026-09-16T00:00:00+00:00",
+      "published_at": "2026-10-05T00:00:00+00:00",
       "summary": "Background:\n\nMultiple sclerosis (MS) affects the brain, spinal cord, and optic nerves. MS lesions can appear on the MRI (magnetic resonance imaging) scans in many ways. Sometimes they light up from the outer edge and fill inward. This is called ring enhancement. Researchers think this type of lesion may not heal as well as others. Corticosteroids are the standard treatment to reduce symptoms of MS relapse. But there is no standard treatment for people with enhancing MS lesions without signs of MS relapse. Researchers want to see if a short-term high-dose course of corticosteroids helps heal those lesions.\n\nObjective:\n\nTo study the effects of short-term high-dose corticosteroids on ring-enhancing MS.\n\nEligibility:\n\nAdults ages 18 and older who:\n\n* Have MS and a rim-enhancing lesion on a prior brain MRI\n* Are enrolled in another NINDS protocol\n\nDesign:\n\nParticipants will be screened under another protocol\n\nParticipants will be randomly assigned to get either no treatment or 3 days of treatment with a corticosteroid.\n\nParticipants will have:\n\n* 1 baseline visit\n* 3 days of high-dose steroids, intravenous or oral. If IV, participants will receive methylprednisolone by IV each day. Participants will also be prescribed medicine to protect their stomach.\n* Follow-up visits will be at week 13 and week 25 after randomization to treatment or no treatment.\n\nVisits include medical history and physical exam. Participants will have blood and urine tests. Participants will also have neurological exams and MRIs. Participants lie on a table that slides into a cylinder. They are in the scanner 1.5-2 hours. They get a dye through a catheter: A needle guides a thin plastic tube into an arm vein.",
       "kind": "clinical_trial",
       "external_id": "NCT02784210",
@@ -1288,7 +1362,7 @@
       "title": "FDA grants priority review to ‘high-efficacy’ drug for 2 types of MS",
       "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/10/01/fda-grants-priority-review-high-efficacy-oral-drug-treat-2-ms-types/",
       "published_at": "Thu, 01 Oct 2026 14:30:44 +0000",
-      "summary": "<a href=\"https://multiplesclerosisnewstoday.com/news-posts/2026/10/01/fda-grants-priority-review-high-efficacy-oral-drug-treat-2-ms-types/\" title=\"FDA grants priority review to &#8216;high-efficacy&#8217; drug for 2 types of MS\" rel=\"nofollow\"><img width=\"800\" height=\"532\" src=\"https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/09/iStock-2200850893-800x532.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"A close-up view of the U.S. Food and Drug Administration website shows the agency&#039;s name in white letters against a blue background.\" style=\"display: block; margin: auto; margin-bottom: 15px;max-width: 100%;\" link_thumbnail=\"1\" decoding=\"async\" srcset=\"https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/09/iStock-2200850893-800x532.jpg 800w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/09/iStock-2200850893-380x253.jpg 380w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/09/iStock-2200850893-768x511.jpg 768w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/09/iStock-2200850893-1536x1022.jpg 1536w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/09/iStock-2200850893.jpg 1800w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-wp-pid=\"166198\" /></a><p>The U.S. Food and Drug Administration (FDA) has agreed to review an application from Roche seeking approval of its BTK inhibitor fenebrutinib as a treatment for relapsing forms of both multiple sclerosis (MS) and primary progressive MS (PPMS). Further, the FDA granted the application priority review, under which the regulatory agency aims to make its decision [&#8230;]</p> <p>The post <a href=\"https://multiplesclerosisnewstoday.com/news-posts/2026/10/01/fda-grants-priority-review-high-efficacy-oral-drug-treat-2-ms-types/\">FDA grants priority review to &#8216;high-efficacy&#8217; drug for 2 types of MS</a> appeared first on <a href=\"https://multiplesclerosisnewstoday.com\">Multiple Sclerosis News Today</a>.</p>",
+      "summary": "<a href=\"https://multiplesclerosisnewstoday.com/news-posts/2026/10/01/fda-grants-priority-review-high-efficacy-oral-drug-treat-2-ms-types/\" title=\"FDA grants priority review to &#8216;high-efficacy&#8217; drug for 2 types of MS\" rel=\"nofollow\"><img width=\"800\" height=\"532\" src=\"https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/09/iStock-2200850893-800x532.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"A close-up view of the U.S. Food and Drug Administration website shows the agency&#039;s name in white letters against a blue background.\" style=\"display: block; margin: auto; margin-bottom: 15px;max-width: 100%;\" link_thumbnail=\"1\" decoding=\"async\" loading=\"lazy\" srcset=\"https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/09/iStock-2200850893-800x532.jpg 800w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/09/iStock-2200850893-380x253.jpg 380w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/09/iStock-2200850893-768x511.jpg 768w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/09/iStock-2200850893-1536x1022.jpg 1536w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/09/iStock-2200850893.jpg 1800w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-wp-pid=\"166198\" /></a><p>The U.S. Food and Drug Administration (FDA) has agreed to review an application from Roche seeking approval of its BTK inhibitor fenebrutinib as a treatment for relapsing forms of both multiple sclerosis (MS) and primary progressive MS (PPMS). Further, the FDA granted the application priority review, under which the regulatory agency aims to make its decision [&#8230;]</p> <p>The post <a href=\"https://multiplesclerosisnewstoday.com/news-posts/2026/10/01/fda-grants-priority-review-high-efficacy-oral-drug-treat-2-ms-types/\">FDA grants priority review to &#8216;high-efficacy&#8217; drug for 2 types of MS</a> appeared first on <a href=\"https://multiplesclerosisnewstoday.com\">Multiple Sclerosis News Today</a>.</p>",
       "kind": "news",
       "score": 91,
       "topics": [
@@ -1418,6 +1492,23 @@
         "research",
         "rehabilitation",
         "symptoms"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "4349a7474cc6d409",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "Testing an Immunotherapy Anti-cancer Drug, Nivolumab, for Advanced Cancers in Patients With Autoimmune Disorders, AIM-NIVO",
+      "url": "https://clinicaltrials.gov/study/NCT03816345",
+      "published_at": "2026-10-05T00:00:00+00:00",
+      "summary": "This phase Ib trial studies the side effects of nivolumab and to see how well it works alone and in combination with other treatments, such as ipilimumab, cabozantinib, platinum containing therapy, and fluoropyrimidine, in treating patients with autoimmune disorders and cancer that has spread from where it first started (primary site) to nearby tissue, lymph nodes, or distant parts of the body (advanced), to other places in the body (metastatic) or cannot removed by surgery (unresectable). Immunotherapy with monoclonal antibodies, such as nivolumab and ipilimumab, may help the body's immune system attack the cancer, and may interfere with the ability of tumor cells to grow and spread. Cabozantinib blocks certain proteins, which may help keep tumor cells from growing. It may also prevent the growth of new blood vessels that tumors need to grow. Cabozantinib is a type of tyrosine kinase inhibitor and a type of angiogenesis inhibitor. Chemotherapy drugs, such as platinum containing therapies and fluoropyrimidine, work in different ways to stop the growth of tumor cells, either by killing the cells, by stopping them from dividing, or by stopping them from spreading. Giving nivolumab alone and in combination with other treatments, including ipilimumab, cabozantinib, platinum containing therapy, or fluoropyrimidine, may be safe, tolerable, and/or effective in treating patients with autoimmune disorders and advanced, metastatic, or unresectable cancer.",
+      "kind": "clinical_trial",
+      "external_id": "NCT03816345",
+      "score": 83,
+      "topics": [
+        "treatment",
+        "research"
       ],
       "status": "new"
     },
@@ -1736,91 +1827,6 @@
       "summary": "This study will evaluate the safety, tolerability, and descriptive efficacy of BIIB017 in pediatric participants with relapsing-remitting multiple sclerosis (RRMS) and to assess the pharmacokinetics (PK) of BIIB017 in pediatric participants with RRMS in Part 1. In Part 2, the study will evaluate the long-term safety of BIIB017 and further describe safety and the long-term multiple sclerosis (MS) outcomes after BIIB017 treatment in participants who completed the study treatment at Week 96 in Part 1 of the study.",
       "kind": "clinical_trial",
       "external_id": "NCT03958877",
-      "score": 75,
-      "topics": [
-        "treatment",
-        "research"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "f2ad63dbd4d14657",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "Propionic Acid for Multiple Sclerosis: Safety and Benefits",
-      "url": "https://clinicaltrials.gov/study/NCT07595081",
-      "published_at": "2026-09-22T00:00:00+00:00",
-      "summary": "The purpose of this study is to explore the long-term safety, tolerability, and clinical efficacy of propionic acid as an add-on therapy in multiple sclerosis (MS).",
-      "kind": "clinical_trial",
-      "external_id": "NCT07595081",
-      "score": 75,
-      "topics": [
-        "treatment",
-        "research"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "7666a97a9506297c",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "Comparison Between ABP 692 and Ocrevus® (Ocrelizumab)",
-      "url": "https://clinicaltrials.gov/study/NCT06700343",
-      "published_at": "2026-09-22T00:00:00+00:00",
-      "summary": "The Main objectives of the study are to demonstrate pharmacokinetic (PK) similarity between ABP 692 and ocrelizumab (US), as well as between ABP 692 and ocrelizumab (EU).",
-      "kind": "clinical_trial",
-      "external_id": "NCT06700343",
-      "score": 75,
-      "topics": [
-        "treatment",
-        "research"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "9469e73414b30703",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "A Study to Evaluate the Pharmacokinetics, Pharmacodynamics, Safety, Radiological and Clinical Effects of Subcutaneous Ublituximab in Participants With Relapsing Multiple Sclerosis (RMS)",
-      "url": "https://clinicaltrials.gov/study/NCT07211633",
-      "published_at": "2026-09-21T00:00:00+00:00",
-      "summary": "The purpose of this study is to assess the pharmacokinetics of ublituximab when administered subcutaneously (SC) compared to intravenous (IV) administration in participants with RMS.",
-      "kind": "clinical_trial",
-      "external_id": "NCT07211633",
-      "score": 75,
-      "topics": [
-        "treatment",
-        "research"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "da384424b060446a",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "Study to Assess Effects of Ublituximab in Pediatric Participants With Relapsing Forms of Multiple Sclerosis",
-      "url": "https://clinicaltrials.gov/study/NCT07220252",
-      "published_at": "2026-09-21T00:00:00+00:00",
-      "summary": "The primary purpose of this study is to evaluate the pharmacokinetics (PK) and pharmacodynamics (PD) of ublituximab in participants ages 10 to less than (\\<)18 years and body weight greater than or equal to (≥)25 kilograms (kg) to less than or equal to (≤)40 kg with RMS (Part A) and to evaluate the non-inferiority of ublituximab compared with fingolimod in pediatric RMS participants with body weight ≥ 25 kg (Part B). The study will further evaluate long-term safety and efficacy of ublituximab in RMS in pediatric participants during its extension period (Part C).",
-      "kind": "clinical_trial",
-      "external_id": "NCT07220252",
-      "score": 75,
-      "topics": [
-        "treatment",
-        "research"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "d692a86efcf3976f",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "A Study to Evaluate Pharmacokinetics (PK) and Safety of Subcutaneous (SC) Ublituximab Administered at Various Injection Sites and Relative Bioavailability Via Autoinjector (AI) Versus Syringe Subcutaneously in Participants With Multiple Sclerosis (MS)",
-      "url": "https://clinicaltrials.gov/study/NCT07503873",
-      "published_at": "2026-09-21T00:00:00+00:00",
-      "summary": "The purpose of this study is to evaluate the PK and safety of ublituximab SC at different sites of administration and relative bioavailability of ublituximab SC administered with a prefilled pen versus syringe.",
-      "kind": "clinical_trial",
-      "external_id": "NCT07503873",
       "score": 75,
       "topics": [
         "treatment",

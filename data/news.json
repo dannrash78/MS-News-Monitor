@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T11:45:25.438689+00:00",
+  "updated_at": "2026-10-10T11:03:08.973687+00:00",
   "articles": [
     {
       "id": "6a4e64b11a3d0fd8",
@@ -143,6 +143,25 @@
         "regulatory",
         "research",
         "rehabilitation",
+        "quality_of_life"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "cb83da9ffdd89c4d",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "Eccentric Cycling in Multiple Sclerosis Rehabilitation",
+      "url": "https://clinicaltrials.gov/study/NCT07316764",
+      "published_at": "2026-10-06T00:00:00+00:00",
+      "summary": "The project aims to optimise functional rehabilitation programmes for people with multiple sclerosis.\n\nInvestigators are proposing eccentric cycling as a new exercise modality for treating these patients.\n\nBased on previous results in healthy subjects, investigators will attempt to define the optimal parameters of this new modality (in terms of duration, intensity, frequency, etc.).\n\nInvestigators also aim to demonstrate the effectiveness of this training (compared to conventional training) in improving muscle function, functional capacity, perception of chronic fatigue, quality of life, physical condition, and neurological and cognitive function.",
+      "kind": "clinical_trial",
+      "external_id": "NCT07316764",
+      "score": 100,
+      "topics": [
+        "research",
+        "rehabilitation",
+        "symptoms",
         "quality_of_life"
       ],
       "status": "new"
@@ -867,6 +886,25 @@
       "status": "new"
     },
     {
+      "id": "004d7b6af6742cfe",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "Study to Evaluate the Efficacy and Safety of Fenebrutinib Compared With Teriflunomide in Relapsing Multiple Sclerosis (RMS)",
+      "url": "https://clinicaltrials.gov/study/NCT04586023",
+      "published_at": "2026-09-17T00:00:00+00:00",
+      "summary": "A study to evaluate the efficacy and safety of fenebrutinib on disability progression and relapse rate in adult participants with RMS. Eligible participants will be randomized in a 1:1 ratio to receive either fenebrutinib or teriflunomide. At the end of the double-blind treatment (DBT) phase (after disclosure of the DBT results), the Sponsor will determine whether or not to initiate the open-label extension (OLE) phase of the study.",
+      "kind": "clinical_trial",
+      "external_id": "NCT04586023",
+      "score": 100,
+      "topics": [
+        "clinical_trial",
+        "treatment",
+        "regulatory",
+        "research"
+      ],
+      "status": "new"
+    },
+    {
       "id": "62ef64be7d78f2ba",
       "source_id": "clinicaltrials-ms",
       "source": "ClinicalTrials.gov – Multiple Sclerosis",
@@ -917,25 +955,6 @@
       "score": 100,
       "topics": [
         "clinical_trial",
-        "research",
-        "rehabilitation",
-        "symptoms",
-        "quality_of_life"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "cb83da9ffdd89c4d",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "Eccentric Cycling in Multiple Sclerosis Rehabilitation",
-      "url": "https://clinicaltrials.gov/study/NCT07316764",
-      "published_at": "2026-09-15T00:00:00+00:00",
-      "summary": "The project aims to optimise functional rehabilitation programmes for people with multiple sclerosis.\n\nInvestigators are proposing eccentric cycling as a new exercise modality for treating these patients.\n\nBased on previous results in healthy subjects, investigators will attempt to define the optimal parameters of this new modality (in terms of duration, intensity, frequency, etc.).\n\nInvestigators also aim to demonstrate the effectiveness of this training (compared to conventional training) in improving muscle function, functional capacity, perception of chronic fatigue, quality of life, physical condition, and neurological and cognitive function.",
-      "kind": "clinical_trial",
-      "external_id": "NCT07316764",
-      "score": 100,
-      "topics": [
         "research",
         "rehabilitation",
         "symptoms",
@@ -1039,6 +1058,24 @@
       "status": "new"
     },
     {
+      "id": "ca00cd6eec7a52de",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "Propionic Acid in Multiple Sclerosis",
+      "url": "https://clinicaltrials.gov/study/NCT06402487",
+      "published_at": "2026-09-15T00:00:00+00:00",
+      "summary": "The purpose of this study is to demonstrate the superiority of propionic acid over placebo as add on treatment in multiple sclerosis (MS).",
+      "kind": "clinical_trial",
+      "external_id": "NCT06402487",
+      "score": 100,
+      "topics": [
+        "clinical_trial",
+        "treatment",
+        "research"
+      ],
+      "status": "new"
+    },
+    {
       "id": "7a4e0543bad4bba8",
       "source_id": "clinicaltrials-ms",
       "source": "ClinicalTrials.gov – Multiple Sclerosis",
@@ -1069,6 +1106,24 @@
       "score": 100,
       "topics": [
         "clinical_trial",
+        "treatment",
+        "regulatory",
+        "research"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "7e96a75015d2cf7e",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "Comparative Study of Two Vaccination Schedules for the Subunit Herpes Zoster Vaccine in Multiple Sclerosis and Neuromyelitis Optica Spectrum Disease Patients Treated With Anti-CD20 Therapy: an Open-label Randomised Controlled Trial",
+      "url": "https://clinicaltrials.gov/study/NCT07818356",
+      "published_at": "2026-09-14T00:00:00+00:00",
+      "summary": "Immunocompromised individuals, such as patients with multiple sclerosis (MS) or diseases of the neuromyelitis optica spectrum (NMOSD) treated with an anti-CD20 monoclonal antibody, present an increased risk of shingles. The immunogenicity - and therefore the clinical effectiveness - of the recombinant vaccine against the varicella zoster virus based on glycoprotein E, recently recommended according to two-dose schedule two months apart in immunocompromised patients aged ≥ 18 years, could be significantly decreased when administered one month before and one month after the infusion of anti-CD20.\n\nWe hypothesize that, in patients with MS or NMOSD treated with anti-CD20 administered every six months, a two-dose M0-M6 vaccination schedule consisting of deferring the second dose six months after the first infusion, that is, five months after the anti-CD20 infusion, could improve vaccine immunogenicity and, consequently, the effectiveness of the vaccine.",
+      "kind": "clinical_trial",
+      "external_id": "NCT07818356",
+      "score": 100,
+      "topics": [
         "treatment",
         "regulatory",
         "research"
@@ -1576,6 +1631,24 @@
       "status": "new"
     },
     {
+      "id": "5b39db6f28a47eb5",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "Bright Light Therapy for Sleep Disturbance in People With Multiple Sclerosis",
+      "url": "https://clinicaltrials.gov/study/NCT04054050",
+      "published_at": "2026-10-09T00:00:00+00:00",
+      "summary": "Sleep disturbance is common in people with multiple sclerosis (MS) and contributes to diminished quality of life. Bright light therapy may be an innovative strategy to reduce sleep disturbance in MS, possibly through its effects on a subtype of retinal ganglion cells that help regulate circadian rhythms and sleep. This pilot study will evaluate whether, in people with MS, bright light therapy reduces sleep disturbance and explore whether light therapy improves function of these cells.",
+      "kind": "clinical_trial",
+      "external_id": "NCT04054050",
+      "score": 91,
+      "topics": [
+        "treatment",
+        "research",
+        "quality_of_life"
+      ],
+      "status": "new"
+    },
+    {
       "id": "c8671eb44637bcb4",
       "source_id": "clinicaltrials-ms",
       "source": "ClinicalTrials.gov – Multiple Sclerosis",
@@ -1781,73 +1854,6 @@
       "score": 83,
       "topics": [
         "treatment",
-        "research"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "afb41d205c2a056d",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "A Study of Disease Modifying Therapy Use in Women With Multiple Sclerosis Before, During, and After Pregnancy",
-      "url": "https://clinicaltrials.gov/study/NCT07844070",
-      "published_at": "2026-09-28T00:00:00+00:00",
-      "summary": "This study aims to assess the real-world patterns of disease modifying therapy (DMT) use before, during, and after pregnancy in women with multiple sclerosis (MS). The study will use a pooled closed claims database containing closed payer medical and pharmacy claims data for patients in the United States (US).",
-      "kind": "clinical_trial",
-      "external_id": "NCT07844070",
-      "score": 83,
-      "topics": [
-        "treatment",
-        "research"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "b5e0736e32063eb8",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "A Study to Investigate Effects of Ocrelizumab Treatment on Neurofilament Light Chain (NfL) Levels and Participant Satisfaction in Participants With Multiple Sclerosis (MS)",
-      "url": "https://clinicaltrials.gov/study/NCT06780150",
-      "published_at": "2026-09-15T00:00:00+00:00",
-      "summary": "The main purpose of the study is to evaluate participant satisfaction after administration of ocrelizumab subcutaneously (SC) after 12 months using the therapy administration satisfaction questionnaire subcutaneous (TASQ-SC).",
-      "kind": "clinical_trial",
-      "external_id": "NCT06780150",
-      "score": 83,
-      "topics": [
-        "treatment",
-        "research"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "171434c406ee8b99",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "Emerging Indications for Hyperbaric Oxygen Treatment",
-      "url": "https://clinicaltrials.gov/study/NCT07240649",
-      "published_at": "2026-09-09T00:00:00+00:00",
-      "summary": "This study will evaluate the effectiveness of hyperbaric oxygen therapy (HBOT) on treating emerging indications (i.e., conditions that have shown to potentially benefit from HBOT) using the Multicenter Registry for Hyperbaric Oxygen Treatment. The study team aims to collect ongoing data on how well HBOT treats these emerging indications, and to add these data to the growing HBO Registry. The research team hypothesizes that HBOT will result in improvements of the condition of the various emerging indications.",
-      "kind": "clinical_trial",
-      "external_id": "NCT07240649",
-      "score": 83,
-      "topics": [
-        "treatment",
-        "research"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "7c634617f7ce8d92",
-      "source_id": "ms-news-today",
-      "source": "Multiple Sclerosis News Today",
-      "title": "Study finds MRI-detected myelin changes tied to disability in RRMS",
-      "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/09/24/mri-study-finds-u-fiber-myelin-loss-iron-changes-rrms/",
-      "published_at": "Thu, 24 Sep 2026 11:00:55 +0000",
-      "summary": "<a href=\"https://multiplesclerosisnewstoday.com/news-posts/2026/09/24/mri-study-finds-u-fiber-myelin-loss-iron-changes-rrms/\" title=\"Study finds MRI-detected myelin changes tied to disability in RRMS\" rel=\"nofollow\"><img width=\"800\" height=\"534\" src=\"https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/01/iStock-2176245578-800x534.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Close-up rear view of a female technician during an MRI scanning procedure,\" style=\"display: block; margin: auto; margin-bottom: 15px;max-width: 100%;\" link_thumbnail=\"1\" decoding=\"async\" loading=\"lazy\" srcset=\"https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/01/iStock-2176245578-800x534.jpg 800w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/01/iStock-2176245578-380x254.jpg 380w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/01/iStock-2176245578-768x512.jpg 768w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/01/iStock-2176245578-1536x1025.jpg 1536w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/01/iStock-2176245578.jpg 1800w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-wp-pid=\"160085\" /></a><p>A specialized MRI technique detected signs of myelin and iron loss in nerve fibers beneath the brain’s outer layer in people with relapsing-remitting multiple sclerosis (RRMS), but not in those with a related disease, called neuromyelitis optica spectrum disorder (NMOSD). That’s according to a study in China that also found that, among people with RRMS, [&#8230;]</p> <p>The post <a href=\"https://multiplesclerosisnewstoday.com/news-posts/2026/09/24/mri-study-finds-u-fiber-myelin-loss-iron-changes-rrms/\">Study finds MRI-detected myelin changes tied to disability in RRMS</a> appeared first on <a href=\"https://multiplesclerosisnewstoday.com\">Multiple Sclerosis News Today</a>.</p>",
-      "kind": "news",
-      "score": 79,
-      "topics": [
-        "regulatory",
         "research"
       ],
       "status": "new"

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T09:36:15.697215+00:00",
+  "updated_at": "2026-10-17T09:07:51.089338+00:00",
   "articles": [
     {
       "id": "6a4e64b11a3d0fd8",
@@ -140,6 +140,25 @@
         "regulatory",
         "research",
         "diagnosis"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "0aa45e9c5a0b117f",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "Evaluation of the NEUROSWING Orthosis on Walking Speed in a Population With Dorsal and/or Plantar Flexor Deficits, With a View to a Reimbursement Application",
+      "url": "https://clinicaltrials.gov/study/NCT07108088",
+      "published_at": "2026-10-14T00:00:00+00:00",
+      "summary": "The aim of this randomized, cross-over, multi-center, intention-to-treat, open-label study study is to determine the benefits of the NEUROSWING device on gait speed in patients with dorsal and/or plantar flexor deficits, compared with the use of a carbon orthosis. Each patient will benefit in random order from a 14-day investigation period with the NEUROSWING device and a 14-day control period with a carbon orthosis. These two 2-week periods will be separated by one week, during which no orthosis will be worn and no evaluation will be carried out. Patients will be randomized to determine which phase they will start with. The primary endpoint is walking speed, which will be measured by comparing the results of the 10-meter walk test. For the secondary endpoints, patients will be assessed using the Functional Gait Assessment (FGA), the 6-minute test and an analysis system that will analyze other gait parameters (duration of the different phases of the gait cycle, cadence and step length). In order to carry out the assessments, each patient included will have 12 visits spread over 5 weeks.",
+      "kind": "clinical_trial",
+      "external_id": "NCT07108088",
+      "score": 100,
+      "topics": [
+        "clinical_trial",
+        "regulatory",
+        "research",
+        "rehabilitation"
       ],
       "status": "new"
     },
@@ -316,6 +335,46 @@
       "status": "new"
     },
     {
+      "id": "dbc8ff1df22ac48f",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "The HIt HArd and hiT Early in Multiple Sclerosis Trial",
+      "url": "https://clinicaltrials.gov/study/NCT07517185",
+      "published_at": "2026-10-08T00:00:00+00:00",
+      "summary": "The HiHat trial is a Phase 2 study aimed at evaluating the safety and feasibility of sequential treatment with rituximab and cladribine in patients with relapsing-remitting multiple sclerosis (RRMS). The study follows a prospective, open-label, single-arm design, with 60 RRMS patients receiving both treatments in a controlled regimen: two cycles of rituximab (1,000 mg each, biweekly) followed by two cycles of cladribine (30 mg per cycle for three days per cycle) spaced one month apart. Participants are monitored over 24 months through clinical assessments, MRI, and biomarker analyses. The primary objective is to evaluate whether the rate of serious adverse events (SAE) is acceptably low. Secondary objectives include assessing impacts on MRI lesion count, relapse rates, disability progression, quality of life, and safety.",
+      "kind": "clinical_trial",
+      "external_id": "NCT07517185",
+      "score": 100,
+      "topics": [
+        "clinical_trial",
+        "treatment",
+        "regulatory",
+        "research",
+        "diagnosis",
+        "quality_of_life"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "35f26f12331e5350",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "Efficacy of Cognitive Behavioral Therapy for Insomnia to Treat Insomnia Symptoms in Individuals With Multiple Sclerosis",
+      "url": "https://clinicaltrials.gov/study/NCT06428006",
+      "published_at": "2026-10-08T00:00:00+00:00",
+      "summary": "The incidence of insomnia is estimated to be as high as 90% in individuals with MS due to insomnia being underdiagnosed. Sleep disturbances in people with MS have been associated with reduced cognitive performance, physical function, psychological well-being, quality of life, and occupational function, as well as increased prevalence of fatigue, pain, depression, and anxiety. The objective of the proposed study is to determine the efficacy of cognitive behavioral therapy for insomnia (CBT-I) to improve insomnia symptoms (Aim 1) fatigue, and health-related quality of life (Aim 2) in individuals with multiple sclerosis compared to an active control group, and to determine the characteristics of participants that predict improvement in sleep outcomes (Exploratory Aim 3).",
+      "kind": "clinical_trial",
+      "external_id": "NCT06428006",
+      "score": 100,
+      "topics": [
+        "treatment",
+        "research",
+        "symptoms",
+        "quality_of_life"
+      ],
+      "status": "new"
+    },
+    {
       "id": "5a904aa9b7064bfa",
       "source_id": "clinicaltrials-ms",
       "source": "ClinicalTrials.gov – Multiple Sclerosis",
@@ -329,6 +388,24 @@
       "topics": [
         "clinical_trial",
         "treatment",
+        "research"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "d2fe62b758ba0487",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "A Study to Evaluate the Safety, Pharmacokinetics, Pharmacodynamics, and Efficacy of RO7268489 as Add-on Therapy to Ocrelizumab, in Participants With Progressive Forms of Multiple Sclerosis (MS)",
+      "url": "https://clinicaltrials.gov/study/NCT07282574",
+      "published_at": "2026-10-07T00:00:00+00:00",
+      "summary": "The main purpose of this study is to assess the efficacy of RO7268489 in adults with progressive multiple sclerosis (PMS) receiving ocrelizumab. After the end of the double-blind period, an open-label (OL) extension may allow eligible participants to receive open-label RO7268489.",
+      "kind": "clinical_trial",
+      "external_id": "NCT07282574",
+      "score": 100,
+      "topics": [
+        "treatment",
+        "regulatory",
         "research"
       ],
       "status": "new"
@@ -1552,27 +1629,6 @@
       "status": "new"
     },
     {
-      "id": "dbc8ff1df22ac48f",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "The HIt HArd and hiT Early in Multiple Sclerosis Trial",
-      "url": "https://clinicaltrials.gov/study/NCT07517185",
-      "published_at": "2026-09-03T00:00:00+00:00",
-      "summary": "The HiHat trial is a Phase 2 study aimed at evaluating the safety and feasibility of sequential treatment with rituximab and cladribine in patients with relapsing-remitting multiple sclerosis (RRMS). The study follows a prospective, open-label, single-arm design, with 60 RRMS patients receiving both treatments in a controlled regimen: two cycles of rituximab (1,000 mg each, biweekly) followed by two cycles of cladribine (30 mg per cycle for three days per cycle) spaced one month apart. Participants are monitored over 24 months through clinical assessments, MRI, and biomarker analyses. The primary objective is to evaluate whether the rate of serious adverse events (SAE) is acceptably low. Secondary objectives include assessing impacts on MRI lesion count, relapse rates, disability progression, quality of life, and safety.",
-      "kind": "clinical_trial",
-      "external_id": "NCT07517185",
-      "score": 100,
-      "topics": [
-        "clinical_trial",
-        "treatment",
-        "regulatory",
-        "research",
-        "diagnosis",
-        "quality_of_life"
-      ],
-      "status": "new"
-    },
-    {
       "id": "986e91c0b8595ecb",
       "source_id": "clinicaltrials-ms",
       "source": "ClinicalTrials.gov – Multiple Sclerosis",
@@ -1821,56 +1877,6 @@
         "symptoms",
         "quality_of_life",
         "nutrition"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "d726be7bab25aaab",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "Comprehensive Multimodal Analysis of Neuroimmunological Diseases of the Central Nervous System",
-      "url": "https://clinicaltrials.gov/study/NCT00794352",
-      "published_at": "2026-10-08T00:00:00+00:00",
-      "summary": "Inflammatory or degenerative diseases of the brain and spinal cord, such as multiple sclerosis, may be related to problems with an individual s immune system. However, more information is needed on the ways in which the cells of the immune system interact with the central nervous system (CNS). This study will compare tests performed on both healthy volunteers and individuals who have signs or symptoms of immune-related damage to their CNS.\n\nThis study will include two groups of subjects at least 12 years old. Subjects will either have symptoms of immune-related CNS damage, or will be healthy volunteers selected for comparison purposes.\n\nStudy participants will visit the NIH Clinical Center on an outpatient basis for an initial evaluation visit. During the visit, patients will provide a comprehensive medical history and undergo a neurological examination, and will provide blood samples for research purposes. The healthy volunteers will be asked to schedule a return visit for a magnetic resonance imaging (MRI) procedure, and may be asked to undergo other tests requested by the study researchers on an as-needed basis. The group of patients with symptoms of immune-related CNS damage will be asked to undergo a series of tests, including the following:\n\n* MRI procedures, with a minimum of three brain MRIs and one spinal cord MRI taken approximately 4 weeks apart\n* A diagnostic lumbar puncture, performed on an outpatient basis\n* Tests of brain and vision activity\n* Additional blood and tissue samples\n\nPatients with symptoms of immune-related CNS damage may be offered the opportunity to participate in additional followup tests with NIH researchers.",
-      "kind": "clinical_trial",
-      "external_id": "NCT00794352",
-      "score": 92,
-      "topics": [
-        "research",
-        "diagnosis",
-        "symptoms"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "0aedc9ef3ce884ae",
-      "source_id": "ms-news-today",
-      "source": "Multiple Sclerosis News Today",
-      "title": "EU regulators recommend approval of infusion therapy for pediatric MS",
-      "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/09/22/eu-panel-recommends-approval-infusion-therapy-pediatric-ms/",
-      "published_at": "Tue, 22 Sep 2026 12:00:14 +0000",
-      "summary": "<a href=\"https://multiplesclerosisnewstoday.com/news-posts/2026/09/22/eu-panel-recommends-approval-infusion-therapy-pediatric-ms/\" title=\"EU regulators recommend approval of infusion therapy for pediatric MS\" rel=\"nofollow\"><img width=\"800\" height=\"455\" src=\"https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/09/iStock-1719649191-800x455.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"In this illustration, hands in a variety of pastel colors give a thumbs-up against the backdrop of a cloud-filled sky.\" style=\"display: block; margin: auto; margin-bottom: 15px;max-width: 100%;\" link_thumbnail=\"1\" decoding=\"async\" loading=\"lazy\" srcset=\"https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/09/iStock-1719649191-800x455.jpg 800w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/09/iStock-1719649191-380x216.jpg 380w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/09/iStock-1719649191-768x436.jpg 768w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/09/iStock-1719649191-1536x873.jpg 1536w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/09/iStock-1719649191.jpg 1800w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-wp-pid=\"165837\" /></a><p>Regulators in the European Union (EU) have recommended that the infusion therapy Ocrevus (ocrelizumab) be approved to treat children and teens, ages 10 and older, who have relapsing forms of multiple sclerosis (MS). The recommendation comes from the Committee for Medicinal Products for Human Use (CHMP), an arm of the European Medicines Agency. The CHMP&#8217;s [&#8230;]</p> <p>The post <a href=\"https://multiplesclerosisnewstoday.com/news-posts/2026/09/22/eu-panel-recommends-approval-infusion-therapy-pediatric-ms/\">EU regulators recommend approval of infusion therapy for pediatric MS</a> appeared first on <a href=\"https://multiplesclerosisnewstoday.com\">Multiple Sclerosis News Today</a>.</p>",
-      "kind": "news",
-      "score": 91,
-      "topics": [
-        "treatment",
-        "regulatory"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "243a2ac46ae63d15",
-      "source_id": "ms-news-today",
-      "source": "Multiple Sclerosis News Today",
-      "title": "FDA grants priority review to ‘high-efficacy’ drug for 2 types of MS",
-      "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/10/01/fda-grants-priority-review-high-efficacy-oral-drug-treat-2-ms-types/",
-      "published_at": "Thu, 01 Oct 2026 14:30:44 +0000",
-      "summary": "<a href=\"https://multiplesclerosisnewstoday.com/news-posts/2026/10/01/fda-grants-priority-review-high-efficacy-oral-drug-treat-2-ms-types/\" title=\"FDA grants priority review to &#8216;high-efficacy&#8217; drug for 2 types of MS\" rel=\"nofollow\"><img width=\"800\" height=\"532\" src=\"https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/09/iStock-2200850893-800x532.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"A close-up view of the U.S. Food and Drug Administration website shows the agency&#039;s name in white letters against a blue background.\" style=\"display: block; margin: auto; margin-bottom: 15px;max-width: 100%;\" link_thumbnail=\"1\" decoding=\"async\" loading=\"lazy\" srcset=\"https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/09/iStock-2200850893-800x532.jpg 800w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/09/iStock-2200850893-380x253.jpg 380w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/09/iStock-2200850893-768x511.jpg 768w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/09/iStock-2200850893-1536x1022.jpg 1536w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/09/iStock-2200850893.jpg 1800w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-wp-pid=\"166198\" /></a><p>The U.S. Food and Drug Administration (FDA) has agreed to review an application from Roche seeking approval of its BTK inhibitor fenebrutinib as a treatment for relapsing forms of both multiple sclerosis (MS) and primary progressive MS (PPMS). Further, the FDA granted the application priority review, under which the regulatory agency aims to make its decision [&#8230;]</p> <p>The post <a href=\"https://multiplesclerosisnewstoday.com/news-posts/2026/10/01/fda-grants-priority-review-high-efficacy-oral-drug-treat-2-ms-types/\">FDA grants priority review to &#8216;high-efficacy&#8217; drug for 2 types of MS</a> appeared first on <a href=\"https://multiplesclerosisnewstoday.com\">Multiple Sclerosis News Today</a>.</p>",
-      "kind": "news",
-      "score": 91,
-      "topics": [
-        "treatment",
-        "regulatory"
       ],
       "status": "new"
     }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T09:57:26.934208+00:00",
+  "updated_at": "2026-10-22T09:57:44.559024+00:00",
   "articles": [
     {
       "id": "6a4e64b11a3d0fd8",
@@ -132,7 +132,7 @@
       "title": "Melatonin may not prevent MS relapses or disability, new review study finds",
       "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/10/19/benefits-melatonin-ms-remain-uncertain-new-review-finds/",
       "published_at": "Mon, 19 Oct 2026 12:00:12 +0000",
-      "summary": "<a href=\"https://multiplesclerosisnewstoday.com/news-posts/2026/10/19/benefits-melatonin-ms-remain-uncertain-new-review-finds/\" title=\"Melatonin may not prevent MS relapses or disability, new review study finds\" rel=\"nofollow\"><img width=\"800\" height=\"533\" src=\"https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/06/iStock-2256625214-800x533.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"An image of orange capsules and an overturned bottle on a light blue background.\" style=\"display: block; margin: auto; margin-bottom: 15px;max-width: 100%;\" link_thumbnail=\"1\" decoding=\"async\" srcset=\"https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/06/iStock-2256625214-800x533.jpg 800w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/06/iStock-2256625214-380x253.jpg 380w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/06/iStock-2256625214-768x512.jpg 768w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/06/iStock-2256625214-1536x1024.jpg 1536w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/06/iStock-2256625214.jpg 1800w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-wp-pid=\"163846\" /></a><p>A systematic review of clinical studies found no clear evidence that melatonin supplements reduce relapses, disability progression, or new MRI-detected disease activity in people with multiple sclerosis (MS). Some small studies suggested melatonin may improve sleep, fatigue, pain, physical and cognitive function, and mood, but the findings were inconsistent. Daily doses of 0.5 to 25 [&#8230;]</p> <p>The post <a href=\"https://multiplesclerosisnewstoday.com/news-posts/2026/10/19/benefits-melatonin-ms-remain-uncertain-new-review-finds/\">Melatonin may not prevent MS relapses or disability, new review study finds</a> appeared first on <a href=\"https://multiplesclerosisnewstoday.com\">Multiple Sclerosis News Today</a>.</p>",
+      "summary": "<a href=\"https://multiplesclerosisnewstoday.com/news-posts/2026/10/19/benefits-melatonin-ms-remain-uncertain-new-review-finds/\" title=\"Melatonin may not prevent MS relapses or disability, new review study finds\" rel=\"nofollow\"><img width=\"800\" height=\"533\" src=\"https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/06/iStock-2256625214-800x533.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"An image of orange capsules and an overturned bottle on a light blue background.\" style=\"display: block; margin: auto; margin-bottom: 15px;max-width: 100%;\" link_thumbnail=\"1\" decoding=\"async\" loading=\"lazy\" srcset=\"https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/06/iStock-2256625214-800x533.jpg 800w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/06/iStock-2256625214-380x253.jpg 380w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/06/iStock-2256625214-768x512.jpg 768w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/06/iStock-2256625214-1536x1024.jpg 1536w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/06/iStock-2256625214.jpg 1800w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-wp-pid=\"163846\" /></a><p>A systematic review of clinical studies found no clear evidence that melatonin supplements reduce relapses, disability progression, or new MRI-detected disease activity in people with multiple sclerosis (MS). Some small studies suggested melatonin may improve sleep, fatigue, pain, physical and cognitive function, and mood, but the findings were inconsistent. Daily doses of 0.5 to 25 [&#8230;]</p> <p>The post <a href=\"https://multiplesclerosisnewstoday.com/news-posts/2026/10/19/benefits-melatonin-ms-remain-uncertain-new-review-finds/\">Melatonin may not prevent MS relapses or disability, new review study finds</a> appeared first on <a href=\"https://multiplesclerosisnewstoday.com\">Multiple Sclerosis News Today</a>.</p>",
       "kind": "news",
       "score": 100,
       "topics": [
@@ -180,6 +180,25 @@
       "status": "new"
     },
     {
+      "id": "b82d696f51b77de1",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "Ai-Chi in Individuals With Multiple Sclerosis",
+      "url": "https://clinicaltrials.gov/study/NCT07880418",
+      "published_at": "2026-10-19T00:00:00+00:00",
+      "summary": "The subject of this study is to examine the effects of Ai Chi-an aquatic exercise method-on balance, mobility, muscle strength, quality of life, depression, fatigue, and cognitive functions in individuals diagnosed with Multiple Sclerosis (MS), in comparison with land-based exercises. Developed to address the physical and cognitive symptoms associated with MS, this study aims to evaluate the effectiveness of Ai Chi exercises-performed in water-as an alternative and/or complementary rehabilitation method alongside traditional land-based exercises. In this context, the research seeks to offer an innovative approach to enhancing the quality of life and functional capacity of individuals with MS.",
+      "kind": "clinical_trial",
+      "external_id": "NCT07880418",
+      "score": 100,
+      "topics": [
+        "research",
+        "rehabilitation",
+        "symptoms",
+        "quality_of_life"
+      ],
+      "status": "new"
+    },
+    {
       "id": "954f9ec983568b92",
       "source_id": "clinicaltrials-ms",
       "source": "ClinicalTrials.gov – Multiple Sclerosis",
@@ -193,6 +212,24 @@
       "topics": [
         "clinical_trial",
         "research",
+        "symptoms"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "1a4b062ac14133c4",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "Central Vein Sign: a Diagnostic Biomarker in Multiple Sclerosis",
+      "url": "https://clinicaltrials.gov/study/NCT04495556",
+      "published_at": "2026-10-16T00:00:00+00:00",
+      "summary": "The need for improved diagnostic methods in Multiple Sclerosis (MS) is widely recognized. Although Magnetic Resonance Imaging (MRI) is a longstanding tool for detecting MS lesions, diagnostic inaccuracies persist. Up to 20% of people diagnosed with MS (1 in 5) are later found not to have the disease. This is highly consequential, as more than two-thirds of misdiagnosed patients are unnecessarily exposed to risks from disease-modifying therapies, which in rare cases can be life-threatening.\n\nMoreover, the current standard in MS diagnosis - the McDonald criteria, which combine clinical symptoms and MRI findings - were developed from studies in people with typical clinical presentations of MS. This reduces the specificity of these criteria, rendering them uninformative for the nearly half of MS patients who present to neurologists with atypical or nonclassical symptoms.\n\nTimeliness of MS diagnosis is also key, as diagnostic delay is common in cases of relapsing-remitting MS and can carry severe and lifelong consequences.\n\nThe CentrAl Vein Sign in MS (CAVS-MS) study has been designed to assess whether Central Vein Sign (CVS) criteria can help address some of these unmet diagnostic needs. It will specifically explore the role of presentation type by enrolling a mixed population of patients with typical clinical presentations (n = 200) and those with atypical presentations, including suggestive MRI findings in the absence of neurologic symptoms (n = 200) across North America.",
+      "kind": "clinical_trial",
+      "external_id": "NCT04495556",
+      "score": 100,
+      "topics": [
+        "research",
+        "diagnosis",
         "symptoms"
       ],
       "status": "new"
@@ -1846,42 +1883,6 @@
       "topics": [
         "treatment",
         "research",
-        "symptoms"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "54c5517436f14814",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "Home Rehabilitation as Continuity of Care in MS",
-      "url": "https://clinicaltrials.gov/study/NCT06699095",
-      "published_at": "2026-09-01T00:00:00+00:00",
-      "summary": "RCT pilot study to evaluate adherence, satisfaction and feasibility in the use of a telemedicine station for balance rehabilitation in patients with multiple sclerosis.\n\nThe platform is designed as a tool for maintenance rehabilitation in a home setting and not as an alternative to intensive treatment in hospital, and is therefore compared to maintenance treatment as usual (TAU) after intensive treatment.",
-      "kind": "clinical_trial",
-      "external_id": "NCT06699095",
-      "score": 97,
-      "topics": [
-        "treatment",
-        "research",
-        "rehabilitation"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "4743ecec2c692e15",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "Effect of High Intensity Training on Motor and Cognitive Functions",
-      "url": "https://clinicaltrials.gov/study/NCT06219304",
-      "published_at": "2026-09-10T00:00:00+00:00",
-      "summary": "Fatigability is one of the most prevalent disorder in MS followed by walking, balance and cognitive disorders.\n\nHowever, there are few experimental studies on the effects of fatigability on balance and gait hampering the knowledge of causal fatigue-related changes of walking, balance and cognition. Nowadays, instrumented systems such as wearable devices and optoelectronic systems are available and can be used to provide quantitative and objective indexes useful to monitor the changes of gait parameters during a fatiguing performance. (Moreover), instrumented assessment of patients' performances in dual task paradigms can reveal the possible impact of fatigability on cognitive functions. So far, high intensity functional training has been already used in MS to reduce fatigability. However, the true impact of reduced fatigability on walking, balance and cognition has not been assessed after a fatiguing task making impossible to understand the real impact of treatments focusing on fatigability on these functions.\n\nThus, the aims of the present proposal are to assess the: 1) the acute effect of experimentally induced motor fatigability on walking, balance and cognitive functions using an objective instrumented assessment before, during, and after an overground fatiguing walking test. 2) to investigate the effect of high intensity multimodal functional training to improve motor and cognitive disorders.",
-      "kind": "clinical_trial",
-      "external_id": "NCT06219304",
-      "score": 96,
-      "topics": [
-        "treatment",
-        "rehabilitation",
         "symptoms"
       ],
       "status": "new"

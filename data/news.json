@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T09:57:44.559024+00:00",
+  "updated_at": "2026-10-23T09:52:29.630285+00:00",
   "articles": [
     {
       "id": "6a4e64b11a3d0fd8",
@@ -162,6 +162,24 @@
       "status": "new"
     },
     {
+      "id": "5a904aa9b7064bfa",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "A Study of Orelabrutinib in Patients With Secondary Progressive Multiple Sclerosis",
+      "url": "https://clinicaltrials.gov/study/NCT07299019",
+      "published_at": "2026-10-21T00:00:00+00:00",
+      "summary": "Orelabrutinib is a CNS-penetrable BTK inhibitor. This is a phase 3, randomized, double-blind, parallel-group, multicenter study to evaluate the efficacy and safety of orelabrutinib compared with placebo in patients with non-active Secondary Progress MS. Patients will be treated for approximately 24 to 60 months, with a minimum treatment duration of 12 months. The study will enroll approximately 990 subjects in a 2:1 randomization (orelabrutinib: placebo), globally.",
+      "kind": "clinical_trial",
+      "external_id": "NCT07299019",
+      "score": 100,
+      "topics": [
+        "clinical_trial",
+        "treatment",
+        "research"
+      ],
+      "status": "new"
+    },
+    {
       "id": "f0dd908a5000cf20",
       "source_id": "clinicaltrials-ms",
       "source": "ClinicalTrials.gov – Multiple Sclerosis",
@@ -176,6 +194,25 @@
         "treatment",
         "research",
         "diagnosis"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "62ef64be7d78f2ba",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "Best Available Therapy Versus Autologous Hematopoietic Stem Cell Transplant for Multiple Sclerosis (BEAT-MS)",
+      "url": "https://clinicaltrials.gov/study/NCT04047628",
+      "published_at": "2026-10-20T00:00:00+00:00",
+      "summary": "This is a multi-center prospective rater-masked (blinded) randomized controlled trial of 156 participants, comparing the treatment strategy of Autologous Hematopoietic Stem Cell Transplantation (AHSCT) to the treatment strategy of Best Available Therapy (BAT) for treatment-resistant relapsing multiple sclerosis (MS). Participants will be randomized at a 1 to 1 (1:1) ratio.\n\nAll participants will be followed for 72 months after randomization (Day 0, Visit 0).",
+      "kind": "clinical_trial",
+      "external_id": "NCT04047628",
+      "score": 100,
+      "topics": [
+        "clinical_trial",
+        "treatment",
+        "regulatory",
+        "research"
       ],
       "status": "new"
     },
@@ -482,24 +519,6 @@
         "research",
         "symptoms",
         "quality_of_life"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "5a904aa9b7064bfa",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "A Study of Orelabrutinib in Patients With Secondary Progressive Multiple Sclerosis",
-      "url": "https://clinicaltrials.gov/study/NCT07299019",
-      "published_at": "2026-10-07T00:00:00+00:00",
-      "summary": "Orelabrutinib is a CNS-penetrable BTK inhibitor. This is a phase 3, randomized, double-blind, parallel-group, multicenter study to evaluate the efficacy and safety of orelabrutinib compared with placebo in patients with non-active Secondary Progress MS. Patients will be treated for approximately 24 to 60 months, with a minimum treatment duration of 12 months. The study will enroll approximately 990 subjects in a 2:1 randomization (orelabrutinib: placebo), globally.",
-      "kind": "clinical_trial",
-      "external_id": "NCT07299019",
-      "score": 100,
-      "topics": [
-        "clinical_trial",
-        "treatment",
-        "research"
       ],
       "status": "new"
     },
@@ -1330,25 +1349,6 @@
       "summary": "A study to evaluate the efficacy and safety of fenebrutinib on disability progression and relapse rate in adult participants with RMS. Eligible participants will be randomized in a 1:1 ratio to receive either fenebrutinib or teriflunomide. At the end of the double-blind treatment (DBT) phase (after disclosure of the DBT results), the Sponsor will determine whether or not to initiate the open-label extension (OLE) phase of the study.",
       "kind": "clinical_trial",
       "external_id": "NCT04586023",
-      "score": 100,
-      "topics": [
-        "clinical_trial",
-        "treatment",
-        "regulatory",
-        "research"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "62ef64be7d78f2ba",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "Best Available Therapy Versus Autologous Hematopoietic Stem Cell Transplant for Multiple Sclerosis (BEAT-MS)",
-      "url": "https://clinicaltrials.gov/study/NCT04047628",
-      "published_at": "2026-09-16T00:00:00+00:00",
-      "summary": "This is a multi-center prospective rater-masked (blinded) randomized controlled trial of 156 participants, comparing the treatment strategy of Autologous Hematopoietic Stem Cell Transplantation (AHSCT) to the treatment strategy of Best Available Therapy (BAT) for treatment-resistant relapsing multiple sclerosis (MS). Participants will be randomized at a 1 to 1 (1:1) ratio.\n\nAll participants will be followed for 72 months after randomization (Day 0, Visit 0).",
-      "kind": "clinical_trial",
-      "external_id": "NCT04047628",
       "score": 100,
       "topics": [
         "clinical_trial",

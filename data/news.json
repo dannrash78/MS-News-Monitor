@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T09:52:29.630285+00:00",
+  "updated_at": "2026-10-24T09:22:37.300317+00:00",
   "articles": [
     {
       "id": "6a4e64b11a3d0fd8",
@@ -162,6 +162,62 @@
       "status": "new"
     },
     {
+      "id": "5608a91d96b511bc",
+      "source_id": "ms-news-today",
+      "source": "Multiple Sclerosis News Today",
+      "title": "Experimental therapy may curb chronic brain inflammation in MS",
+      "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/10/23/experimental-therapy-curb-chronic-brain-inflammation-ms/",
+      "published_at": "Fri, 23 Oct 2026 15:15:51 +0000",
+      "summary": "<a href=\"https://multiplesclerosisnewstoday.com/news-posts/2026/10/23/experimental-therapy-curb-chronic-brain-inflammation-ms/\" title=\"Experimental therapy may curb chronic brain inflammation in MS\" rel=\"nofollow\"><img width=\"800\" height=\"480\" src=\"https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/10/iStock-1280415854-800x480.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"A red spot is seen in a brain within a human head constructed of blue lines and bright dots.\" style=\"display: block; margin: auto; margin-bottom: 15px;max-width: 100%;\" link_thumbnail=\"1\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/10/iStock-1280415854-800x480.jpg 800w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/10/iStock-1280415854-380x228.jpg 380w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/10/iStock-1280415854-768x461.jpg 768w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/10/iStock-1280415854-1536x922.jpg 1536w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/10/iStock-1280415854.jpg 1800w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-wp-pid=\"166737\" /></a><p>Genentech’s experimental oral therapy fenebrutinib may help control the chronic inflammation in the brain associated with disability progression in both relapsing forms of multiple sclerosis (MS) and primary progressive MS (PPMS). That&#8217;s according to new analyses of data from three ongoing Phase 3 trials, in which fenebrutinib was associated with significant reductions in slowly expanding [&#8230;]</p> <p>The post <a href=\"https://multiplesclerosisnewstoday.com/news-posts/2026/10/23/experimental-therapy-curb-chronic-brain-inflammation-ms/\">Experimental therapy may curb chronic brain inflammation in MS</a> appeared first on <a href=\"https://multiplesclerosisnewstoday.com\">Multiple Sclerosis News Today</a>.</p>",
+      "kind": "news",
+      "score": 100,
+      "topics": [
+        "clinical_trial",
+        "treatment",
+        "research"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "dbc8ff1df22ac48f",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "The HIt HArd and hiT Early in Multiple Sclerosis Trial",
+      "url": "https://clinicaltrials.gov/study/NCT07517185",
+      "published_at": "2026-10-22T00:00:00+00:00",
+      "summary": "The HiHat trial is a Phase 2 study aimed at evaluating the safety and feasibility of sequential treatment with rituximab and cladribine in patients with relapsing-remitting multiple sclerosis (RRMS). The study follows a prospective, open-label, single-arm design, with 60 RRMS patients receiving both treatments in a controlled regimen: two cycles of rituximab (1,000 mg each, biweekly) followed by two cycles of cladribine (30 mg per cycle for three days per cycle) spaced one month apart. Participants are monitored over 24 months through clinical assessments, MRI, and biomarker analyses. The primary objective is to evaluate whether the rate of serious adverse events (SAE) is acceptably low. Secondary objectives include assessing impacts on MRI lesion count, relapse rates, disability progression, quality of life, and safety.",
+      "kind": "clinical_trial",
+      "external_id": "NCT07517185",
+      "score": 100,
+      "topics": [
+        "clinical_trial",
+        "treatment",
+        "regulatory",
+        "research",
+        "diagnosis",
+        "quality_of_life"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "442a14d555d37707",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "Placebo Controlled Study to Assess the Efficacy and Safety of Rapamycin in Drug Resistant Epilepsy Associated With Tuberous Sclerosis Complex",
+      "url": "https://clinicaltrials.gov/study/NCT05534672",
+      "published_at": "2026-10-22T00:00:00+00:00",
+      "summary": "The purpose of the RaRE-TS study is to determine safety, tolerability and efficacy of rapamycin versus placebo in a drug resistant epilepsy associated with tuberous sclerosis complex (TSC).",
+      "kind": "clinical_trial",
+      "external_id": "NCT05534672",
+      "score": 100,
+      "topics": [
+        "clinical_trial",
+        "treatment",
+        "research"
+      ],
+      "status": "new"
+    },
+    {
       "id": "5a904aa9b7064bfa",
       "source_id": "clinicaltrials-ms",
       "source": "ClinicalTrials.gov – Multiple Sclerosis",
@@ -212,6 +268,24 @@
         "clinical_trial",
         "treatment",
         "regulatory",
+        "research"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "8143ccdff063e595",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "A Study of Orelabrutinib in Patients With Primary Progressive Multiple Sclerosis",
+      "url": "https://clinicaltrials.gov/study/NCT07067463",
+      "published_at": "2026-10-20T00:00:00+00:00",
+      "summary": "Orelabrutinib is a CNS-penetrable BTK inhibitor. This is a phase 3, randomized, double-blind, parallel-group, multicenter study to evaluate the efficacy and safety of orelabrutinib compared with placebo in patients with PPMS. Patients will be treated for approximately 30 to 60 months, with a minimum treatment duration of 12 months. The study will enroll approximately 705 subjects in a 2:1 randomization (orelabrutinib: placebo), globally.",
+      "kind": "clinical_trial",
+      "external_id": "NCT07067463",
+      "score": 100,
+      "topics": [
+        "clinical_trial",
+        "treatment",
         "research"
       ],
       "status": "new"
@@ -306,6 +380,25 @@
         "treatment",
         "regulatory",
         "research"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "121998797413b217",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "A Study to Learn More About The Safety of Diroximel Fumarate (VUMERITY®) in Participants Who Took it During Pregnancy And About the Health of Their Babies",
+      "url": "https://clinicaltrials.gov/study/NCT05688436",
+      "published_at": "2026-10-15T00:00:00+00:00",
+      "summary": "In this study, researchers will learn more about the effects of diroximel fumarate (DRF), also known as VUMERITY®, when taken during pregnancy in people with multiple sclerosis, also known as MS. In MS, the immune system attacks the nerves in the brain and spinal cord. The affected areas are called lesions. The damage makes it difficult for the brain and spinal cord to function and send messages throughout the body. MS can be a progressive disease, which means it may get worse over time. In relapsing forms of MS (RMS), new symptoms may happen, and existing symptoms may get better or worse over time. DRF is an approved drug that is used to treat people with RMS.\n\nThis is known as an \"observational\" study, which collects health information about study participants without changing their medical care. The main goal of this study is to collect birth and health information from 3 groups of participants and their babies. These groups are:\n\n* Those who took DRF during their pregnancy\n* Those who took disease-modifying therapies (DMTs) for RMS during their pregnancy, but not DRF. DMTs are drugs that slow how the disease develops over time, not just relieve symptoms.\n* Those who did not take any drugs for RMS during their pregnancy\n\nThe main question researchers want to learn about in this study is:\n\n• How many participants' babies were born with major congenital malformations (MCMs)? MCMs are problems with how a baby's body forms before birth.\n\nIn this study, researchers will measure how often the following outcomes happen and compare them between groups:\n\n* Loss of pregnancy before 20 weeks\n* Loss of pregnancy at or after 20 weeks (stillbirth)\n* Babies born early (before 37 weeks)\n* Babies who are smaller than expected for the stage of pregnancy\n* Live births\n\nThis study will be done as follows:\n\n* The study includes data in adult women with multiple sclerosis on pregnancies happening between October 29th, 2019 and July 31st, 2030. Information will start being collected when the participant decides to join the study.\n* Medical records and clinical notes will be reviewed at the end of the study.\n* The study will include information from pregnancy through delivery, and for babies up to 1 year after birth.\n* The study is planned to end by 30th April 2031.",
+      "kind": "clinical_trial",
+      "external_id": "NCT05688436",
+      "score": 100,
+      "topics": [
+        "treatment",
+        "regulatory",
+        "research",
+        "symptoms"
       ],
       "status": "new"
     },
@@ -406,24 +499,6 @@
       "status": "new"
     },
     {
-      "id": "8143ccdff063e595",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "A Study of Orelabrutinib in Patients With Primary Progressive Multiple Sclerosis",
-      "url": "https://clinicaltrials.gov/study/NCT07067463",
-      "published_at": "2026-10-13T00:00:00+00:00",
-      "summary": "Orelabrutinib is a CNS-penetrable BTK inhibitor. This is a phase 3, randomized, double-blind, parallel-group, multicenter study to evaluate the efficacy and safety of orelabrutinib compared with placebo in patients with PPMS. Patients will be treated for approximately 30 to 60 months, with a minimum treatment duration of 12 months. The study will enroll approximately 705 subjects in a 2:1 randomization (orelabrutinib: placebo), globally.",
-      "kind": "clinical_trial",
-      "external_id": "NCT07067463",
-      "score": 100,
-      "topics": [
-        "clinical_trial",
-        "treatment",
-        "research"
-      ],
-      "status": "new"
-    },
-    {
       "id": "8815e1564ff9cb94",
       "source_id": "clinicaltrials-ms",
       "source": "ClinicalTrials.gov – Multiple Sclerosis",
@@ -479,27 +554,6 @@
         "treatment",
         "research",
         "diagnosis"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "dbc8ff1df22ac48f",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "The HIt HArd and hiT Early in Multiple Sclerosis Trial",
-      "url": "https://clinicaltrials.gov/study/NCT07517185",
-      "published_at": "2026-10-08T00:00:00+00:00",
-      "summary": "The HiHat trial is a Phase 2 study aimed at evaluating the safety and feasibility of sequential treatment with rituximab and cladribine in patients with relapsing-remitting multiple sclerosis (RRMS). The study follows a prospective, open-label, single-arm design, with 60 RRMS patients receiving both treatments in a controlled regimen: two cycles of rituximab (1,000 mg each, biweekly) followed by two cycles of cladribine (30 mg per cycle for three days per cycle) spaced one month apart. Participants are monitored over 24 months through clinical assessments, MRI, and biomarker analyses. The primary objective is to evaluate whether the rate of serious adverse events (SAE) is acceptably low. Secondary objectives include assessing impacts on MRI lesion count, relapse rates, disability progression, quality of life, and safety.",
-      "kind": "clinical_trial",
-      "external_id": "NCT07517185",
-      "score": 100,
-      "topics": [
-        "clinical_trial",
-        "treatment",
-        "regulatory",
-        "research",
-        "diagnosis",
-        "quality_of_life"
       ],
       "status": "new"
     },
@@ -805,6 +859,24 @@
         "treatment",
         "research",
         "symptoms"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "e910108a8c416fc8",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "A Study to Learn About a Medicine Called PF-08154225 in Participants With Autoimmune Diseases",
+      "url": "https://clinicaltrials.gov/study/NCT07782450",
+      "published_at": "2026-10-01T00:00:00+00:00",
+      "summary": "The purpose of this study is to learn about the safety and effects of the study medication called PF-08154225 for the potential treatment of autoimmune diseases. An autoimmune disease is a condition that makes a person's immune system attack its healthy cells by mistake. This study is particularly looking at autoimmune diseases called as Systemic Lupus Erythematosus (SLE), Rheumatoid Arthritis (RA), Idiopathic Inflammatory Myositis (IIM) or Systemic Sclerosis (SSc).\n\nThis study is divided into 3 parts: Part 1a, Part 1b and Part 2. Parts 1a and 1b are seeking participants with Systemic Lupus Erythematosus (SLE) or Rheumatoid Arthritis and Part 2 with also Idiopathic Inflammatory Myositis (IIM) or Systemic Sclerosis (SSc).\n\nParticipants can take part only in one part of the study.\n\nAll participants in this study will receive PF-08154225 at the study clinic. In Part 1a participants will receive single administration of PF-08154225 after which they will be observed at the study clinic during regular visits through week 16 or longer.\n\nIn Part 1b the participants will receive multiple administration of PF-08154225 after which they will be monitored in similar a manner as in Part 1a through week 24 or longer.\n\nIn Part 2 participants will receive multiple administrations of PF-08154225. After the last injection they will be monitored for safety through week 52 or longer.",
+      "kind": "clinical_trial",
+      "external_id": "NCT07782450",
+      "score": 100,
+      "topics": [
+        "treatment",
+        "regulatory",
+        "research"
       ],
       "status": "new"
     },
@@ -1811,79 +1883,6 @@
         "treatment",
         "regulatory",
         "research"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "fc23de9bf40af6a1",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "Feasibility and Effectiveness of a Mindfulness Program Delivered by Web to Patients During Hospitalization and Caregivers.",
-      "url": "https://clinicaltrials.gov/study/NCT05623254",
-      "published_at": "2026-09-01T00:00:00+00:00",
-      "summary": "Hospitalization is often a traumatic event so stressful for the life of patients. Isolation, loneliness, worries about clinical examinations, results from examinations and final diagnosis, uncertainty about the future are the most common feelings that patients report when during hospitalized for different disease conditions; these feelings are not related to the pathological condition.\n\nAlso the discomfort of the caregivers is significant, as the necessities and priorities of the family change significantly during the hospitalization of a member (worries about the future, help and support are not enough to sustain the situation, problems with the work schedule ). Nowadays in North American and North European countries, mindfulness practice is offered to patients by multifaith Chaplaincy teams and health-care operators (e.g. physicians, nurses, psychologists), as a way of helping patients come to terms with diagnosis and adjust to their prognosis. To the extent that patients can bear it, instructions are given to keep coming back to the present moment, here and now, to bodily and affective experience, relaxing in it. To that purpose patients are encouraged to accept the situation as it develops, and let go of excessive concerns and unhelpful narratives that undermine the capacity to manage pain, fear and suffering. Moreover, similar programmes are designed for caregivers and the patients' families, aimed at developing their resilience in delivering the support, via face-to-face sessions, and instructions and encouragement for a regular practice at home.\n\nIn the last years, due to the dramatic emergency for the COVID-19 pandemic, different applications for mindfulness have been realized by specific APPs or web platforms that allow patients to practice mindfulness regularly guided by a physician or an expert in mindfulness: patients can stay at home and mindfulness sessions can be delivered by technological modalities. In different hospitals, protocols have been implemented for the treatment of patients remotely, using specific platforms or APPs. These remote interventions are complementary to the regular face-to-face sessions and they are suitable for most patients and easily applied.",
-      "kind": "clinical_trial",
-      "external_id": "NCT05623254",
-      "score": 100,
-      "topics": [
-        "treatment",
-        "research",
-        "diagnosis",
-        "symptoms"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "c6ef58b0d34713a6",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "Determining the Effectiveness of earLy Intensive Versus Escalation Approaches for RRMS",
-      "url": "https://clinicaltrials.gov/study/NCT03535298",
-      "published_at": "2026-08-31T00:00:00+00:00",
-      "summary": "The DELIVER-MS study seeks to answer the question: Does early treatment with highly effective DMT improve the prognosis for people with MS? This is an area of significant controversy and no data currently exist to guide treatment choices for patients and clinicians. The study results will help guide overall treatment philosophy and will be applicable not only to a wide range of existing therapies but also to new therapies, meeting a significant unmet need in patient decision making and aiding the decision for medication approval by third parties.",
-      "kind": "clinical_trial",
-      "external_id": "NCT03535298",
-      "score": 100,
-      "topics": [
-        "treatment",
-        "regulatory",
-        "research"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "fe4d2f9ed7e730fe",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "Effect of Corticosteroids on Inflammation at the Edge of Acute Multiple Sclerosis Plaques",
-      "url": "https://clinicaltrials.gov/study/NCT02784210",
-      "published_at": "2026-10-05T00:00:00+00:00",
-      "summary": "Background:\n\nMultiple sclerosis (MS) affects the brain, spinal cord, and optic nerves. MS lesions can appear on the MRI (magnetic resonance imaging) scans in many ways. Sometimes they light up from the outer edge and fill inward. This is called ring enhancement. Researchers think this type of lesion may not heal as well as others. Corticosteroids are the standard treatment to reduce symptoms of MS relapse. But there is no standard treatment for people with enhancing MS lesions without signs of MS relapse. Researchers want to see if a short-term high-dose course of corticosteroids helps heal those lesions.\n\nObjective:\n\nTo study the effects of short-term high-dose corticosteroids on ring-enhancing MS.\n\nEligibility:\n\nAdults ages 18 and older who:\n\n* Have MS and a rim-enhancing lesion on a prior brain MRI\n* Are enrolled in another NINDS protocol\n\nDesign:\n\nParticipants will be screened under another protocol\n\nParticipants will be randomly assigned to get either no treatment or 3 days of treatment with a corticosteroid.\n\nParticipants will have:\n\n* 1 baseline visit\n* 3 days of high-dose steroids, intravenous or oral. If IV, participants will receive methylprednisolone by IV each day. Participants will also be prescribed medicine to protect their stomach.\n* Follow-up visits will be at week 13 and week 25 after randomization to treatment or no treatment.\n\nVisits include medical history and physical exam. Participants will have blood and urine tests. Participants will also have neurological exams and MRIs. Participants lie on a table that slides into a cylinder. They are in the scanner 1.5-2 hours. They get a dye through a catheter: A needle guides a thin plastic tube into an arm vein.",
-      "kind": "clinical_trial",
-      "external_id": "NCT02784210",
-      "score": 98,
-      "topics": [
-        "treatment",
-        "research",
-        "symptoms"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "ff76d77c944e56b4",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "Exploring Reproductive Decision-Making Among Women With Multiple Sclerosis",
-      "url": "https://clinicaltrials.gov/study/NCT07829822",
-      "published_at": "2026-09-21T00:00:00+00:00",
-      "summary": "Multiple sclerosis (MS) is a chronic disease that mainly affects young adults, including women during their reproductive years. Women with MS may face important questions and concerns related to marriage, fertility, pregnancy, childbirth, breastfeeding, motherhood, and family planning. These decisions may be influenced by concerns about MS symptoms and disability, pregnancy-related changes in the disease, medications, possible effects on the baby, and the availability of appropriate reproductive health counseling and support.\n\nThis study aims to explore reproductive decision-making among women of reproductive age living with multiple sclerosis in Assiut Governorate, Egypt. The study will examine their experiences, concerns, fertility intentions, childbearing preferences, family planning practices, and experiences related to marriage, pregnancy, breastfeeding, and motherhood. It will also assess factors that may influence reproductive decisions, including disease-related characteristics, social and demographic factors, reproductive autonomy, and partner support among married women.\n\nThe study will use a sequential explanatory mixed-methods design. The quantitative component will include eligible married women with multiple sclerosis attending selected multiple sclerosis clinics in Assiut Governorate. Information will be collected through face-to-face interviews using structured questionnaires and validated assessment tools. The quantitative findings will be used to identify important patterns and factors associated with reproductive decision-making.\n\nA qualitative component will then be conducted through in-depth interviews with selected women with multiple sclerosis to provide a deeper understanding of their experiences and concerns. Single women will be explored qualitatively to understand their perspectives regarding marriage, fertility, and future reproductive plans, while married women who participate in the quantitative component may also be invited for qualitative interviews. Participants will be selected to obtain a range of experiences and characteristics, and interviews will continue until sufficient information is obtained.\n\nThe study will provide a better understanding of the reproductive needs and concerns of women living with multiple sclerosis in Assiut Governorate. The findings may help identify gaps in reproductive health counseling and support and may contribute to the development of more patient-centered reproductive health services for women with multiple sclerosis",
-      "kind": "clinical_trial",
-      "external_id": "NCT07829822",
-      "score": 98,
-      "topics": [
-        "treatment",
-        "research",
-        "symptoms"
       ],
       "status": "new"
     }

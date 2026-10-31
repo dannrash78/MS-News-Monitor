@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T11:16:00.912239+00:00",
+  "updated_at": "2026-10-31T10:48:44.975222+00:00",
   "articles": [
     {
       "id": "6a4e64b11a3d0fd8",
@@ -26,7 +26,7 @@
       "title": "Experimental CAR T-cell therapy shows promise in early MS trial",
       "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/10/28/experimental-car-t-cell-therapy-shows-promise-early-ms-trial/",
       "published_at": "Wed, 28 Oct 2026 17:15:10 +0000",
-      "summary": "<a href=\"https://multiplesclerosisnewstoday.com/news-posts/2026/10/28/experimental-car-t-cell-therapy-shows-promise-early-ms-trial/\" title=\"Experimental CAR T-cell therapy shows promise in early MS trial\" rel=\"nofollow\"><img width=\"800\" height=\"462\" src=\"https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/10/iStock-2252478717-800x462.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"A high-resolution 3D scientific illustration depicts a CAR-T cell recognizing and attacking a cancer cell.\" style=\"display: block; margin: auto; margin-bottom: 15px;max-width: 100%;\" link_thumbnail=\"1\" decoding=\"async\" srcset=\"https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/10/iStock-2252478717-800x462.jpg 800w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/10/iStock-2252478717-380x220.jpg 380w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/10/iStock-2252478717-768x444.jpg 768w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/10/iStock-2252478717-1536x887.jpg 1536w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/10/iStock-2252478717.jpg 1800w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-wp-pid=\"166862\" /></a><p>Most people with relapsing or progressive forms of multiple sclerosis (MS) had stable or improved disability scores, along with signs of reduced disease activity, after receiving a single infusion of the experimental CAR T-cell therapy zolacabtagene autoleucel (zola-cel). That&#8217;s according to interim results from a Phase 1 clinical trial, called Breakfree-2 (NCT06220201), which tested two [&#8230;]</p> <p>The post <a href=\"https://multiplesclerosisnewstoday.com/news-posts/2026/10/28/experimental-car-t-cell-therapy-shows-promise-early-ms-trial/\">Experimental CAR T-cell therapy shows promise in early MS trial</a> appeared first on <a href=\"https://multiplesclerosisnewstoday.com\">Multiple Sclerosis News Today</a>.</p>",
+      "summary": "<a href=\"https://multiplesclerosisnewstoday.com/news-posts/2026/10/28/experimental-car-t-cell-therapy-shows-promise-early-ms-trial/\" title=\"Experimental CAR T-cell therapy shows promise in early MS trial\" rel=\"nofollow\"><img width=\"800\" height=\"462\" src=\"https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/10/iStock-2252478717-800x462.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"A high-resolution 3D scientific illustration depicts a CAR-T cell recognizing and attacking a cancer cell.\" style=\"display: block; margin: auto; margin-bottom: 15px;max-width: 100%;\" link_thumbnail=\"1\" decoding=\"async\" loading=\"lazy\" srcset=\"https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/10/iStock-2252478717-800x462.jpg 800w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/10/iStock-2252478717-380x220.jpg 380w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/10/iStock-2252478717-768x444.jpg 768w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/10/iStock-2252478717-1536x887.jpg 1536w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/10/iStock-2252478717.jpg 1800w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-wp-pid=\"166862\" /></a><p>Most people with relapsing or progressive forms of multiple sclerosis (MS) had stable or improved disability scores, along with signs of reduced disease activity, after receiving a single infusion of the experimental CAR T-cell therapy zolacabtagene autoleucel (zola-cel). That&#8217;s according to interim results from a Phase 1 clinical trial, called Breakfree-2 (NCT06220201), which tested two [&#8230;]</p> <p>The post <a href=\"https://multiplesclerosisnewstoday.com/news-posts/2026/10/28/experimental-car-t-cell-therapy-shows-promise-early-ms-trial/\">Experimental CAR T-cell therapy shows promise in early MS trial</a> appeared first on <a href=\"https://multiplesclerosisnewstoday.com\">Multiple Sclerosis News Today</a>.</p>",
       "kind": "news",
       "score": 100,
       "topics": [
@@ -626,6 +626,24 @@
         "clinical_trial",
         "treatment",
         "research"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "b34420543a4591e0",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "Performance and Long-term Safety of FlowOx2.0™ in Patients With Multiple Sclerosis - Impact on Spasticity and Pain",
+      "url": "https://clinicaltrials.gov/study/NCT05562453",
+      "published_at": "2026-10-19T00:00:00+00:00",
+      "summary": "The study is a 4-week double-blind, randomized, controlled, parallel design investigation to investigate the impact of intermittent negative pressure on spasticity and pain in people with multiple sclerosis (pwMS). The investigational device (FlowOx2.0™) is composed of a Pressure Chamber and a Control Unit (and disposable parts). All subjects will receive the same pressure chamber but be randomized to either a Control Unit that generates intermittent negative pressure (INP) of - (minus) 40 mmHg or a Control Unit that generates INP of - 10 mmHg. FlowOx2.0™ generating -40 mmHg is the investigational device, and FlowOx2.0™ generating -10 mmHg, is the comparator device. After the initial 4-week double-blind period, all participants will be offered the -40mmHg control unit to be used during a 6-months optional extension part.",
+      "kind": "clinical_trial",
+      "external_id": "NCT05562453",
+      "score": 100,
+      "topics": [
+        "clinical_trial",
+        "research",
+        "symptoms"
       ],
       "status": "new"
     },
@@ -1856,24 +1874,6 @@
       "summary": "The purpose of this study is to demonstrate the superiority of propionic acid over placebo as add on treatment in multiple sclerosis (MS).",
       "kind": "clinical_trial",
       "external_id": "NCT06402487",
-      "score": 100,
-      "topics": [
-        "clinical_trial",
-        "treatment",
-        "research"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "7a4e0543bad4bba8",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "A Phase 2, Multicenter, Randomized, Double-blind, Placebo-controlled Study to Evaluate the Efficacy, Safety, and Tolerability of TAK-935 (OV935) as an Adjunctive Therapy in Pediatric Participants With Developmental and/or Epileptic Encephalopathies",
-      "url": "https://clinicaltrials.gov/study/NCT03650452",
-      "published_at": "2026-09-14T00:00:00+00:00",
-      "summary": "The purpose of this study is to investigate the effect on the frequency of all seizures (convulsive and drop) in participants treated with TAK-935 compared to placebo.",
-      "kind": "clinical_trial",
-      "external_id": "NCT03650452",
       "score": 100,
       "topics": [
         "clinical_trial",

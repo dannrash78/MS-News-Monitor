@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T10:48:44.975222+00:00",
+  "updated_at": "2026-11-01T11:45:30.223670+00:00",
   "articles": [
     {
       "id": "6a4e64b11a3d0fd8",
@@ -404,6 +404,24 @@
       "status": "new"
     },
     {
+      "id": "cc71b98a78c6aa78",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "REAL-MS: Observational Database Study of AHSCT and MS Therapies",
+      "url": "https://clinicaltrials.gov/study/NCT07899502",
+      "published_at": "2026-10-27T00:00:00+00:00",
+      "summary": "Multiple sclerosis (MS) is a condition in which the immune system damages the brain and spinal cord. Treatments called disease-modifying therapies can reduce inflammation and disease activity. For some people with highly active MS, autologous haematopoietic stem cell transplantation (AHSCT) may be used. AHSCT uses a person's own blood-forming stem cells after treatment that suppresses the immune system.\n\nREAL-MS is an observational study that will collect and analyse information from routine clinical care to compare the longer-term effectiveness and safety of AHSCT with high-efficacy disease-modifying therapies for adults with MS. High-efficacy therapies include medicines such as alemtuzumab, cladribine, natalizumab, and anti-CD20 antibody treatments, as well as other high-efficacy disease-modifying therapies that may become available during the study.",
+      "kind": "clinical_trial",
+      "external_id": "NCT07899502",
+      "score": 100,
+      "topics": [
+        "treatment",
+        "regulatory",
+        "research"
+      ],
+      "status": "new"
+    },
+    {
       "id": "8015da4faf844fb9",
       "source_id": "clinicaltrials-ms",
       "source": "ClinicalTrials.gov – Multiple Sclerosis",
@@ -514,6 +532,24 @@
       "topics": [
         "clinical_trial",
         "treatment",
+        "research"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "58a5acc8005110c4",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "A Safety and Efficacy Study Evaluating CTX112 in Subjects With Refractory Neurologic Autoimmune Disease",
+      "url": "https://clinicaltrials.gov/study/NCT07804004",
+      "published_at": "2026-10-22T00:00:00+00:00",
+      "summary": "This is a single-arm, open-label, multicenter, ascending dose Phase 1/2 trial evaluating the safety and preliminary efficacy of CTX112 in adult participants with neurological autoimmune diseases (AIDs), including Progressive Multiple Sclerosis, relapsing Neuromyelitis Optica Spectrum Disorder, relapsing Myelin Oligodendrocyte Glycoprotein Antiody-Associated Disease, refractory AutoImmune Encephalitis, and refractory Stiff Person Syndrome",
+      "kind": "clinical_trial",
+      "external_id": "NCT07804004",
+      "score": 100,
+      "topics": [
+        "clinical_trial",
+        "regulatory",
         "research"
       ],
       "status": "new"
@@ -1842,43 +1878,6 @@
         "treatment",
         "research",
         "symptoms"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "40f6389b73d7d95a",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "RE104 Safety and Efficacy Study in Adjustment Disorder in Cancer and Other Medical Illnesses",
-      "url": "https://clinicaltrials.gov/study/NCT07002034",
-      "published_at": "2026-09-15T00:00:00+00:00",
-      "summary": "The purpose of this study is to determine if treatment with a single dose of RE104 for Injection reduces depressive symptoms or depressive symptoms mixed with anxiety symptoms in participants with Adjustment Disorder due to cancer or other illnesses such as Amyotrophic Lateral Sclerosis (ALS), Multiple Sclerosis (MS), Parkinson's Disease (PD) or Idiopathic Pulmonary Fibrosis (IPF) as compared to active-placebo.",
-      "kind": "clinical_trial",
-      "external_id": "NCT07002034",
-      "score": 100,
-      "topics": [
-        "clinical_trial",
-        "treatment",
-        "research",
-        "symptoms"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "ca00cd6eec7a52de",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "Propionic Acid in Multiple Sclerosis",
-      "url": "https://clinicaltrials.gov/study/NCT06402487",
-      "published_at": "2026-09-15T00:00:00+00:00",
-      "summary": "The purpose of this study is to demonstrate the superiority of propionic acid over placebo as add on treatment in multiple sclerosis (MS).",
-      "kind": "clinical_trial",
-      "external_id": "NCT06402487",
-      "score": 100,
-      "topics": [
-        "clinical_trial",
-        "treatment",
-        "research"
       ],
       "status": "new"
     }

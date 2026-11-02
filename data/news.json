@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T11:45:30.223670+00:00",
+  "updated_at": "2026-11-02T13:18:03.211373+00:00",
   "articles": [
     {
       "id": "6a4e64b11a3d0fd8",
@@ -306,6 +306,24 @@
       "status": "new"
     },
     {
+      "id": "06b18d29d18dbd63",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "Phase 2 Basket Trial of Nab-sirolimus in Patients With Malignant Solid Tumors With Pathogenic Alterations in TSC1/TSC2 Genes (PRECISION 1)",
+      "url": "https://clinicaltrials.gov/study/NCT05103358",
+      "published_at": "2026-10-28T00:00:00+00:00",
+      "summary": "A Phase 2 multi-center open-label basket trial of nab-sirolimus for adult and adolescent patients with malignant solid tumors harboring pathogenic inactivating alterations in TSC1 or TSC2 genes",
+      "kind": "clinical_trial",
+      "external_id": "NCT05103358",
+      "score": 100,
+      "topics": [
+        "clinical_trial",
+        "regulatory",
+        "research"
+      ],
+      "status": "new"
+    },
+    {
       "id": "8143ccdff063e595",
       "source_id": "clinicaltrials-ms",
       "source": "ClinicalTrials.gov – Multiple Sclerosis",
@@ -417,6 +435,24 @@
       "topics": [
         "treatment",
         "regulatory",
+        "research"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "5a904aa9b7064bfa",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "A Study of Orelabrutinib in Patients With Secondary Progressive Multiple Sclerosis",
+      "url": "https://clinicaltrials.gov/study/NCT07299019",
+      "published_at": "2026-10-27T00:00:00+00:00",
+      "summary": "Orelabrutinib is a CNS-penetrable BTK inhibitor. This is a phase 3, randomized, double-blind, parallel-group, multicenter study to evaluate the efficacy and safety of orelabrutinib compared with placebo in patients with non-active Secondary Progress MS. Patients will be treated for approximately 24 to 60 months, with a minimum treatment duration of 12 months. The study will enroll approximately 990 subjects in a 2:1 randomization (orelabrutinib: placebo), globally.",
+      "kind": "clinical_trial",
+      "external_id": "NCT07299019",
+      "score": 100,
+      "topics": [
+        "clinical_trial",
+        "treatment",
         "research"
       ],
       "status": "new"
@@ -550,24 +586,6 @@
       "topics": [
         "clinical_trial",
         "regulatory",
-        "research"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "5a904aa9b7064bfa",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "A Study of Orelabrutinib in Patients With Secondary Progressive Multiple Sclerosis",
-      "url": "https://clinicaltrials.gov/study/NCT07299019",
-      "published_at": "2026-10-21T00:00:00+00:00",
-      "summary": "Orelabrutinib is a CNS-penetrable BTK inhibitor. This is a phase 3, randomized, double-blind, parallel-group, multicenter study to evaluate the efficacy and safety of orelabrutinib compared with placebo in patients with non-active Secondary Progress MS. Patients will be treated for approximately 24 to 60 months, with a minimum treatment duration of 12 months. The study will enroll approximately 990 subjects in a 2:1 randomization (orelabrutinib: placebo), globally.",
-      "kind": "clinical_trial",
-      "external_id": "NCT07299019",
-      "score": 100,
-      "topics": [
-        "clinical_trial",
-        "treatment",
         "research"
       ],
       "status": "new"
@@ -1384,24 +1402,6 @@
         "regulatory",
         "research",
         "diagnosis"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "06b18d29d18dbd63",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "Phase 2 Basket Trial of Nab-sirolimus in Patients With Malignant Solid Tumors With Pathogenic Alterations in TSC1/TSC2 Genes (PRECISION 1)",
-      "url": "https://clinicaltrials.gov/study/NCT05103358",
-      "published_at": "2026-09-28T00:00:00+00:00",
-      "summary": "A Phase 2 multi-center open-label basket trial of nab-sirolimus for adult and adolescent patients with malignant solid tumors harboring pathogenic inactivating alterations in TSC1 or TSC2 genes",
-      "kind": "clinical_trial",
-      "external_id": "NCT05103358",
-      "score": 100,
-      "topics": [
-        "clinical_trial",
-        "regulatory",
-        "research"
       ],
       "status": "new"
     },

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T13:18:03.211373+00:00",
+  "updated_at": "2026-11-03T12:42:15.945717+00:00",
   "articles": [
     {
       "id": "6a4e64b11a3d0fd8",
@@ -209,6 +209,23 @@
         "regulatory",
         "research",
         "diagnosis"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "6dc39bb2e5deb432",
+      "source_id": "ms-news-today",
+      "source": "Multiple Sclerosis News Today",
+      "title": "Study ties MS therapy to higher risk of inflammatory bowel disease",
+      "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/11/02/study-ties-ms-therapy-higher-risk-inflammatory-bowel-disease/",
+      "published_at": "Mon, 02 Nov 2026 13:00:34 +0000",
+      "summary": "<a href=\"https://multiplesclerosisnewstoday.com/news-posts/2026/11/02/study-ties-ms-therapy-higher-risk-inflammatory-bowel-disease/\" title=\"Study ties MS therapy to higher risk of inflammatory bowel disease\" rel=\"nofollow\"><img width=\"800\" height=\"533\" src=\"https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/10/iStock-867648074-800x533.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"A woman holds her stomach; an image of the large intestine is superimposed on it.\" style=\"display: block; margin: auto; margin-bottom: 15px;max-width: 100%;\" link_thumbnail=\"1\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/10/iStock-867648074-800x533.jpg 800w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/10/iStock-867648074-380x253.jpg 380w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/10/iStock-867648074-768x512.jpg 768w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/10/iStock-867648074-1536x1024.jpg 1536w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/10/iStock-867648074.jpg 1800w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-wp-pid=\"166791\" /></a><p>Treatment with rituximab, an anti-CD20 therapy that is used off label for multiple sclerosis (MS), may be associated with a significantly higher risk of developing inflammatory bowel disease (IBD), particularly Crohn&#8217;s disease, a large study in Sweden found. After accounting for patient differences, researchers found the risk was about 10 times higher with rituximab than [&#8230;]</p> <p>The post <a href=\"https://multiplesclerosisnewstoday.com/news-posts/2026/11/02/study-ties-ms-therapy-higher-risk-inflammatory-bowel-disease/\">Study ties MS therapy to higher risk of inflammatory bowel disease</a> appeared first on <a href=\"https://multiplesclerosisnewstoday.com\">Multiple Sclerosis News Today</a>.</p>",
+      "kind": "news",
+      "score": 100,
+      "topics": [
+        "treatment",
+        "regulatory",
+        "research"
       ],
       "status": "new"
     },
@@ -1859,25 +1876,6 @@
         "research",
         "symptoms",
         "nutrition"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "f8fd070ccc1288c5",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "Cannabis (THC vs. CBD) in Multiple Sclerosis",
-      "url": "https://clinicaltrials.gov/study/NCT06261489",
-      "published_at": "2026-09-15T00:00:00+00:00",
-      "summary": "The goal of this clinical trial is to examine the effect of Cannabis components, THC and CBD, on cognition and bladder symptoms in people with Multiple Sclerosis (MS).\n\nParticipants will complete questionnaires and cognitive tests. They will be randomly assigned to receive either CBD or THC oil and will take the study drug for 15 weeks.",
-      "kind": "clinical_trial",
-      "external_id": "NCT06261489",
-      "score": 100,
-      "topics": [
-        "clinical_trial",
-        "treatment",
-        "research",
-        "symptoms"
       ],
       "status": "new"
     }

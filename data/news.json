@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T12:42:15.945717+00:00",
+  "updated_at": "2026-11-04T12:52:05.146801+00:00",
   "articles": [
     {
       "id": "6a4e64b11a3d0fd8",
@@ -143,6 +143,41 @@
       "status": "new"
     },
     {
+      "id": "440d4ebaf324c870",
+      "source_id": "ms-news-today",
+      "source": "Multiple Sclerosis News Today",
+      "title": "Experimental MS therapy reduces brain inflammation in Phase 2 trial",
+      "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/11/03/nasal-ms-treatment-lowers-brain-inflammation-phase-2-trial/",
+      "published_at": "Tue, 03 Nov 2026 13:00:33 +0000",
+      "summary": "<a href=\"https://multiplesclerosisnewstoday.com/news-posts/2026/11/03/nasal-ms-treatment-lowers-brain-inflammation-phase-2-trial/\" title=\"Experimental MS therapy reduces brain inflammation in Phase 2 trial\" rel=\"nofollow\"><img width=\"800\" height=\"450\" src=\"https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/11/iStock-1453639789-800x450.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"People reviewing charts and graphs on a laptop computer, with one person pointing at the screen using a pen.\" style=\"display: block; margin: auto; margin-bottom: 15px;max-width: 100%;\" link_thumbnail=\"1\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/11/iStock-1453639789-800x450.jpg 800w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/11/iStock-1453639789-380x214.jpg 380w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/11/iStock-1453639789-768x432.jpg 768w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/11/iStock-1453639789-1536x864.jpg 1536w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/11/iStock-1453639789-1200x675-cropped.jpg 1200w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/11/iStock-1453639789.jpg 1800w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-wp-pid=\"166998\" /></a><p>A lower dose of the experimental therapy foralumab significantly reduced a marker of brain inflammation in people with nonactive secondary progressive multiple sclerosis (SPMS), according to top-line results from a Phase 2 clinical trial. The 12-week study, called INFORM-MS (NCT06292923), met both its main goals. Both doses of foralumab were safe and well tolerated, while [&#8230;]</p> <p>The post <a href=\"https://multiplesclerosisnewstoday.com/news-posts/2026/11/03/nasal-ms-treatment-lowers-brain-inflammation-phase-2-trial/\">Experimental MS therapy reduces brain inflammation in Phase 2 trial</a> appeared first on <a href=\"https://multiplesclerosisnewstoday.com\">Multiple Sclerosis News Today</a>.</p>",
+      "kind": "news",
+      "score": 100,
+      "topics": [
+        "clinical_trial",
+        "treatment",
+        "research"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "20a3a4c17b6977c5",
+      "source_id": "ms-news-today",
+      "source": "Multiple Sclerosis News Today",
+      "title": "Experimental MS therapy outperforms approved treatment in two trials",
+      "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/11/03/experimental-ms-therapy-outperforms-approved-treatment-trials/",
+      "published_at": "Tue, 03 Nov 2026 13:00:17 +0000",
+      "summary": "<a href=\"https://multiplesclerosisnewstoday.com/news-posts/2026/11/03/experimental-ms-therapy-outperforms-approved-treatment-trials/\" title=\"Experimental MS therapy outperforms approved treatment in two trials\" rel=\"nofollow\"><img width=\"800\" height=\"534\" src=\"https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/10/iStock-2060670166-800x534.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Assorted pills and capsules surrounding a magnifying glass on a light blue background.\" style=\"display: block; margin: auto; margin-bottom: 15px;max-width: 100%;\" link_thumbnail=\"1\" decoding=\"async\" srcset=\"https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/10/iStock-2060670166-800x534.jpg 800w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/10/iStock-2060670166-380x254.jpg 380w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/10/iStock-2060670166-768x512.jpg 768w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/10/iStock-2060670166-1536x1025.jpg 1536w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/10/iStock-2060670166.jpg 1800w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-wp-pid=\"166962\" /></a><p>The experimental oral therapy remibrutinib significantly reduced relapse rates and brain lesion activity more than the approved therapy Aubagio (teriflunomide) in two Phase 3 clinical trials of people with relapsing forms of multiple sclerosis (MS). The trials, REMODEL-1 (NCT05147220) and REMODEL-2 (NCT05156281), compared remibrutinib with Aubagio in about 2,000 adults with MS, ages 18 to [&#8230;]</p> <p>The post <a href=\"https://multiplesclerosisnewstoday.com/news-posts/2026/11/03/experimental-ms-therapy-outperforms-approved-treatment-trials/\">Experimental MS therapy outperforms approved treatment in two trials</a> appeared first on <a href=\"https://multiplesclerosisnewstoday.com\">Multiple Sclerosis News Today</a>.</p>",
+      "kind": "news",
+      "score": 100,
+      "topics": [
+        "clinical_trial",
+        "treatment",
+        "regulatory",
+        "research"
+      ],
+      "status": "new"
+    },
+    {
       "id": "16c387c82757f977",
       "source_id": "ms-news-today",
       "source": "Multiple Sclerosis News Today",
@@ -219,7 +254,7 @@
       "title": "Study ties MS therapy to higher risk of inflammatory bowel disease",
       "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/11/02/study-ties-ms-therapy-higher-risk-inflammatory-bowel-disease/",
       "published_at": "Mon, 02 Nov 2026 13:00:34 +0000",
-      "summary": "<a href=\"https://multiplesclerosisnewstoday.com/news-posts/2026/11/02/study-ties-ms-therapy-higher-risk-inflammatory-bowel-disease/\" title=\"Study ties MS therapy to higher risk of inflammatory bowel disease\" rel=\"nofollow\"><img width=\"800\" height=\"533\" src=\"https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/10/iStock-867648074-800x533.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"A woman holds her stomach; an image of the large intestine is superimposed on it.\" style=\"display: block; margin: auto; margin-bottom: 15px;max-width: 100%;\" link_thumbnail=\"1\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/10/iStock-867648074-800x533.jpg 800w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/10/iStock-867648074-380x253.jpg 380w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/10/iStock-867648074-768x512.jpg 768w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/10/iStock-867648074-1536x1024.jpg 1536w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/10/iStock-867648074.jpg 1800w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-wp-pid=\"166791\" /></a><p>Treatment with rituximab, an anti-CD20 therapy that is used off label for multiple sclerosis (MS), may be associated with a significantly higher risk of developing inflammatory bowel disease (IBD), particularly Crohn&#8217;s disease, a large study in Sweden found. After accounting for patient differences, researchers found the risk was about 10 times higher with rituximab than [&#8230;]</p> <p>The post <a href=\"https://multiplesclerosisnewstoday.com/news-posts/2026/11/02/study-ties-ms-therapy-higher-risk-inflammatory-bowel-disease/\">Study ties MS therapy to higher risk of inflammatory bowel disease</a> appeared first on <a href=\"https://multiplesclerosisnewstoday.com\">Multiple Sclerosis News Today</a>.</p>",
+      "summary": "<a href=\"https://multiplesclerosisnewstoday.com/news-posts/2026/11/02/study-ties-ms-therapy-higher-risk-inflammatory-bowel-disease/\" title=\"Study ties MS therapy to higher risk of inflammatory bowel disease\" rel=\"nofollow\"><img width=\"800\" height=\"533\" src=\"https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/10/iStock-867648074-800x533.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"A woman holds her stomach; an image of the large intestine is superimposed on it.\" style=\"display: block; margin: auto; margin-bottom: 15px;max-width: 100%;\" link_thumbnail=\"1\" decoding=\"async\" srcset=\"https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/10/iStock-867648074-800x533.jpg 800w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/10/iStock-867648074-380x253.jpg 380w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/10/iStock-867648074-768x512.jpg 768w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/10/iStock-867648074-1536x1024.jpg 1536w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/10/iStock-867648074.jpg 1800w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-wp-pid=\"166791\" /></a><p>Treatment with rituximab, an anti-CD20 therapy that is used off label for multiple sclerosis (MS), may be associated with a significantly higher risk of developing inflammatory bowel disease (IBD), particularly Crohn&#8217;s disease, a large study in Sweden found. After accounting for patient differences, researchers found the risk was about 10 times higher with rituximab than [&#8230;]</p> <p>The post <a href=\"https://multiplesclerosisnewstoday.com/news-posts/2026/11/02/study-ties-ms-therapy-higher-risk-inflammatory-bowel-disease/\">Study ties MS therapy to higher risk of inflammatory bowel disease</a> appeared first on <a href=\"https://multiplesclerosisnewstoday.com\">Multiple Sclerosis News Today</a>.</p>",
       "kind": "news",
       "score": 100,
       "topics": [
@@ -243,6 +278,46 @@
         "clinical_trial",
         "treatment",
         "research"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "c01c9476bd8f1c52",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "Classification of Upper and Lower Limb Spasticity Patterns and Their Impact on Quality of Life in Patients With Multiple Sclerosis",
+      "url": "https://clinicaltrials.gov/study/NCT07466823",
+      "published_at": "2026-11-03T00:00:00+00:00",
+      "summary": "Multiple sclerosis (MS) is a chronic neurological disease frequently associated with spasticity, which may lead to functional limitations and reduced quality of life. Although spasticity is common in MS, detailed descriptions of upper and lower extremity spasticity patterns are limited. A better understanding of spasticity patterns may help improve individualized rehabilitation and treatment planning.\n\nThe aim of this study is to classify upper and lower extremity spasticity patterns in patients with multiple sclerosis and to investigate their association with quality of life. Adult patients with MS and clinical spasticity will be recruited from a tertiary care outpatient clinic. Spasticity will be evaluated using the Modified Ashworth Scale, and extremity postures will be recorded to define spasticity patterns. Functional performance will be assessed using the Timed 25-Foot Walk Test and the 9-Hole Peg Test. The impact of spasticity on quality of life will be evaluated using the Patient-Reported Impact of Spasticity Measure (PRISM).\n\nThis prospective cross-sectional study is designed to provide a systematic description of spasticity patterns in patients with multiple sclerosis and to examine their relationship with functional outcomes and quality of life.",
+      "kind": "clinical_trial",
+      "external_id": "NCT07466823",
+      "score": 100,
+      "topics": [
+        "treatment",
+        "regulatory",
+        "research",
+        "rehabilitation",
+        "symptoms",
+        "quality_of_life"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "08666eb278073f63",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "Monthly Monitoring of Plasma NfL in Treated Relapsing-remitting Multiple Sclerosis to Detect Persistent Infraclinical Disease Activity",
+      "url": "https://clinicaltrials.gov/study/NCT07292480",
+      "published_at": "2026-11-03T00:00:00+00:00",
+      "summary": "Reference MRI scan is recommended 6 months after treatment onset in patients with multiple sclerosis (MS), and follow-up scans at 12 months later to monitor subclinical activity. When monitoring treatment response in patients treated with disease modifying treatments (DMTs), the measurement of new or enlarging T2/FLAIR hyperintense lesions (NELs) is the preferred MRI method supplemented by contrast-enhancing lesions (CELs) for monitoring treatment response. However, some studies have suggested the deposition of gadolinium-based contrast agents in the basal ganglia and dentate nucleus of patients who underwent serial MRI acquisitions. Although significant clinical consequences of these deposits have not been demonstrated, further studies are required to better understand the potential long-term biological and clinical effects of gadolinium administration. To circumvent this potential risk, several recommendations suggested avoiding unnecessary use of gadolinium for follow-up scans. New sequences are also developed to replace gadolinium injection for the detection of active lesions. Moreover, MRI remains costly and time-consuming. In addition, systematic yearly MRI monitoring is not adapted to detect silent active lesions. This can delay identification of treatment failure and increase the risk of relapses and disability worsening, especially in the context of escalation therapy.\n\nTherefore, biological markers could allow more frequent analysis of disease activity and detect treatment failure earlier than classical clinical and MRI monitoring. Their use would greatly help clinicians to switch for high efficacy treatments (HET) and avoid potential relapses.\n\nMeasurement of a structural axonal protein, neurofilament, in serum or plasma has shown promise as a marker of neuroaxonal injury and a measure of treatment response. In MS, cerebrospinal fluid (CSF) neurofilament-light chain (NfL) is also increased and is positively associated with MRI lesion load and disability scores and is a marker of treatment response.\n\nWThe study authors hypothesize that monthly plasma neurofilament-light chain (pNfL) monitoring can sensitively highlight subclinical (radiological disease activity) RDA by performing early MRI scans to confirm EDA and lead to timely treatment escalation.\n\nThe main objective of this study is to compare the time to EDA in both arms (monthly pNfL monitoring vs. standard care with regular MRI scans), in patients with EDA.",
+      "kind": "clinical_trial",
+      "external_id": "NCT07292480",
+      "score": 100,
+      "topics": [
+        "treatment",
+        "regulatory",
+        "research",
+        "nutrition"
       ],
       "status": "new"
     },
@@ -1799,83 +1874,6 @@
         "treatment",
         "research",
         "rehabilitation"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "004d7b6af6742cfe",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "Study to Evaluate the Efficacy and Safety of Fenebrutinib Compared With Teriflunomide in Relapsing Multiple Sclerosis (RMS)",
-      "url": "https://clinicaltrials.gov/study/NCT04586023",
-      "published_at": "2026-09-17T00:00:00+00:00",
-      "summary": "A study to evaluate the efficacy and safety of fenebrutinib on disability progression and relapse rate in adult participants with RMS. Eligible participants will be randomized in a 1:1 ratio to receive either fenebrutinib or teriflunomide. At the end of the double-blind treatment (DBT) phase (after disclosure of the DBT results), the Sponsor will determine whether or not to initiate the open-label extension (OLE) phase of the study.",
-      "kind": "clinical_trial",
-      "external_id": "NCT04586023",
-      "score": 100,
-      "topics": [
-        "clinical_trial",
-        "treatment",
-        "regulatory",
-        "research"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "f67161c34bdca6f0",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "FES: Effect on Walking in the Real World and Participation in Daily Life in People With Multiple Sclerosis.",
-      "url": "https://clinicaltrials.gov/study/NCT07706114",
-      "published_at": "2026-09-15T00:00:00+00:00",
-      "summary": "Multiple sclerosis (MS) is a chronic, neurodegenerative disease and the most common cause of non- traumatic disability in young adults. Foot drop, arising from MS-induced muscle weakness, leads to impaired mobility, increased fall risk, reduced overall physical activity and reduced health-related quality of life. Functional electrical stimulation (FES) represents a revolutionary approach for addressing gait mobility challenges in MS and evolution in the technology has greatly improved its design, comfort, and functionality. Despite its proven benefits, FES is underutilized in MS clinical practice and lacks a comprehensive assessment of its long-term effectiveness and impact in real-world applications. Study objectives are to evaluate the utility of FES for improving function and real-world outcomes in people with MS (PwMS) who have gait impairments. Study design: 4-month randomized controlled trial (RCT) (n=70 PwMS) evaluating FES efficacy. Group 1: 4M FES; Group 2: 4M sham stimulation, followed by both groups: 4M FES, then 1M (no-FES) follow-up assessing carryover. We will assess gait quality, muscle function, physical activity, and FES adoption factors, with covariates including age, sex, MS severity, MS symptoms, biomechanical factors, and device usage patterns.",
-      "kind": "clinical_trial",
-      "external_id": "NCT07706114",
-      "score": 100,
-      "topics": [
-        "clinical_trial",
-        "research",
-        "rehabilitation",
-        "symptoms",
-        "quality_of_life"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "f73021ccf778a19e",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "The Effects of Internet-Based and Supervised Exercise Programs in People With Multiple Sclerosis",
-      "url": "https://clinicaltrials.gov/study/NCT06210581",
-      "published_at": "2026-09-15T00:00:00+00:00",
-      "summary": "The main aim of this study is resarch and compare the effects of supervised exercise programs and internet-based exercise programs, which have started to benefit from their effects in recent years, known for not requiring conditions such as transportation distance, cost and time, on motor disorders and quality of life in people with multiple sclerosis (MS). This study conducting for develop a new perspective on conventional physiotherapy and rehabilitation practices. Our study will be performed in people with MS with a high EDSS score, is seen as an important contribution for the literature.",
-      "kind": "clinical_trial",
-      "external_id": "NCT06210581",
-      "score": 100,
-      "topics": [
-        "treatment",
-        "research",
-        "rehabilitation",
-        "quality_of_life"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "ea460db0ac63af4b",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "Treatment of Cognitive Deficits in Multiple Sclerosis With High-Definition Transcranial Direct Current Stimulation",
-      "url": "https://clinicaltrials.gov/study/NCT05958381",
-      "published_at": "2026-09-15T00:00:00+00:00",
-      "summary": "The purpose of the study is to test whether low level electric stimulation, called transcranial Direct Current Stimulation (tDCS), on the part of the brain (i.e., presupplementary motor area) thought to aid in memory will improve verbal retrieval in multiple sclerosis patients. The primary outcome measures are neuropsychological assessments of verbal retrieval, and the secondary measures are neuropsychological assessments of other cognitive abilities and electroencephalography (EEG) measures. Additionally, the study will examine the degree to which baseline assessments of cognition and concussion history predict responses to treatment over time, both on assessments administered within the intervention period and at follow-up.",
-      "kind": "clinical_trial",
-      "external_id": "NCT05958381",
-      "score": 100,
-      "topics": [
-        "treatment",
-        "research",
-        "symptoms",
-        "nutrition"
       ],
       "status": "new"
     }

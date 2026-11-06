@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T13:00:37.662973+00:00",
+  "updated_at": "2026-11-06T12:48:49.561665+00:00",
   "articles": [
     {
       "id": "6a4e64b11a3d0fd8",
@@ -195,6 +195,23 @@
       "status": "new"
     },
     {
+      "id": "ca7a502ccfee3e30",
+      "source_id": "ms-news-today",
+      "source": "Multiple Sclerosis News Today",
+      "title": "Potential myelin-repair treatment for MS enters human testing",
+      "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/11/05/potential-myelin-sheath-repair-treatment-ms-enters-clinical-trial/",
+      "published_at": "Thu, 05 Nov 2026 13:00:10 +0000",
+      "summary": "<a href=\"https://multiplesclerosisnewstoday.com/news-posts/2026/11/05/potential-myelin-sheath-repair-treatment-ms-enters-clinical-trial/\" title=\"Potential myelin-repair treatment for MS enters human testing\" rel=\"nofollow\"><img width=\"800\" height=\"450\" src=\"https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/11/iStock-2164339297-800x450.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"3D illustration of a branching nerve cell with reddish-brown segments of myelin covering part of a long nerve fiber.\" style=\"display: block; margin: auto; margin-bottom: 15px;max-width: 100%;\" link_thumbnail=\"1\" decoding=\"async\" srcset=\"https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/11/iStock-2164339297-800x450.jpg 800w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/11/iStock-2164339297-380x214.jpg 380w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/11/iStock-2164339297-768x432.jpg 768w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/11/iStock-2164339297-1536x864.jpg 1536w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/11/iStock-2164339297-1200x675-cropped.jpg 1200w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/11/iStock-2164339297.jpg 1800w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-wp-pid=\"167067\" /></a><p>The first participant has been dosed in a Phase 1/2a clinical trial testing PRO-1562, an experimental oral treatment designed to repair myelin, the protective sheath around nerve fibers that is damaged in people with multiple sclerosis (MS). Developed by Progentos Therapeutics, PRO-1562 aims to help existing immature cells develop into myelin-producing cells, potentially restoring nerve [&#8230;]</p> <p>The post <a href=\"https://multiplesclerosisnewstoday.com/news-posts/2026/11/05/potential-myelin-sheath-repair-treatment-ms-enters-clinical-trial/\">Potential myelin-repair treatment for MS enters human testing</a> appeared first on <a href=\"https://multiplesclerosisnewstoday.com\">Multiple Sclerosis News Today</a>.</p>",
+      "kind": "news",
+      "score": 100,
+      "topics": [
+        "clinical_trial",
+        "treatment",
+        "research"
+      ],
+      "status": "new"
+    },
+    {
       "id": "e98e477bcfea28eb",
       "source_id": "ms-news-today",
       "source": "Multiple Sclerosis News Today",
@@ -273,6 +290,24 @@
       "published_at": "Fri, 23 Oct 2026 15:15:51 +0000",
       "summary": "<a href=\"https://multiplesclerosisnewstoday.com/news-posts/2026/10/23/experimental-therapy-curb-chronic-brain-inflammation-ms/\" title=\"Experimental therapy may curb chronic brain inflammation in MS\" rel=\"nofollow\"><img width=\"800\" height=\"480\" src=\"https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/10/iStock-1280415854-800x480.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"A red spot is seen in a brain within a human head constructed of blue lines and bright dots.\" style=\"display: block; margin: auto; margin-bottom: 15px;max-width: 100%;\" link_thumbnail=\"1\" decoding=\"async\" loading=\"lazy\" srcset=\"https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/10/iStock-1280415854-800x480.jpg 800w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/10/iStock-1280415854-380x228.jpg 380w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/10/iStock-1280415854-768x461.jpg 768w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/10/iStock-1280415854-1536x922.jpg 1536w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/10/iStock-1280415854.jpg 1800w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-wp-pid=\"166737\" /></a><p>Genentech’s experimental oral therapy fenebrutinib may help control the chronic inflammation in the brain associated with disability progression in both relapsing forms of multiple sclerosis (MS) and primary progressive MS (PPMS). That&#8217;s according to new analyses of data from three ongoing Phase 3 trials, in which fenebrutinib was associated with significant reductions in slowly expanding [&#8230;]</p> <p>The post <a href=\"https://multiplesclerosisnewstoday.com/news-posts/2026/10/23/experimental-therapy-curb-chronic-brain-inflammation-ms/\">Experimental therapy may curb chronic brain inflammation in MS</a> appeared first on <a href=\"https://multiplesclerosisnewstoday.com\">Multiple Sclerosis News Today</a>.</p>",
       "kind": "news",
+      "score": 100,
+      "topics": [
+        "clinical_trial",
+        "treatment",
+        "research"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "f08822637b778c78",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "Targeting Agonists of Glucagon-like Peptide-1 Receptor for Multiple Sclerosis",
+      "url": "https://clinicaltrials.gov/study/NCT07497399",
+      "published_at": "2026-11-05T00:00:00+00:00",
+      "summary": "The goal of this clinical trial is to evaluate if the study drug will reduce brain and retinal atrophy by reducing inflammation and subsequently slowing neurodegeneration in people with Multiple Sclerosis. The main outcome for the trial is change in normalized brain parenchymal volume (nBPV), measured by magnetic resonance imaging (MRI).\n\nResearchers will compare outcomes from participants randomized to the study drug, versus participants randomized to placebo, to see if there are signs of slowed neurodegeneration (i.e., reduction in brain and retinal atrophy).",
+      "kind": "clinical_trial",
+      "external_id": "NCT07497399",
       "score": 100,
       "topics": [
         "clinical_trial",
@@ -368,6 +403,24 @@
       "summary": "The purpose of the study is to test whether low-level electric stimulation, called High Definition transcranial Direct Current Stimulation (HDtDCS), on the part of the brain (i.e., left inferior frontal gyrus) thought to aid in memory will improve verbal retrieval in multiple sclerosis patients. The primary outcome measures are neuropsychological assessments of verbal retrieval, and the secondary measures are neuropsychological assessments of other cognitive abilities and electroencephalography (EEG) measures.",
       "kind": "clinical_trial",
       "external_id": "NCT07914257",
+      "score": 100,
+      "topics": [
+        "clinical_trial",
+        "treatment",
+        "research"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "8143ccdff063e595",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "A Study of Orelabrutinib in Patients With Primary Progressive Multiple Sclerosis",
+      "url": "https://clinicaltrials.gov/study/NCT07067463",
+      "published_at": "2026-11-03T00:00:00+00:00",
+      "summary": "Orelabrutinib is a CNS-penetrable BTK inhibitor. This is a phase 3, randomized, double-blind, parallel-group, multicenter study to evaluate the efficacy and safety of orelabrutinib compared with placebo in patients with PPMS. Patients will be treated for approximately 30 to 60 months, with a minimum treatment duration of 12 months. The study will enroll approximately 705 subjects in a 2:1 randomization (orelabrutinib: placebo), globally.",
+      "kind": "clinical_trial",
+      "external_id": "NCT07067463",
       "score": 100,
       "topics": [
         "clinical_trial",
@@ -484,24 +537,6 @@
       "topics": [
         "clinical_trial",
         "regulatory",
-        "research"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "8143ccdff063e595",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "A Study of Orelabrutinib in Patients With Primary Progressive Multiple Sclerosis",
-      "url": "https://clinicaltrials.gov/study/NCT07067463",
-      "published_at": "2026-10-27T00:00:00+00:00",
-      "summary": "Orelabrutinib is a CNS-penetrable BTK inhibitor. This is a phase 3, randomized, double-blind, parallel-group, multicenter study to evaluate the efficacy and safety of orelabrutinib compared with placebo in patients with PPMS. Patients will be treated for approximately 30 to 60 months, with a minimum treatment duration of 12 months. The study will enroll approximately 705 subjects in a 2:1 randomization (orelabrutinib: placebo), globally.",
-      "kind": "clinical_trial",
-      "external_id": "NCT07067463",
-      "score": 100,
-      "topics": [
-        "clinical_trial",
-        "treatment",
         "research"
       ],
       "status": "new"
@@ -1838,46 +1873,7 @@
         "research"
       ],
       "status": "new"
-    },
-    {
-      "id": "00329db2923c3633",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "A Study to Evaluate the Efficacy and Safety of Fenebrutinib Compared With Teriflunomide in Relapsing Multiple Sclerosis (RMS)",
-      "url": "https://clinicaltrials.gov/study/NCT04586010",
-      "published_at": "2026-09-21T00:00:00+00:00",
-      "summary": "A study to evaluate the efficacy and safety of fenebrutinib on disability progression and relapse rate in adult participants with RMS. Eligible participants will be randomized in a 1:1 ratio to receive either fenebrutinib or teriflunomide. At the end of the double-blind treatment (DBT) phase (after disclosure of the DBT results), the Sponsor will determine whether or not to initiate the open-label extension (OLE) phase of the study.",
-      "kind": "clinical_trial",
-      "external_id": "NCT04586010",
-      "score": 100,
-      "topics": [
-        "clinical_trial",
-        "treatment",
-        "regulatory",
-        "research"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "acfda72b3a8eebbc",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "A Study to Evaluate the Preliminary Efficacy and Safety of Terfenadine in Patients With Relapsing-Remitting Multiple Sclerosis",
-      "url": "https://clinicaltrials.gov/study/NCT07827716",
-      "published_at": "2026-09-18T00:00:00+00:00",
-      "summary": "The goal of this clinical trial is to evaluate the safety and tolerability of terfenadine when added to standard first-line disease-modifying therapy in adults with multiple sclerosis. The study will also explore whether adding terfenadine may help improve disease-related outcomes.\n\nResearchers will compare participants who receive terfenadine plus standard first-line disease-modifying therapy with participants who receive standard first-line disease-modifying therapy alone.\n\nParticipants will:\n\nBe randomly assigned to receive either terfenadine plus standard first-line disease-modifying therapy or standard first-line disease-modifying therapy alone.\n\nTake terfenadine 60 mg once daily at bedtime for 1 month if assigned to the terfenadine group.\n\nAttend study visits during screening, treatment, and follow-up over 12 months. Have physical examinations, vital sign checks, laboratory tests, electrocardiograms, imaging assessments, neurological evaluations, and collection of blood, stool, and cerebrospinal fluid samples at scheduled visits.",
-      "kind": "clinical_trial",
-      "external_id": "NCT07827716",
-      "score": 100,
-      "topics": [
-        "clinical_trial",
-        "treatment",
-        "research"
-      ],
-      "status": "new"
     }
   ],
-  "source_errors": [
-    "PubMed – Multiple Sclerosis: HTTP Error 500: Internal Server Error"
-  ]
+  "source_errors": []
 }

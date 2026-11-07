@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T12:48:49.561665+00:00",
+  "updated_at": "2026-11-07T11:36:34.138680+00:00",
   "articles": [
     {
       "id": "6a4e64b11a3d0fd8",
@@ -290,6 +290,24 @@
       "published_at": "Fri, 23 Oct 2026 15:15:51 +0000",
       "summary": "<a href=\"https://multiplesclerosisnewstoday.com/news-posts/2026/10/23/experimental-therapy-curb-chronic-brain-inflammation-ms/\" title=\"Experimental therapy may curb chronic brain inflammation in MS\" rel=\"nofollow\"><img width=\"800\" height=\"480\" src=\"https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/10/iStock-1280415854-800x480.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"A red spot is seen in a brain within a human head constructed of blue lines and bright dots.\" style=\"display: block; margin: auto; margin-bottom: 15px;max-width: 100%;\" link_thumbnail=\"1\" decoding=\"async\" loading=\"lazy\" srcset=\"https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/10/iStock-1280415854-800x480.jpg 800w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/10/iStock-1280415854-380x228.jpg 380w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/10/iStock-1280415854-768x461.jpg 768w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/10/iStock-1280415854-1536x922.jpg 1536w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/10/iStock-1280415854.jpg 1800w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-wp-pid=\"166737\" /></a><p>Genentech’s experimental oral therapy fenebrutinib may help control the chronic inflammation in the brain associated with disability progression in both relapsing forms of multiple sclerosis (MS) and primary progressive MS (PPMS). That&#8217;s according to new analyses of data from three ongoing Phase 3 trials, in which fenebrutinib was associated with significant reductions in slowly expanding [&#8230;]</p> <p>The post <a href=\"https://multiplesclerosisnewstoday.com/news-posts/2026/10/23/experimental-therapy-curb-chronic-brain-inflammation-ms/\">Experimental therapy may curb chronic brain inflammation in MS</a> appeared first on <a href=\"https://multiplesclerosisnewstoday.com\">Multiple Sclerosis News Today</a>.</p>",
       "kind": "news",
+      "score": 100,
+      "topics": [
+        "clinical_trial",
+        "treatment",
+        "research"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "febd6a8bcbeb5df7",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "Metformin as an add-on or Monotherapy in Treatment of Aging People With Multiple Sclerosis (MS)",
+      "url": "https://clinicaltrials.gov/study/NCT06463743",
+      "published_at": "2026-11-06T00:00:00+00:00",
+      "summary": "The goal of the study is to learn about treating older people with multiple sclerosis (MS) with metformin. Metformin may be used as a single therapy or as an add-on therapy. The investigators want to learn:\n\n* The safety and tolerability of metformin extended release (1500 mg/day) as a single therapy or as an add-on therapy in older people with MS compared to placebo\n* How well metformin protects the nervous system against injury compared with placebo measured by brain MRI over a 9 month treatment period\n* The effect of metformin to protect brain tissue from age and MS related injury when compared to the placebo group over a 9 month treatment period",
+      "kind": "clinical_trial",
+      "external_id": "NCT06463743",
       "score": 100,
       "topics": [
         "clinical_trial",
@@ -1849,25 +1867,6 @@
       "external_id": "NCT07280871",
       "score": 100,
       "topics": [
-        "treatment",
-        "regulatory",
-        "research"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "a999f5e330e95fc5",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "Treatment of Participants With Primary or Secondary Progressive Multiple Sclerosis",
-      "url": "https://clinicaltrials.gov/study/NCT07477639",
-      "published_at": "2026-09-21T00:00:00+00:00",
-      "summary": "The goal of this clinical trial is to treat male and female participants with two types of Multiple Sclerosis (MS) called primary progressive or secondary progressive MS.\n\nThe main questions the trial aims to answer are the following:\n\n* Is TRX319 safe when administered to patients with progressive forms of MS?\n* At what dose does TRX319 work the best to treat participants with primary and or secondary progressive MS?\n* Is pre-conditioning (with Bendamustine) needed to allow TRX319 to better treat participants with primary and/or secondary progressive MS?\n\nParticipants will be asked to be on study for up 1 year and may receive up to 3 total administrations of TRX319. While on study, participants will have blood tests and other assessments (MRI scans and lumbar punctures) done to understand the safety of TRX319 and how it may benefit their multiple sclerosis.",
-      "kind": "clinical_trial",
-      "external_id": "NCT07477639",
-      "score": 100,
-      "topics": [
-        "clinical_trial",
         "treatment",
         "regulatory",
         "research"

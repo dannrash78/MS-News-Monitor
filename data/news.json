@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T11:48:34.304417+00:00",
+  "updated_at": "2026-11-09T13:43:41.873487+00:00",
   "articles": [
     {
       "id": "6a4e64b11a3d0fd8",
@@ -299,6 +299,24 @@
       "status": "new"
     },
     {
+      "id": "a9e314e181912b99",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "A Pharmacokinetics (PK), Pharmacodynamics (PD), Safety and Tolerability Study of Fenebrutinib in Children and Adolescents With Relapsing Multiple Sclerosis (RMS)",
+      "url": "https://clinicaltrials.gov/study/NCT07161258",
+      "published_at": "2026-11-09T00:00:00+00:00",
+      "summary": "This open label, single arm study will evaluate the PK and PD effects of fenebrutinib in children and adolescents with RMS aged between 10 and \\< 18 years.\n\nThis study consists of a Dose Exploration Period and an Optional Extension Period. Eligible participants may choose to continue treatment with fenebrutinib in the optional extension period after completing the dose exploration period.",
+      "kind": "clinical_trial",
+      "external_id": "NCT07161258",
+      "score": 100,
+      "topics": [
+        "treatment",
+        "regulatory",
+        "research"
+      ],
+      "status": "new"
+    },
+    {
       "id": "febd6a8bcbeb5df7",
       "source_id": "clinicaltrials-ms",
       "source": "ClinicalTrials.gov – Multiple Sclerosis",
@@ -313,6 +331,25 @@
         "clinical_trial",
         "treatment",
         "research"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "3d8cac9e604b93ef",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "Dalfampridine Combined With Physical Therapy for Mobility Impairment in Multiple Sclerosis",
+      "url": "https://clinicaltrials.gov/study/NCT06136728",
+      "published_at": "2026-11-06T00:00:00+00:00",
+      "summary": "The goal of this clinical trial is to evaluate if combining a medication that can help improve walking in people with multiple sclerosis (MS) with a physical therapy program is better for improving walking than either treatment alone. The main questions this study will answer are:\n\n* Does combining dalfampridine with physical therapy improve mobility more than physical therapy without concurrent dalfampridine?\n* Is the combined treatment associated with better outcomes than the medication (dalfampridine) on its own?\n* How do the individual treatments (dalfampridine, physical therapy) alone compare to each other?\n\nParticipants with MS-related mobility deficits will:\n\n* Receive 6 weeks of dalfampridine treatment to assess the effects of this treatment.\n* After stopping the medication for 2 weeks, the investigators will re-evaluate walking, then randomly assign individuals to a 6-week physical therapy program.\n* Half of the participants will receive physical therapy while resuming dalfampridine treatment. The other half of the participants will receive physical therapy without resuming the medication.\n\nResearchers will compare the combination treatment group (medication plus physical therapy) to the physical therapy only group to see if the combined treatment improves walking-related function. Approximately 3 months after finishing the physical therapy program, participants will undergo a final evaluation to see if the treatment effects have been maintained.",
+      "kind": "clinical_trial",
+      "external_id": "NCT06136728",
+      "score": 100,
+      "topics": [
+        "clinical_trial",
+        "treatment",
+        "research",
+        "rehabilitation"
       ],
       "status": "new"
     },
@@ -791,6 +828,25 @@
       "status": "new"
     },
     {
+      "id": "067b4c8c0db1788a",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "Virtual Reality - Gamma Sensory Stimulation for Improving Fatigue in People With Multiple Sclerosis",
+      "url": "https://clinicaltrials.gov/study/NCT07310862",
+      "published_at": "2026-10-22T00:00:00+00:00",
+      "summary": "This is a double-blind, parallel, randomized, sham-controlled pilot study evaluating the safety, feasibility, and efficacy of Gamma Sensory Stimulation (GSS) delivered via a Virtual Reality (VR) headset in individuals with Multiple Sclerosis (MS) who experience moderate to severe fatigue. Participants will be randomized (1:1) to 4 weeks of active GSS or sham stimulation, followed by a 4-week post-treatment follow-up. The primary objective is to determine whether GSS reduces fatigue, measured by the Modified Fatigue Impact Scale (MFIS). Secondary outcomes include additional fatigue scales, cognitive performance, quality-of-life measures, tolerability and safety.",
+      "kind": "clinical_trial",
+      "external_id": "NCT07310862",
+      "score": 100,
+      "topics": [
+        "clinical_trial",
+        "treatment",
+        "research",
+        "symptoms"
+      ],
+      "status": "new"
+    },
+    {
       "id": "f0dd908a5000cf20",
       "source_id": "clinicaltrials-ms",
       "source": "ClinicalTrials.gov – Multiple Sclerosis",
@@ -1082,24 +1138,6 @@
       "score": 100,
       "topics": [
         "clinical_trial",
-        "treatment",
-        "regulatory",
-        "research"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "a9e314e181912b99",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "A Pharmacokinetics (PK), Pharmacodynamics (PD), Safety and Tolerability Study of Fenebrutinib in Children and Adolescents With Relapsing Multiple Sclerosis (RMS)",
-      "url": "https://clinicaltrials.gov/study/NCT07161258",
-      "published_at": "2026-10-13T00:00:00+00:00",
-      "summary": "This open label, single arm study will evaluate the PK and PD effects of fenebrutinib in children and adolescents with RMS aged between 10 and \\< 18 years.\n\nThis study consists of a Dose Exploration Period and an Optional Extension Period. Eligible participants may choose to continue treatment with fenebrutinib in the optional extension period after completing the dose exploration period.",
-      "kind": "clinical_trial",
-      "external_id": "NCT07161258",
-      "score": 100,
-      "topics": [
         "treatment",
         "regulatory",
         "research"
@@ -1833,43 +1871,6 @@
         "research",
         "diagnosis",
         "symptoms"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "cadbd0f30656b8c9",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "Fatigue Alleviation Through Neuromodulating Therapy in Multiple Sclerosis",
-      "url": "https://clinicaltrials.gov/study/NCT06569550",
-      "published_at": "2026-09-22T00:00:00+00:00",
-      "summary": "The goal of this clinical trial is to learn if repetitive Transcranial Magnetic Stimulation (rTMS) of the left premotor cortex can lessen fatigue in patients with Multiple Sclerosis, and if this is a feasible intervention. It will also give further information on fatigue in Multiple Sclerosis. The main questions it aims to answer is:\n\n* Does premotor rTMS decrease fatigue symptoms in patients with Multiple Sclerosis?\n* Is the change in fatigue reflected in an altered balance between brain excitation and inhibition in the targeted premotor cortex?\n\nResearchers will compare real rTMS with sham rTMS (which does not stimulate with a magnetic field), to see if real rTMS works to alleviate fatigue.\n\nParticipants will:\n\n* Receive real or sham rTMS for 30 minutes, 5 days in a row\n* Visit the clinic before and 6 days after for baseline and follow-up\n* Fill out on-line questionnaires 1 day and 4 weeks after the end of intervention\n* Undergo a total of 3 brain scans (Magnetic Resonance Imaging at ultra-high field), at baseline, end of intervention, and follow-up\n* Undergo lab neurophysiological measurements before and after the first intervention session\n* Keep a fatigue diary and wear an activity tracker in the period before and after the intervention",
-      "kind": "clinical_trial",
-      "external_id": "NCT06569550",
-      "score": 100,
-      "topics": [
-        "clinical_trial",
-        "treatment",
-        "research",
-        "symptoms"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "cbd19f8df60ec3f0",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "Clinnova-MS: A Prospective Cohort Study of Patients With Multiple Sclerosis: A Trans-regional Digital Health Effort Unlocking the Potential of Artificial Intelligence and Data Science in Health Care",
-      "url": "https://clinicaltrials.gov/study/NCT07280871",
-      "published_at": "2026-09-22T00:00:00+00:00",
-      "summary": "The Clinnova-Multiple Sclerosis (MS) study is part of the Clinnova program (NCT06526364; NCT06235684 and NCT05733702), which seeks to advance precision medicine and the digitalization of healthcare through high-quality, interoperable health data.\n\nThis program focuses on people with multiple sclerosis (MS) and aims to identify objective surrogate markers derived from clinical, epidemiological, imaging, and omics data that can predict disease activity, such as progression or relapses.\n\nBy combining data science and artificial intelligence, the project seeks to improve patient stratification, support personalized therapeutic decisions, and provide insights into the mechanisms underlying treatment response and disease progression.\n\nAlthough many therapies are available for MS, it remains challenging to determine the most appropriate strategy for each patient and to prevent long-term disability. Current treatments mainly target relapses and inflammation, with limited effects on chronic progression. Clinnova-MS will collect and analyze real-world and research data to better understand variability in disease activity and treatment outcomes, enabling more precise, evidence-based care within the standard of care. This study represents the first step toward the broader Clinnova objective: developing sustainable, personalized, and preventive healthcare for people living with MS.",
-      "kind": "clinical_trial",
-      "external_id": "NCT07280871",
-      "score": 100,
-      "topics": [
-        "treatment",
-        "regulatory",
-        "research"
       ],
       "status": "new"
     }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T13:43:41.873487+00:00",
+  "updated_at": "2026-11-10T13:23:40.339459+00:00",
   "articles": [
     {
       "id": "6a4e64b11a3d0fd8",
@@ -201,7 +201,7 @@
       "title": "Potential myelin-repair treatment for MS enters human testing",
       "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/11/05/potential-myelin-sheath-repair-treatment-ms-enters-clinical-trial/",
       "published_at": "Thu, 05 Nov 2026 13:00:10 +0000",
-      "summary": "<a href=\"https://multiplesclerosisnewstoday.com/news-posts/2026/11/05/potential-myelin-sheath-repair-treatment-ms-enters-clinical-trial/\" title=\"Potential myelin-repair treatment for MS enters human testing\" rel=\"nofollow\"><img width=\"800\" height=\"450\" src=\"https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/11/iStock-2164339297-800x450.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"3D illustration of a branching nerve cell with reddish-brown segments of myelin covering part of a long nerve fiber.\" style=\"display: block; margin: auto; margin-bottom: 15px;max-width: 100%;\" link_thumbnail=\"1\" decoding=\"async\" srcset=\"https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/11/iStock-2164339297-800x450.jpg 800w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/11/iStock-2164339297-380x214.jpg 380w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/11/iStock-2164339297-768x432.jpg 768w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/11/iStock-2164339297-1536x864.jpg 1536w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/11/iStock-2164339297-1200x675-cropped.jpg 1200w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/11/iStock-2164339297.jpg 1800w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-wp-pid=\"167067\" /></a><p>The first participant has been dosed in a Phase 1/2a clinical trial testing PRO-1562, an experimental oral treatment designed to repair myelin, the protective sheath around nerve fibers that is damaged in people with multiple sclerosis (MS). Developed by Progentos Therapeutics, PRO-1562 aims to help existing immature cells develop into myelin-producing cells, potentially restoring nerve [&#8230;]</p> <p>The post <a href=\"https://multiplesclerosisnewstoday.com/news-posts/2026/11/05/potential-myelin-sheath-repair-treatment-ms-enters-clinical-trial/\">Potential myelin-repair treatment for MS enters human testing</a> appeared first on <a href=\"https://multiplesclerosisnewstoday.com\">Multiple Sclerosis News Today</a>.</p>",
+      "summary": "<a href=\"https://multiplesclerosisnewstoday.com/news-posts/2026/11/05/potential-myelin-sheath-repair-treatment-ms-enters-clinical-trial/\" title=\"Potential myelin-repair treatment for MS enters human testing\" rel=\"nofollow\"><img width=\"800\" height=\"450\" src=\"https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/11/iStock-2164339297-800x450.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"3D illustration of a branching nerve cell with reddish-brown segments of myelin covering part of a long nerve fiber.\" style=\"display: block; margin: auto; margin-bottom: 15px;max-width: 100%;\" link_thumbnail=\"1\" decoding=\"async\" loading=\"lazy\" srcset=\"https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/11/iStock-2164339297-800x450.jpg 800w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/11/iStock-2164339297-380x214.jpg 380w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/11/iStock-2164339297-768x432.jpg 768w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/11/iStock-2164339297-1536x864.jpg 1536w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/11/iStock-2164339297-1200x675-cropped.jpg 1200w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/11/iStock-2164339297.jpg 1800w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-wp-pid=\"167067\" /></a><p>The first participant has been dosed in a Phase 1/2a clinical trial testing PRO-1562, an experimental oral treatment designed to repair myelin, the protective sheath around nerve fibers that is damaged in people with multiple sclerosis (MS). Developed by Progentos Therapeutics, PRO-1562 aims to help existing immature cells develop into myelin-producing cells, potentially restoring nerve [&#8230;]</p> <p>The post <a href=\"https://multiplesclerosisnewstoday.com/news-posts/2026/11/05/potential-myelin-sheath-repair-treatment-ms-enters-clinical-trial/\">Potential myelin-repair treatment for MS enters human testing</a> appeared first on <a href=\"https://multiplesclerosisnewstoday.com\">Multiple Sclerosis News Today</a>.</p>",
       "kind": "news",
       "score": 100,
       "topics": [
@@ -299,6 +299,64 @@
       "status": "new"
     },
     {
+      "id": "8143ccdff063e595",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "A Study of Orelabrutinib in Patients With Primary Progressive Multiple Sclerosis",
+      "url": "https://clinicaltrials.gov/study/NCT07067463",
+      "published_at": "2026-11-10T00:00:00+00:00",
+      "summary": "Orelabrutinib is a CNS-penetrable BTK inhibitor. This is a phase 3, randomized, double-blind, parallel-group, multicenter study to evaluate the efficacy and safety of orelabrutinib compared with placebo in patients with PPMS. Patients will be treated for approximately 30 to 60 months, with a minimum treatment duration of 12 months. The study will enroll approximately 705 subjects in a 2:1 randomization (orelabrutinib: placebo), globally.",
+      "kind": "clinical_trial",
+      "external_id": "NCT07067463",
+      "score": 100,
+      "topics": [
+        "clinical_trial",
+        "treatment",
+        "research"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "b997129885d15461",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "Fighting Fatigue in Multiple Sclerosis: TMS vs. tDCS Efficacy.",
+      "url": "https://clinicaltrials.gov/study/NCT07842302",
+      "published_at": "2026-11-10T00:00:00+00:00",
+      "summary": "Multiple Sclerosis (MS) is a chronic neurological disease impacting 2.8 million individuals globally, with fatigue being its most debilitating symptom, reported by 75% of patients. Despite its prevalence, the pathophysiology of MS-related fatigue remains poorly understood, and current pharmacological treatments have limited effectiveness. This research addresses this critical gap by investigating two non-invasive brain stimulation (NIBS) techniquestranscranial magnetic stimulation (TMS) and transcranial direct current stimulation (tDCS)as innovative, effective and scalable therapeutic approaches for MS fatigue.\n\nThe study employs a parallel, randomized, triple-blind, multicentric, sham-controlled design to assess and compare the short- and long-term efficacy of TMS and tDCS in addressing MS-related fatigue. 80 participants will be recruited from multiple centers in Spain and randomly assigned to one of four experimental groups: TMS, tDCS, Sham-TMS, Sham-tDCS. Each intervention will consist of 20 sessions, conducted daily from Monday to Friday, over 4 weeks. The left dorsolateral prefrontal cortex (DLPFC, F3 following the 10/20 system for EEG) was selected as the stimulation site based on its involvement in MS-related self-reported fatigue and in cognitive fatigability. For TMS experimental groups, intermittent theta-burst protocol (iTBS) will be used to increase the cortical excitability of the stimulated area. iTBS delivers a total of 600 pulses, organised into 50 Hz triplets repeated at 5 Hz, with 2second blocks of pulses, interleaved with 8 seconds of rest, repeated 20 times (total duration: 190s). The intensity of stimulation will be individually tailored based on the active motor threshold (aMT), setting it at 80% of the aMT. The sham stimulation will follow the same protocol, but using a sham coil (placebo). For tDCS experimental groups anodal tDCS will be applied (increasing cortical excitability) with the anode over the left DLPFC (F3), and the cathode over the contralateral supraorbital area. The intensity will be 2mA, and the duration of the stimulation will be 20min per session. For tDCS placebo condition, the sham option available on the device will be selected.\n\nPrimary outcomes include changes in fatigue levels measured through MS validated self-report scales (Modified Fatigue Impact Scale-MFIS; Fatigue Scale for Motor and Cognitive Functions-FSMC); secondary outcomes include depression (Beck Depression Inventory-II, BDI-II), quality of life (Multiple Sclerosis Quality of Life, MSQOL-54), functional independence (Functional Independence Measure, FIM), and cognitive fatigability (Symbol Digit Modalities Test, SDMT). All the outcomes will be assessed at baseline, at the end of the intervention, and six months after the end of the treatment (6 months follow-up).\n\nThis project promotes personalized precision medicine and innovative new treatment methods. This research is expected to expand scientific knowledge on NIBS efficacy in MS, establish evidence-based clinical practices, and set the foundation for cost-effective, patient-centered therapies. The study also addresses gender-specific responses to treatment, ensuring inclusive therapeutic strategies. Furthermore, it has the potential to benefit other neurological conditions characterized by fatigue, such as stroke, chronic fatigue syndrome or Parkinsons disease, showing significant social, clinical, and economic impact.",
+      "kind": "clinical_trial",
+      "external_id": "NCT07842302",
+      "score": 100,
+      "topics": [
+        "clinical_trial",
+        "treatment",
+        "regulatory",
+        "research",
+        "symptoms",
+        "quality_of_life"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "30b8d491306ec0cf",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "THE EFFECTS OF TAI CHI IN INDIVIDUALS WITH MULTIPLE SCLEROSIS",
+      "url": "https://clinicaltrials.gov/study/NCT07928557",
+      "published_at": "2026-11-10T00:00:00+00:00",
+      "summary": "This study aimed to evaluate the effects of Tai Chi exercise on cognitive functions, fatigue, and depressive symptoms in individuals with Multiple Sclerosis (MS). MS is a chronic neurological disease characterized by demyelination within the central nervous system and is frequently associated with cognitive, physical, and psychological impairments.\n\nIndividuals diagnosed with MS were assigned to either an 8-week Tai Chi exercise program or a home-based Frenkel exercise program. Cognitive functions were assessed using the Brief International Cognitive Assessment for Multiple Sclerosis (BICAMS), which comprises the Symbol Digit Modalities Test (SDMT), California Verbal Learning Test-II (CVLT-II), and Brief Visuospatial Memory Test-Revised (BVMT-R). Fatigue was evaluated using the Fatigue Impact Scale (FIS), while depressive symptoms were assessed using the Beck Depression Inventory (BDI).\n\nThe study aimed to investigate the effects of Tai Chi exercise compared with a home-based exercise program on cognitive performance, fatigue, and depressive symptoms in individuals with MS. The findings may contribute to the evidence base for non-pharmacological rehabilitation approaches in MS management.",
+      "kind": "clinical_trial",
+      "external_id": "NCT07928557",
+      "score": 100,
+      "topics": [
+        "treatment",
+        "research",
+        "rehabilitation",
+        "symptoms"
+      ],
+      "status": "new"
+    },
+    {
       "id": "a9e314e181912b99",
       "source_id": "clinicaltrials-ms",
       "source": "ClinicalTrials.gov – Multiple Sclerosis",
@@ -311,6 +369,24 @@
       "score": 100,
       "topics": [
         "treatment",
+        "regulatory",
+        "research"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "e7b16b4d206b7955",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "Efficacy and Safety Study of Frexalimab (SAR441344) in Adults With Nonrelapsing Secondary Progressive Multiple Sclerosis",
+      "url": "https://clinicaltrials.gov/study/NCT06141486",
+      "published_at": "2026-11-09T00:00:00+00:00",
+      "summary": "The purpose of this randomized, double-blind, placebo-controlled, parallel group study is to determine the efficacy of frexalimab in delaying the disability progression and the safety up to 36 months double-blind administration of study intervention compared to placebo in male and female participants with nrSPMS (aged 18 to 60 years at the time of enrollment). People diagnosed with nrSPMS are eligible for enrollment as long as they meet all the inclusion criteria and none of the exclusion criteria. Study details include:\n\n* This event-driven study will end when the target number of 6-month cCDP events is achieved, and the study is expected to last 43 months from randomization of the first participant to the common study end.\n* The number of scheduled visits will be up to 25 (including 3 follow-up visits) with a visit frequency of every month for the first 6 months and then every 3 months.\n* If the prespecified number of events for 6-month cCDP is not reached by V21/W180, scheduled visits will continue every 3 months.",
+      "kind": "clinical_trial",
+      "external_id": "NCT06141486",
+      "score": 100,
+      "topics": [
+        "clinical_trial",
         "regulatory",
         "research"
       ],
@@ -354,6 +430,25 @@
       "status": "new"
     },
     {
+      "id": "0d3dd55d2c821028",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "Effects of EXOPULSE Mollii Suit on Spasticity and Functionality in Multiple Sclerosis Patients",
+      "url": "https://clinicaltrials.gov/study/NCT07126730",
+      "published_at": "2026-11-06T00:00:00+00:00",
+      "summary": "Spasticity affects \\>80% of MS patients, with 35-54% experiencing moderate-to-severe symptoms, impairing mobility and sleep. Electrical stimulation parameters (e.g., high vs. low frequency) for spasticity management remain debated. The EXOPULSE Mollii Suit uses non-invasive, low-frequency stimulation to induce reciprocal inhibition and modulate spinal interneuron activity, potentially reducing spasticity. This study aims to compare EXOPULSE Mollii + exercise vs. EXOPULSE Mollii alone in improving spasticity and function in MS.",
+      "kind": "clinical_trial",
+      "external_id": "NCT07126730",
+      "score": 100,
+      "topics": [
+        "regulatory",
+        "research",
+        "rehabilitation",
+        "symptoms"
+      ],
+      "status": "new"
+    },
+    {
       "id": "f08822637b778c78",
       "source_id": "clinicaltrials-ms",
       "source": "ClinicalTrials.gov – Multiple Sclerosis",
@@ -386,6 +481,24 @@
         "clinical_trial",
         "treatment",
         "research"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "134283b46ff29dea",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "Efficacy of Split Gait in the Treatment of Dynamic Asymmetries in Subjects With Pathologic Claudication",
+      "url": "https://clinicaltrials.gov/study/NCT04635436",
+      "published_at": "2026-11-04T00:00:00+00:00",
+      "summary": "Walking on a split-belt treadmill (each of the two belts running at a different speed) imposes an asymmetrical gait, mimicking limping that has been observed in various pathologic conditions. This walking modality has been proposed as an experimental paradigm to investigate the flexibility of the neural control of gait and as a form of therapeutic exercise for hemi-paretic patients. However, the scarcity of dynamic investigations both for segmental aspects and for the entire body system, represented by the centre of mass, challenges the validity of the available findings on split gait.\n\nCompared with overground gait in hemiplegia, split gait entails an opposite spatial and dynamic asymmetry. The faster leg mimics the paretic limb temporally, but the unimpaired limb from the spatial and dynamic point of view. These differences suggest that a partial shift in perspective may help to clarify the potential of the split gait as a rehabilitation tool.\n\nThe aim of the present study is to investigate the dynamic asymmetries of lower limbs in adults with unilateral motor impairments (e.g. hemiplegia post-stroke, Parkinson's disease, multiple sclerosis, unilateral amputation, surgical orthopedic interventions) during adaptation to gait on a split-belt treadmill. The sagittal power provided by the ankle and the total mechanical energy of the centre of mass will be thoroughly studied. The time course of phenomena both during gait when the belts are running at different speed and when the belts are set back to the same speed (i.e. the after-effect) will be investigated.\n\nA greater dynamic symmetry between the lower limbs is expected after split gait. The question whether this symmetry will occur when the pathological limb is on the faster or the lower belt will be disclosed. Some alterations of the motion of the centre of mass during split gait are also expected.",
+      "kind": "clinical_trial",
+      "external_id": "NCT04635436",
+      "score": 100,
+      "topics": [
+        "treatment",
+        "research",
+        "rehabilitation"
       ],
       "status": "new"
     },
@@ -458,24 +571,6 @@
       "summary": "The purpose of the study is to test whether low-level electric stimulation, called High Definition transcranial Direct Current Stimulation (HDtDCS), on the part of the brain (i.e., left inferior frontal gyrus) thought to aid in memory will improve verbal retrieval in multiple sclerosis patients. The primary outcome measures are neuropsychological assessments of verbal retrieval, and the secondary measures are neuropsychological assessments of other cognitive abilities and electroencephalography (EEG) measures.",
       "kind": "clinical_trial",
       "external_id": "NCT07914257",
-      "score": 100,
-      "topics": [
-        "clinical_trial",
-        "treatment",
-        "research"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "8143ccdff063e595",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "A Study of Orelabrutinib in Patients With Primary Progressive Multiple Sclerosis",
-      "url": "https://clinicaltrials.gov/study/NCT07067463",
-      "published_at": "2026-11-03T00:00:00+00:00",
-      "summary": "Orelabrutinib is a CNS-penetrable BTK inhibitor. This is a phase 3, randomized, double-blind, parallel-group, multicenter study to evaluate the efficacy and safety of orelabrutinib compared with placebo in patients with PPMS. Patients will be treated for approximately 30 to 60 months, with a minimum treatment duration of 12 months. The study will enroll approximately 705 subjects in a 2:1 randomization (orelabrutinib: placebo), globally.",
-      "kind": "clinical_trial",
-      "external_id": "NCT07067463",
       "score": 100,
       "topics": [
         "clinical_trial",
@@ -1773,104 +1868,6 @@
         "treatment",
         "regulatory",
         "research"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "b997129885d15461",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "Fighting Fatigue in Multiple Sclerosis: TMS vs. tDCS Efficacy.",
-      "url": "https://clinicaltrials.gov/study/NCT07842302",
-      "published_at": "2026-09-25T00:00:00+00:00",
-      "summary": "Multiple Sclerosis (MS) is a chronic neurological disease impacting 2.8 million individuals globally, with fatigue being its most debilitating symptom, reported by 75% of patients. Despite its prevalence, the pathophysiology of MS-related fatigue remains poorly understood, and current pharmacological treatments have limited effectiveness. This research addresses this critical gap by investigating two non-invasive brain stimulation (NIBS) techniquestranscranial magnetic stimulation (TMS) and transcranial direct current stimulation (tDCS)as innovative, effective and scalable therapeutic approaches for MS fatigue.\n\nThe study employs a parallel, randomized, triple-blind, multicentric, sham-controlled design to assess and compare the short- and long-term efficacy of TMS and tDCS in addressing MS-related fatigue. 80 participants will be recruited from multiple centers in Spain and randomly assigned to one of four experimental groups: TMS, tDCS, Sham-TMS, Sham-tDCS. Each intervention will consist of 20 sessions, conducted daily from Monday to Friday, over 4 weeks. The left dorsolateral prefrontal cortex (DLPFC, F3 following the 10/20 system for EEG) was selected as the stimulation site based on its involvement in MS-related self-reported fatigue and in cognitive fatigability. For TMS experimental groups, intermittent theta-burst protocol (iTBS) will be used to increase the cortical excitability of the stimulated area. iTBS delivers a total of 600 pulses, organised into 50 Hz triplets repeated at 5 Hz, with 2second blocks of pulses, interleaved with 8 seconds of rest, repeated 20 times (total duration: 190s). The intensity of stimulation will be individually tailored based on the active motor threshold (aMT), setting it at 80% of the aMT. The sham stimulation will follow the same protocol, but using a sham coil (placebo). For tDCS experimental groups anodal tDCS will be applied (increasing cortical excitability) with the anode over the left DLPFC (F3), and the cathode over the contralateral supraorbital area. The intensity will be 2mA, and the duration of the stimulation will be 20min per session. For tDCS placebo condition, the sham option available on the device will be selected.\n\nPrimary outcomes include changes in fatigue levels measured through MS validated self-report scales (Modified Fatigue Impact Scale-MFIS; Fatigue Scale for Motor and Cognitive Functions-FSMC); secondary outcomes include depression (Beck Depression Inventory-II, BDI-II), quality of life (Multiple Sclerosis Quality of Life, MSQOL-54), functional independence (Functional Independence Measure, FIM), and cognitive fatigability (Symbol Digit Modalities Test, SDMT). All the outcomes will be assessed at baseline, at the end of the intervention, and six months after the end of the treatment (6 months follow-up).\n\nThis project promotes personalized precision medicine and innovative new treatment methods. This research is expected to expand scientific knowledge on NIBS efficacy in MS, establish evidence-based clinical practices, and set the foundation for cost-effective, patient-centered therapies. The study also addresses gender-specific responses to treatment, ensuring inclusive therapeutic strategies. Furthermore, it has the potential to benefit other neurological conditions characterized by fatigue, such as stroke, chronic fatigue syndrome or Parkinsons disease, showing significant social, clinical, and economic impact.",
-      "kind": "clinical_trial",
-      "external_id": "NCT07842302",
-      "score": 100,
-      "topics": [
-        "clinical_trial",
-        "treatment",
-        "regulatory",
-        "research",
-        "symptoms",
-        "quality_of_life"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "9599ee56d1840173",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "Traditional Versus Early Aggressive Therapy for Multiple Sclerosis Trial",
-      "url": "https://clinicaltrials.gov/study/NCT03500328",
-      "published_at": "2026-09-23T00:00:00+00:00",
-      "summary": "FDA-approved multiple sclerosis (MS) disease-modifying therapies (DMTs) target the relapsing phase of MS but have minimal impact once the progressive phase has begun. It is unclear if, in the relapsing phase, there is an advantage of early aggressive therapy with respect to preventing long-term disability. The infectious risks and other complications associated with higher-efficacy treatments highlight the need to quantify their effectiveness in preventing disability.\n\nThe TRaditional versus Early Aggressive Therapy for MS (TREAT-MS) trial is a pragmatic, randomized controlled trial that has two primary aims: 1) to evaluate, jointly and independently among patients deemed at higher risk vs. lower risk for disability accumulation, whether an \"early aggressive\" therapy approach, versus starting with a traditional, first-line therapy, influences the intermediate-term risk of disability, and 2) to evaluate if, among patients deemed at lower risk for disability who start on first-line MS therapies but experience breakthrough disease, those who switch to a higher-efficacy versus a new first-line therapy have different intermediate-term risk of disability.",
-      "kind": "clinical_trial",
-      "external_id": "NCT03500328",
-      "score": 100,
-      "topics": [
-        "clinical_trial",
-        "treatment",
-        "regulatory",
-        "research"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "ece8a098aa37e3fb",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "Aerobic Exercise for Remyelination in Multiple Sclerosis",
-      "url": "https://clinicaltrials.gov/study/NCT04539002",
-      "published_at": "2026-09-23T00:00:00+00:00",
-      "summary": "This is a clinical trial to determine the feasibility of a stationary aerobic cycling intervention and explore if aerobic exercise independently promotes remyelination in people with multiple sclerosis (MS).",
-      "kind": "clinical_trial",
-      "external_id": "NCT04539002",
-      "score": 100,
-      "topics": [
-        "clinical_trial",
-        "research",
-        "rehabilitation"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "7721f5a922b15045",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "The Effects of High-Intensity Interval Training on Gait, Balance, and Cognitive Functions in Individuals With Multiple Sclerosis",
-      "url": "https://clinicaltrials.gov/study/NCT07578740",
-      "published_at": "2026-09-23T00:00:00+00:00",
-      "summary": "This study aims to comparatively investigate the effects of low-volume High-Intensity Interval Training (HIIT) versus Moderate-Intensity Continuous Training (MICT) on gait, balance, cognitive functions, and neurovascular biomarkers (BDNF, VEGF) in individuals with Multiple Sclerosis (MS). This randomized controlled trial will be conducted at Hacettepe University, Faculty of Physical Therapy and Rehabilitation.",
-      "kind": "clinical_trial",
-      "external_id": "NCT07578740",
-      "score": 100,
-      "topics": [
-        "clinical_trial",
-        "treatment",
-        "research",
-        "diagnosis",
-        "rehabilitation"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "04d1dc15005331b3",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "Use of a Portable Pupillometer to Detect Optic Nerve Impairment in Patients With Suspected Multiple Sclerosis",
-      "url": "https://clinicaltrials.gov/study/NCT07837050",
-      "published_at": "2026-09-23T00:00:00+00:00",
-      "summary": "In the diagnosis work-up of inflammatory disorders of the central nervous system (CNS), the assessment of optic nerve impairments, even in the absence of clinical symptoms, is now systematic, as it may shorten the time to diagnosis and facilitate early treatment initiation.\n\nCurrently, optic nerve impairments can be assessed using three paraclinical examinations, namely magnetic resonance imaging (MRI), visual evoked potentials (VEP) or optic coherence tomography (OCT). However, these investigations are complex and resource-intensive. The development of a simple, reliable and easily accessible clinical tool could therefore facilitate the detection of optic nerve impairments.\n\nUnilateral or asymmetric optic nerve impairments, which are commonly observed in patients with inflammatory disorders of the CNS, translate into a reduction in efficiency of the pupillary light reflex, that can be detected by pupillometry. This technique consists in measuring pupil diameter and its variations and could represent a simple and convenient alternative to conventional investigations.\n\nThe aim of this study is therefore to compare the results obtained using a portable pupillometer in patients suspected of having an inflammatory disorder of the CNS, with and without optic nerve impairment as detected by conventional methods (MRI, VEP and OCT).",
-      "kind": "clinical_trial",
-      "external_id": "NCT07837050",
-      "score": 100,
-      "topics": [
-        "treatment",
-        "regulatory",
-        "research",
-        "diagnosis",
-        "symptoms"
       ],
       "status": "new"
     }

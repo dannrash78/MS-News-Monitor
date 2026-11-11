@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T13:23:40.339459+00:00",
+  "updated_at": "2026-11-11T12:33:21.257135+00:00",
   "articles": [
     {
       "id": "6a4e64b11a3d0fd8",
@@ -120,6 +120,24 @@
         "treatment",
         "regulatory",
         "research"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "28d9c750b4535783",
+      "source_id": "ms-news-today",
+      "source": "Multiple Sclerosis News Today",
+      "title": "Low-fat diet may help reduce fatigue in MS, new trial analysis suggests",
+      "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/11/10/low-fat-diet-potentially-reduces-fatigue-ms-trial-analysis-suggests/",
+      "published_at": "Tue, 10 Nov 2026 17:45:30 +0000",
+      "summary": "<a href=\"https://multiplesclerosisnewstoday.com/news-posts/2026/11/10/low-fat-diet-potentially-reduces-fatigue-ms-trial-analysis-suggests/\" title=\"Low-fat diet may help reduce fatigue in MS, new trial analysis suggests\" rel=\"nofollow\"><img width=\"800\" height=\"533\" src=\"https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/10/iStock-2244995138-800x533.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"An overhead view shows a healthy meal bowl containing avocado, chickpeas, egg, veggies, and blueberries, alongside a fork and napkin.\" style=\"display: block; margin: auto; margin-bottom: 15px;max-width: 100%;\" link_thumbnail=\"1\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/10/iStock-2244995138-800x533.jpg 800w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/10/iStock-2244995138-380x253.jpg 380w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/10/iStock-2244995138-768x512.jpg 768w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/10/iStock-2244995138-1536x1024.jpg 1536w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/10/iStock-2244995138.jpg 1800w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-wp-pid=\"166911\" /></a><p>A low-fat diet may help reduce fatigue in multiple sclerosis (MS) by altering how the body processes lipids, or fats, and amino acids, which serve as the building blocks of proteins, a small study by U.S. researchers suggests. These scientists analyzed data from a small clinical trial involving adults with MS that evaluated the effects [&#8230;]</p> <p>The post <a href=\"https://multiplesclerosisnewstoday.com/news-posts/2026/11/10/low-fat-diet-potentially-reduces-fatigue-ms-trial-analysis-suggests/\">Low-fat diet may help reduce fatigue in MS, new trial analysis suggests</a> appeared first on <a href=\"https://multiplesclerosisnewstoday.com\">Multiple Sclerosis News Today</a>.</p>",
+      "kind": "news",
+      "score": 100,
+      "topics": [
+        "clinical_trial",
+        "research",
+        "symptoms",
+        "nutrition"
       ],
       "status": "new"
     },
@@ -1849,25 +1867,6 @@
         "clinical_trial",
         "research",
         "diagnosis"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "9cad846d4e1d6073",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "A Study to Investigate the Efficacy of Fenebrutinib in Relapsing Multiple Sclerosis (RMS)",
-      "url": "https://clinicaltrials.gov/study/NCT05119569",
-      "published_at": "2026-09-25T00:00:00+00:00",
-      "summary": "This is a study evaluating the effect of fenebrutinib on brain magnetic resonance imaging (MRI) in participants with RMS. The safety and pharmacokinetics of fenebrutinib will also be evaluated. Participants will be randomized to receive either fenebrutinib or placebo. This study consists of two parts: Double-blind treatment (DBT) phase and an optional Open-label extension (OLE) phase.",
-      "kind": "clinical_trial",
-      "external_id": "NCT05119569",
-      "score": 100,
-      "topics": [
-        "clinical_trial",
-        "treatment",
-        "regulatory",
-        "research"
       ],
       "status": "new"
     }

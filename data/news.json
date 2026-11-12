@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T12:33:21.257135+00:00",
+  "updated_at": "2026-11-12T13:38:08.479259+00:00",
   "articles": [
     {
       "id": "6a4e64b11a3d0fd8",
@@ -130,7 +130,7 @@
       "title": "Low-fat diet may help reduce fatigue in MS, new trial analysis suggests",
       "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/11/10/low-fat-diet-potentially-reduces-fatigue-ms-trial-analysis-suggests/",
       "published_at": "Tue, 10 Nov 2026 17:45:30 +0000",
-      "summary": "<a href=\"https://multiplesclerosisnewstoday.com/news-posts/2026/11/10/low-fat-diet-potentially-reduces-fatigue-ms-trial-analysis-suggests/\" title=\"Low-fat diet may help reduce fatigue in MS, new trial analysis suggests\" rel=\"nofollow\"><img width=\"800\" height=\"533\" src=\"https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/10/iStock-2244995138-800x533.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"An overhead view shows a healthy meal bowl containing avocado, chickpeas, egg, veggies, and blueberries, alongside a fork and napkin.\" style=\"display: block; margin: auto; margin-bottom: 15px;max-width: 100%;\" link_thumbnail=\"1\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/10/iStock-2244995138-800x533.jpg 800w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/10/iStock-2244995138-380x253.jpg 380w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/10/iStock-2244995138-768x512.jpg 768w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/10/iStock-2244995138-1536x1024.jpg 1536w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/10/iStock-2244995138.jpg 1800w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-wp-pid=\"166911\" /></a><p>A low-fat diet may help reduce fatigue in multiple sclerosis (MS) by altering how the body processes lipids, or fats, and amino acids, which serve as the building blocks of proteins, a small study by U.S. researchers suggests. These scientists analyzed data from a small clinical trial involving adults with MS that evaluated the effects [&#8230;]</p> <p>The post <a href=\"https://multiplesclerosisnewstoday.com/news-posts/2026/11/10/low-fat-diet-potentially-reduces-fatigue-ms-trial-analysis-suggests/\">Low-fat diet may help reduce fatigue in MS, new trial analysis suggests</a> appeared first on <a href=\"https://multiplesclerosisnewstoday.com\">Multiple Sclerosis News Today</a>.</p>",
+      "summary": "<a href=\"https://multiplesclerosisnewstoday.com/news-posts/2026/11/10/low-fat-diet-potentially-reduces-fatigue-ms-trial-analysis-suggests/\" title=\"Low-fat diet may help reduce fatigue in MS, new trial analysis suggests\" rel=\"nofollow\"><img width=\"800\" height=\"533\" src=\"https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/10/iStock-2244995138-800x533.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"An overhead view shows a healthy meal bowl containing avocado, chickpeas, egg, veggies, and blueberries, alongside a fork and napkin.\" style=\"display: block; margin: auto; margin-bottom: 15px;max-width: 100%;\" link_thumbnail=\"1\" decoding=\"async\" srcset=\"https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/10/iStock-2244995138-800x533.jpg 800w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/10/iStock-2244995138-380x253.jpg 380w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/10/iStock-2244995138-768x512.jpg 768w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/10/iStock-2244995138-1536x1024.jpg 1536w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/10/iStock-2244995138.jpg 1800w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-wp-pid=\"166911\" /></a><p>A low-fat diet may help reduce fatigue in multiple sclerosis (MS) by altering how the body processes lipids, or fats, and amino acids, which serve as the building blocks of proteins, a small study by U.S. researchers suggests. These scientists analyzed data from a small clinical trial involving adults with MS that evaluated the effects [&#8230;]</p> <p>The post <a href=\"https://multiplesclerosisnewstoday.com/news-posts/2026/11/10/low-fat-diet-potentially-reduces-fatigue-ms-trial-analysis-suggests/\">Low-fat diet may help reduce fatigue in MS, new trial analysis suggests</a> appeared first on <a href=\"https://multiplesclerosisnewstoday.com\">Multiple Sclerosis News Today</a>.</p>",
       "kind": "news",
       "score": 100,
       "topics": [
@@ -317,6 +317,24 @@
       "status": "new"
     },
     {
+      "id": "265dd5349d5050bc",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "A Study of Nasal Foralumab in Non-Active Secondary Progressive Multiple Sclerosis Patients",
+      "url": "https://clinicaltrials.gov/study/NCT06292923",
+      "published_at": "2026-11-12T00:00:00+00:00",
+      "summary": "Foralumab is a human anti-CD3 monoclonal antibody being developed for the treatment of autoimmune and inflammatory diseases.\n\nThe goal of this Phase 2a, randomized, double-blind placebo-controlled, multicenter dose-ranging study is to evaluate the use of nasal foralumab in patients with non-active secondary progressive multiple sclerosis (SPMS).\n\nThe primary objectives that this study aims to answer are:\n\n1. To determine the safety and tolerability of 50 μg/dose and 100 μg/dose of foralumab nasal compared to placebo\n2. To investigate the effect of foralumab relative to placebo on the change from baseline \\[18F\\]PBR06-positron emission tomography (PET) scans for microglial activation, after 12 weeks (3) months of study treatment.",
+      "kind": "clinical_trial",
+      "external_id": "NCT06292923",
+      "score": 100,
+      "topics": [
+        "clinical_trial",
+        "treatment",
+        "research"
+      ],
+      "status": "new"
+    },
+    {
       "id": "8143ccdff063e595",
       "source_id": "clinicaltrials-ms",
       "source": "ClinicalTrials.gov – Multiple Sclerosis",
@@ -370,6 +388,25 @@
         "treatment",
         "research",
         "rehabilitation",
+        "symptoms"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "40f6389b73d7d95a",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "RE104 Safety and Efficacy Study in Adjustment Disorder in Cancer and Other Medical Illnesses",
+      "url": "https://clinicaltrials.gov/study/NCT07002034",
+      "published_at": "2026-11-10T00:00:00+00:00",
+      "summary": "The purpose of this study is to determine if treatment with a single dose of RE104 for Injection reduces depressive symptoms or depressive symptoms mixed with anxiety symptoms in participants with Adjustment Disorder due to cancer or other illnesses such as Amyotrophic Lateral Sclerosis (ALS), Multiple Sclerosis (MS), Parkinson's Disease (PD) or Idiopathic Pulmonary Fibrosis (IPF) as compared to active-placebo.",
+      "kind": "clinical_trial",
+      "external_id": "NCT07002034",
+      "score": 100,
+      "topics": [
+        "clinical_trial",
+        "treatment",
+        "research",
         "symptoms"
       ],
       "status": "new"
@@ -594,6 +631,25 @@
         "clinical_trial",
         "treatment",
         "research"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "ff2efcbfad41128e",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "MS-DETECT: Early Detection of Multiple Sclerosis Progression With MSCopilot® Detect",
+      "url": "https://clinicaltrials.gov/study/NCT05816122",
+      "published_at": "2026-11-03T00:00:00+00:00",
+      "summary": "The study aims to evaluate MSCopilot® Detect, a smartphone application for at-home monitoring of patients with Multiple Sclerosis (MS).\n\nThe primary objective is to enhance and standardize remote monitoring of MS patients to accurately assess disease progression caused by either Relapse Activity Worsening (RAW) or Progression Independent of Relapses (PIRA). The study also aims to assess the safety, usability, and satisfaction of the solution.\n\nA secondary objective is to determine MSCopilot® Detect's ability to provide early detection of disease changes and predict changes in Expanded Disability Status Scale (EDSS) scores in more patients.\n\nExploratory objectives include evaluating the relationship between MSCopilot® Detect composite and individual scores and other biomarkers such as MRI, soluble glial fibrillary acidic protein (sGFAP), and soluble neurofilament light chain (sNfL).\n\nPatients will be able to download the free MSCopilot® Detect app. They will participate in 1 inclusion visit and 3 follow-up visits, scheduled at 6 months, 12 months, and 18 months (an additional visit at 24 months may be scheduled if necessary). Every 3 months, patients will complete validated questionnaires regarding MS symptoms and quality of life and participate in digital tests designed to monitor MS symptom progression.\n\nThe study will include 336 MS patients and will be conducted in the United States, Canada, Germany, Italy, Spain, Denmark and France",
+      "kind": "clinical_trial",
+      "external_id": "NCT05816122",
+      "score": 100,
+      "topics": [
+        "research",
+        "diagnosis",
+        "symptoms",
+        "quality_of_life"
       ],
       "status": "new"
     },
@@ -1808,65 +1864,6 @@
         "regulatory",
         "research",
         "nutrition"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "28997da8c529a723",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "A Study to Evaluate the Efficacy, Safety and Pharmacokinetics (PK) of a Higher Dose of Ocrelizumab in Adults With Relapsing Multiple Sclerosis (RMS)",
-      "url": "https://clinicaltrials.gov/study/NCT04544436",
-      "published_at": "2026-09-28T00:00:00+00:00",
-      "summary": "This is a randomized, double-blind, controlled, parallel group, multicenter study to evaluate efficacy, safety and PK of a higher dose of ocrelizumab per intravenous (IV) infusion every 24 weeks (Q24W) in participants with RMS, in comparison to the approved 600 milligrams (mg) dose of ocrelizumab.",
-      "kind": "clinical_trial",
-      "external_id": "NCT04544436",
-      "score": 100,
-      "topics": [
-        "clinical_trial",
-        "treatment",
-        "regulatory",
-        "research"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "77961c003505840f",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "Evaluation of an Online, On Demand Multimodal Wellness Program to Reduce Fatigue and Improve Quality of Life in Progressive Multiple Sclerosis.",
-      "url": "https://clinicaltrials.gov/study/NCT07831928",
-      "published_at": "2026-09-28T00:00:00+00:00",
-      "summary": "The goal of this clinical trial is to learn if an online wellness program can lower fatigue and improve mood and quality of life in people with progressive multiple sclerosis who are 45 to 70 years old and are experiencing significant fatigue disability.\n\nThe main questions it aims to answer are:\n\n* Does the online wellness program lower fatigue after 3 months and further lower fatigue after 6 months?\n* Does the online wellness program improve anxiety, depression, and quality of life after 3 months and lead to additional improvements after 6 months? Researchers will compare participants who receive immediate access to the online wellness program with participants who continue their usual care and receive access to the program after the study ends.\n\nParticipants will:\n\n* Complete online surveys at the start of the study, at 3 months, and at 6 months. Each survey session takes less than 1 hour.\n* Complete a 7-day run-in period before randomization to confirm their interest and ability to complete study activities.\n* Be assigned by chance to either the online wellness program group or the wait-list control group.\n\nParticipants in the online wellness program group will:\n\n* Receive access to the \"Creating Health\" online course through the University of Iowa Canvas platform.\n* Work through five self-paced education modules over 6 months. Topics include nutrition, stress management, and physical activity.\n* Have access to monthly group coaching calls by Zoom.\n* Have access to an online exercise platform.\n* Have access to email and text support from the study team.\n\nParticipants in the wait-list control group will:\n\n* Continue their usual diet, lifestyle, and medical care during the 6-month study period.\n* Complete the same study surveys as the intervention group.\n* Receive full access to the online wellness program, online exercise platform and support materials after completing their final 6-month surveys.\n\nAt the end of the study, all participants will complete final surveys about their symptoms, quality of life, and their experience with the program. Active study participation ends after the 6-month assessments are completed.",
-      "kind": "clinical_trial",
-      "external_id": "NCT07831928",
-      "score": 100,
-      "topics": [
-        "clinical_trial",
-        "regulatory",
-        "research",
-        "rehabilitation",
-        "symptoms",
-        "quality_of_life",
-        "nutrition"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "f9f3ff375c551236",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "Understanding the Impact of Meal Timing on Neurological Health in Adults With Multiple Sclerosis",
-      "url": "https://clinicaltrials.gov/study/NCT07475377",
-      "published_at": "2026-09-25T00:00:00+00:00",
-      "summary": "The goal of this clinical trial is to learn if the time an individual eats each day impacts neurological health in people with multiple sclerosis. The main questions the investigators are asking are:\n\n1. Does meal timing affect biomarkers of neuronal health (neurofilament light chain \\[NfL\\] and BDNF) and inflammation (IL-6, IL-17, TNF-ɑ) in adults with MS.\n2. Does meal timing affect expression of circadian clock genes and genes associated with autophagy in adults with MS.\n\nParticipants will be instructed to start and stop eating at specific times each day based on their group assignment and their personal schedule. They will respond to prompts sent to them on their smartphone to record the times they start and stop eating each day.\n\nAs a secondary goal, the study will also explore the feasibility of including translocator protein (TSPO)-PET imaging of neuroinflammation in future clinical trials of TRE in people with MS. To accomplish this, imaging will be completed in a subset of 8 participants at the beginning and end of the study.",
-      "kind": "clinical_trial",
-      "external_id": "NCT07475377",
-      "score": 100,
-      "topics": [
-        "clinical_trial",
-        "research",
-        "diagnosis"
       ],
       "status": "new"
     }

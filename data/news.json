@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T12:56:52.703630+00:00",
+  "updated_at": "2026-11-14T11:59:42.766560+00:00",
   "articles": [
     {
       "id": "6a4e64b11a3d0fd8",
@@ -353,6 +353,65 @@
       "status": "new"
     },
     {
+      "id": "5a904aa9b7064bfa",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "A Study of Orelabrutinib in Patients With Secondary Progressive Multiple Sclerosis",
+      "url": "https://clinicaltrials.gov/study/NCT07299019",
+      "published_at": "2026-11-12T00:00:00+00:00",
+      "summary": "Orelabrutinib is a CNS-penetrable BTK inhibitor. This is a phase 3, randomized, double-blind, parallel-group, multicenter study to evaluate the efficacy and safety of orelabrutinib compared with placebo in patients with non-active Secondary Progress MS. Patients will be treated for approximately 24 to 60 months, with a minimum treatment duration of 12 months. The study will enroll approximately 990 subjects in a 2:1 randomization (orelabrutinib: placebo), globally.",
+      "kind": "clinical_trial",
+      "external_id": "NCT07299019",
+      "score": 100,
+      "topics": [
+        "clinical_trial",
+        "treatment",
+        "research"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "77961c003505840f",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "Evaluation of an Online, On Demand Multimodal Wellness Program to Reduce Fatigue and Improve Quality of Life in Progressive Multiple Sclerosis.",
+      "url": "https://clinicaltrials.gov/study/NCT07831928",
+      "published_at": "2026-11-12T00:00:00+00:00",
+      "summary": "The goal of this clinical trial is to learn if an online wellness program can lower fatigue and improve mood and quality of life in people with progressive multiple sclerosis who are 45 to 70 years old and are experiencing significant fatigue disability.\n\nThe main questions it aims to answer are:\n\n* Does the online wellness program lower fatigue after 3 months and further lower fatigue after 6 months?\n* Does the online wellness program improve anxiety, depression, and quality of life after 3 months and lead to additional improvements after 6 months? Researchers will compare participants who receive immediate access to the online wellness program with participants who continue their usual care and receive access to the program after the study ends.\n\nParticipants will:\n\n* Complete online surveys at the start of the study, at 3 months, and at 6 months. Each survey session takes less than 1 hour.\n* Complete a 7-day run-in period before randomization to confirm their interest and ability to complete study activities.\n* Be assigned by chance to either the online wellness program group or the wait-list control group.\n\nParticipants in the online wellness program group will:\n\n* Receive access to the \"Creating Health\" online course through the University of Iowa Canvas platform.\n* Work through five self-paced education modules over 6 months. Topics include nutrition, stress management, and physical activity.\n* Have access to monthly group coaching calls by Zoom.\n* Have access to an online exercise platform.\n* Have access to email and text support from the study team.\n\nParticipants in the wait-list control group will:\n\n* Continue their usual diet, lifestyle, and medical care during the 6-month study period.\n* Complete the same study surveys as the intervention group.\n* Receive full access to the online wellness program, online exercise platform and support materials after completing their final 6-month surveys.\n\nAt the end of the study, all participants will complete final surveys about their symptoms, quality of life, and their experience with the program. Active study participation ends after the 6-month assessments are completed.",
+      "kind": "clinical_trial",
+      "external_id": "NCT07831928",
+      "score": 100,
+      "topics": [
+        "clinical_trial",
+        "regulatory",
+        "research",
+        "rehabilitation",
+        "symptoms",
+        "quality_of_life",
+        "nutrition"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "35a73e9905a997cc",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "ELIOS - Investigational Biomarkers to Track Disease Modification in Active RRMS",
+      "url": "https://clinicaltrials.gov/study/NCT06733922",
+      "published_at": "2026-11-12T00:00:00+00:00",
+      "summary": "The exploratory ELIOS study aims to assess the value of novel investigational Eye Movement Biomarkers (EMBs) in tracking disease-related changes among a real-world cohort of Canadian patients with active RRMS, within the context of disease-modifying treatment (i.e., ofatumumab). To that end, the study will use the patented investigational, Eye Tracking Neurological Assessment (ETNA-ProgMS) SaMD (v1.0.11 or later), which has not yet received Health Canada approval, to reliably and accurately track eye movements with precision.",
+      "kind": "clinical_trial",
+      "external_id": "NCT06733922",
+      "score": 100,
+      "topics": [
+        "treatment",
+        "regulatory",
+        "research",
+        "diagnosis"
+      ],
+      "status": "new"
+    },
+    {
       "id": "8143ccdff063e595",
       "source_id": "clinicaltrials-ms",
       "source": "ClinicalTrials.gov – Multiple Sclerosis",
@@ -426,6 +485,25 @@
         "treatment",
         "research",
         "symptoms"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "ff71719a75cba9ba",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "A Study of AZD0120 in Autoimmune Diseases",
+      "url": "https://clinicaltrials.gov/study/NCT07295847",
+      "published_at": "2026-11-10T00:00:00+00:00",
+      "summary": "This trial is a Phase 1b/2, open-label, multi-center, clinical study of AZD0120, a BCMA/CD19 dual targeting CAR+ T-cell therapy, to evaluate the safety and tolerability in adult participants with systemic sclerosis (SSc), idiopathic inflammatory myopathies (IIM), or difficult-to-treat rheumatoid arthritis (D2T RA).",
+      "kind": "clinical_trial",
+      "external_id": "NCT07295847",
+      "score": 100,
+      "topics": [
+        "clinical_trial",
+        "treatment",
+        "regulatory",
+        "research"
       ],
       "status": "new"
     },
@@ -540,24 +618,6 @@
       "status": "new"
     },
     {
-      "id": "5a904aa9b7064bfa",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "A Study of Orelabrutinib in Patients With Secondary Progressive Multiple Sclerosis",
-      "url": "https://clinicaltrials.gov/study/NCT07299019",
-      "published_at": "2026-11-04T00:00:00+00:00",
-      "summary": "Orelabrutinib is a CNS-penetrable BTK inhibitor. This is a phase 3, randomized, double-blind, parallel-group, multicenter study to evaluate the efficacy and safety of orelabrutinib compared with placebo in patients with non-active Secondary Progress MS. Patients will be treated for approximately 24 to 60 months, with a minimum treatment duration of 12 months. The study will enroll approximately 990 subjects in a 2:1 randomization (orelabrutinib: placebo), globally.",
-      "kind": "clinical_trial",
-      "external_id": "NCT07299019",
-      "score": 100,
-      "topics": [
-        "clinical_trial",
-        "treatment",
-        "research"
-      ],
-      "status": "new"
-    },
-    {
       "id": "134283b46ff29dea",
       "source_id": "clinicaltrials-ms",
       "source": "ClinicalTrials.gov – Multiple Sclerosis",
@@ -572,6 +632,24 @@
         "treatment",
         "research",
         "rehabilitation"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "b4e6ebcda5adf5dc",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "The Role of the FCRL5 Protein in the Pathophysiology of Multiple Sclerosis and Response to Treatment",
+      "url": "https://clinicaltrials.gov/study/NCT07788573",
+      "published_at": "2026-11-04T00:00:00+00:00",
+      "summary": "Multiple sclerosis (MS) is a chronic inflammatory and neurodegenerative disease of the central nervous system (CNS) and the leading non-traumatic cause of neurological disability in young adults. Historically considered a T-cell-mediated disease, the paradigm for MS has shifted thanks to the efficacy of therapies targeting B cells. The investigators recently identified FCRL5 as a B-cell-specific biomarker that is significantly elevated in the cerebrospinal fluid (CSF) of patients with relapsing-remitting MS and is independently associated with an increased risk of developing new MRI lesions within two years of diagnosis (ref. Deltombe et al., PMID: 41004694). This project aims to further explore FCRL5 as a prognostic biomarker, study the role of FCRL5-expressing B cells in MS pathogenesis and the effects of disease-modifying therapies on these subsets.",
+      "kind": "clinical_trial",
+      "external_id": "NCT07788573",
+      "score": 100,
+      "topics": [
+        "treatment",
+        "research",
+        "diagnosis"
       ],
       "status": "new"
     },
@@ -631,24 +709,6 @@
         "treatment",
         "research",
         "rehabilitation"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "b32197b6781af982",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "Treatment of Memory Retrieval Impairments in MS With HDtDCS to the LIFG in a Placebo Controlled Trial",
-      "url": "https://clinicaltrials.gov/study/NCT07914257",
-      "published_at": "2026-11-03T00:00:00+00:00",
-      "summary": "The purpose of the study is to test whether low-level electric stimulation, called High Definition transcranial Direct Current Stimulation (HDtDCS), on the part of the brain (i.e., left inferior frontal gyrus) thought to aid in memory will improve verbal retrieval in multiple sclerosis patients. The primary outcome measures are neuropsychological assessments of verbal retrieval, and the secondary measures are neuropsychological assessments of other cognitive abilities and electroencephalography (EEG) measures.",
-      "kind": "clinical_trial",
-      "external_id": "NCT07914257",
-      "score": 100,
-      "topics": [
-        "clinical_trial",
-        "treatment",
-        "research"
       ],
       "status": "new"
     },
@@ -1808,62 +1868,6 @@
         "research",
         "quality_of_life",
         "nutrition"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "93b6a1d39839d9b5",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "Safety and Efficacy of AV078 in Participants With Tuberous Sclerosis Complex (TSC) Refractory Epilepsy (RESTOR-1)",
-      "url": "https://clinicaltrials.gov/study/NCT07680322",
-      "published_at": "2026-09-29T00:00:00+00:00",
-      "summary": "This Phase 2, randomized, double-blind, placebo-controlled study will evaluate the safety, tolerability, and efficacy of oral AV078 in participants with refractory epilepsy due to tuberous sclerosis complex (TSC). Approximately 42 participants will be randomized in a 5:1 ratio to receive AV078 or placebo.\n\nThe study will include a Screening Period collecting 4 weeks of pre-treatment Baseline data on seizure frequency, and progress to a 12-week Treatment Period, followed by an in person final follow-up visit approximately 2 weeks after the last dose.",
-      "kind": "clinical_trial",
-      "external_id": "NCT07680322",
-      "score": 100,
-      "topics": [
-        "clinical_trial",
-        "treatment",
-        "research"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "210c133039fe04df",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "A Phase 1/2a Study of Oral PRO-1562 in Healthy Subjects and Patients With Relapsing Multiple Sclerosis",
-      "url": "https://clinicaltrials.gov/study/NCT07826689",
-      "published_at": "2026-09-29T00:00:00+00:00",
-      "summary": "Phase 1 will test single oral doses of PRO-1562 in healthy adult subjects to characterize the safety and the amount of drug that is absorbed into the body. Some subjects will have lumbar punctures performed to measure the amount of drug that crosses the blood-brain barrier since that is the site of drug activity.\n\nPhase 2a will be a 6-month trial to test the ability of once monthly dosing of PRO-1562 to promote remyelination of the CNS and provide clinical benefit to adult patients with relapsing multiple sclerosis (RMS) who also have long-term vision problems diagnosed as chronic optic neuropathy. The benefits of remyelination will be measured using tests of visual acuity, speed of optic nerve conduction signals, and clinical assessments of cognitive and motor function. PRO-1562 will be added on to a stable regimen of MS disease modifying therapy.",
-      "kind": "clinical_trial",
-      "external_id": "NCT07826689",
-      "score": 100,
-      "topics": [
-        "clinical_trial",
-        "treatment",
-        "research",
-        "symptoms"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "91839b7f571a4e38",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "Epstein-Barr Virus Antibodies in Egyptian Patients With Multiple Sclerosis",
-      "url": "https://clinicaltrials.gov/study/NCT07846943",
-      "published_at": "2026-09-29T00:00:00+00:00",
-      "summary": "Multiple sclerosis (MS) is a chronic inflammatory demyelinating disease of the central nervous system that causes variable degrees of neurological disability. Epstein-Barr virus (EBV) has been identified as an important environmental factor implicated in the pathogenesis and progression of MS. However, the serological profile, antibody titers, and clinical relevance of EBV infection among Egyptian individuals with MS remain limited.\n\nThe primary purpose of this hospital-based observational study is to evaluate the frequency and titers of EBV-specific antibodies, specifically anti-viral capsid antigen (anti-VCA) IgG and anti-Epstein-Barr virus nuclear antigen 1 (anti-EBNA1) IgG, in Egyptian patients diagnosed with MS compared with age- and sex-matched healthy controls. The study also aims to assess whether EBV antibody levels correlate with MS disease activity, degree of neurological disability, relapse frequency, clinical subtype, brain MRI lesion burden, and response to disease-modifying therapies (DMTs).\n\nA total of 140 participants will be enrolled at the Department of Neurology and Psychiatry, Assiut University Hospital, comprising 70 adult patients with MS diagnosed according to the 2024 McDonald criteria and 70 matched healthy controls. Participants will undergo clinical and demographic assessment, neurological disability evaluation using the Expanded Disability Status Scale (EDSS) for MS patients, and review of existing brain MRI scans. A single venous blood sample will be collected from all participants to measure anti-VCA IgG and anti-EBNA1 IgG levels using enzyme-linked immunosorbent assay (ELISA).",
-      "kind": "clinical_trial",
-      "external_id": "NCT07846943",
-      "score": 100,
-      "topics": [
-        "treatment",
-        "regulatory",
-        "research",
-        "diagnosis"
       ],
       "status": "new"
     }

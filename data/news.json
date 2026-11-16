@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T12:36:06.405692+00:00",
+  "updated_at": "2026-11-16T13:27:56.669644+00:00",
   "articles": [
     {
       "id": "6a4e64b11a3d0fd8",
@@ -335,6 +335,24 @@
       "status": "new"
     },
     {
+      "id": "410528348f2ab42f",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "A Study of IMS001 in Patients With Multiple Sclerosis",
+      "url": "https://clinicaltrials.gov/study/NCT07935031",
+      "published_at": "2026-11-13T00:00:00+00:00",
+      "summary": "This study will evaluate the safety and tolerability of IMS001 and explore its possible effects in adults with multiple sclerosis. IMS001 is an investigational cell therapy consisting of mesenchymal-like stem cells derived from human embryonic stem cells.\n\nThe study plans to enroll 4 adults aged 18 to 65 years with relapsing-remitting or secondary progressive multiple sclerosis in China. Each participant will receive a single infusion of IMS001 into a vein. All participants will receive IMS001, and both participants and the study team will know which treatment is given.\n\nParticipants will undergo screening for up to 4 weeks before treatment. After the infusion, they will be assessed over 12 months for side effects and changes in multiple sclerosis, including relapses, disability, brain magnetic resonance imaging (MRI) findings, vision, movement, and thinking abilities.\n\nParticipants will then enter an additional 24-month follow-up period to monitor long-term safety, including serious side effects and possible tumor development. Total participation may last up to 37 months, including screening.",
+      "kind": "clinical_trial",
+      "external_id": "NCT07935031",
+      "score": 100,
+      "topics": [
+        "treatment",
+        "research",
+        "symptoms"
+      ],
+      "status": "new"
+    },
+    {
       "id": "265dd5349d5050bc",
       "source_id": "clinicaltrials-ms",
       "source": "ClinicalTrials.gov – Multiple Sclerosis",
@@ -508,6 +526,25 @@
       "status": "new"
     },
     {
+      "id": "a5e5e9064585969c",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "Investigating the Impact of Treadmill-integrated Virtual Reality Training on Walking Outside the Clinic",
+      "url": "https://clinicaltrials.gov/study/NCT07927439",
+      "published_at": "2026-11-10T00:00:00+00:00",
+      "summary": "This study will test whether a treadmill-based virtual reality walking program is safe, practical, and helpful for people with multiple sclerosis (MS). Participants will complete a 6-week training program and wear smart socks that measure how they walk before, during, and after the program. The study will also track changes in balance, fatigue, fall risk, fear of falling, confidence with walking, and overall quality of life.",
+      "kind": "clinical_trial",
+      "external_id": "NCT07927439",
+      "score": 100,
+      "topics": [
+        "research",
+        "rehabilitation",
+        "symptoms",
+        "quality_of_life"
+      ],
+      "status": "new"
+    },
+    {
       "id": "a9e314e181912b99",
       "source_id": "clinicaltrials-ms",
       "source": "ClinicalTrials.gov – Multiple Sclerosis",
@@ -596,6 +633,25 @@
         "research",
         "rehabilitation",
         "symptoms"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "a2245f3cfabc2c1d",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "Evaluating the Effect of the Zeen Mobility Device on Clinical Practicality, Safety, and Impact (Via Assessments of Walking, Standing Tolerance, Balance, Endurance, Effort, and Participation in Daily Tasks) in an Outpatient Rehabilitation Setting for Individuals With Mobility Impairments.",
+      "url": "https://clinicaltrials.gov/study/NCT07923201",
+      "published_at": "2026-11-06T00:00:00+00:00",
+      "summary": "The goal of this clinical trial is to learn whether the Zeen Mobility Device can improve mobility and function during outpatient rehabilitation for adults with mobility impairments. The study will also evaluate the safety of the device and how easy it is for participants and therapists to use during routine therapy.\n\nThe main questions it aims to answer are:\n\n* Does using the Zeen Mobility Device improve walking, standing, transfers, and daily function compared with a participant's usual mobility device?\n* Can the Zeen Mobility Device be safely incorporated into outpatient rehabilitation?\n* How satisfied are participants and therapists with using the device during therapy?\n\nResearchers will compare participants' performance using the Zeen Mobility Device with their performance using their usual mobility device, such as a walker or wheelchair. Participants will serve as their own comparison group.\n\nParticipants will:\n\n* Complete a baseline assessment before starting the study, a midpoint assessment after 4 treatment sessions, and a final assessment after 8 treatment sessions.\n* Attend 8 outpatient physical therapy sessions that include use of the Zeen Mobility Device.\n* Use the Zeen Mobility Device for at least 15 minutes during each study visit for balance, mobility, walking, transfer, or standing activities selected by their therapist.\n* Complete mobility and functional tests using both the Zeen Mobility Device and their usual mobility device at each assessment visit.\n* Provide feedback about their experience using the device while researchers monitor safety and any device-related problems.",
+      "kind": "clinical_trial",
+      "external_id": "NCT07923201",
+      "score": 100,
+      "topics": [
+        "clinical_trial",
+        "treatment",
+        "research",
+        "rehabilitation"
       ],
       "status": "new"
     },
@@ -784,6 +840,26 @@
         "clinical_trial",
         "research",
         "rehabilitation",
+        "symptoms"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "b6ecd8d833995ef1",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "Stopping TSC Onset and Progression 2B: Sirolimus TSC Epilepsy Prevention Study",
+      "url": "https://clinicaltrials.gov/study/NCT05104983",
+      "published_at": "2026-10-29T00:00:00+00:00",
+      "summary": "This trial is a Phase II randomized, double-blind, placebo controlled multi-site study to evaluate the safety and efficacy of early sirolimus to prevent or delay seizure onset in TSC infants.\n\nThis study is supported by research funding from the Office of Orphan Products Division (OOPD) of the US Food and Drug Administration (FDA).",
+      "kind": "clinical_trial",
+      "external_id": "NCT05104983",
+      "score": 100,
+      "topics": [
+        "clinical_trial",
+        "treatment",
+        "regulatory",
+        "research",
         "symptoms"
       ],
       "status": "new"
@@ -1661,26 +1737,6 @@
       "status": "new"
     },
     {
-      "id": "b6ecd8d833995ef1",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "Stopping TSC Onset and Progression 2B: Sirolimus TSC Epilepsy Prevention Study",
-      "url": "https://clinicaltrials.gov/study/NCT05104983",
-      "published_at": "2026-10-02T00:00:00+00:00",
-      "summary": "This trial is a Phase II randomized, double-blind, placebo controlled multi-site study to evaluate the safety and efficacy of early sirolimus to prevent or delay seizure onset in TSC infants.\n\nThis study is supported by research funding from the Office of Orphan Products Division (OOPD) of the US Food and Drug Administration (FDA).",
-      "kind": "clinical_trial",
-      "external_id": "NCT05104983",
-      "score": 100,
-      "topics": [
-        "clinical_trial",
-        "treatment",
-        "regulatory",
-        "research",
-        "symptoms"
-      ],
-      "status": "new"
-    },
-    {
       "id": "1f17d636f6a6b767",
       "source_id": "clinicaltrials-ms",
       "source": "ClinicalTrials.gov – Multiple Sclerosis",
@@ -1810,64 +1866,6 @@
         "treatment",
         "regulatory",
         "research"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "0f4518c027ff17b6",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "Psychological Interventions for Multiple Sclerosis: Effects on Anxiety, Depression, and Cognition.",
-      "url": "https://clinicaltrials.gov/study/NCT07273604",
-      "published_at": "2026-09-30T00:00:00+00:00",
-      "summary": "This study evaluated the efficacy of two structured psychological interventions in individuals with relapsing-remitting multiple sclerosis (RRMS). The main objective was to evaluate whether Group-Based Cognitive-Behavioral Therapy (CBT) and Psychophysiological Regulation Therapy (PRT) improved emotional well-being and objective cognitive functioning compared with Standard Care (SC).\n\nA total of 153 individuals with RRMS were assessed for eligibility, of whom 148 were randomized to one of three study conditions: Group-Based CBT, PRT, or SC (waiting-list control). Participants were allocated using a simple computer-generated randomization sequence with a 1:1:1 allocation ratio.\n\nBoth active interventions were delivered in small groups over 12 weekly sessions. CBT and PRT shared a common therapeutic framework comprising psychoeducation, mindfulness, psychophysiological regulation strategies, and homework assignments. The CBT condition additionally incorporated specific cognitive-behavioral components during sessions 4-10.\n\nAssessments were conducted at baseline and immediately after completion of the 12-week intervention period using standardized psychological and neuropsychological measures. The study evaluated treatment effects across complementary domains of emotional functioning and objective cognitive performance.",
-      "kind": "clinical_trial",
-      "external_id": "NCT07273604",
-      "score": 100,
-      "topics": [
-        "clinical_trial",
-        "treatment",
-        "research",
-        "symptoms",
-        "quality_of_life"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "57002dba1dc63868",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "A Study of Ocrelizumab Administered Subcutaneously in Participants With Multiple Sclerosis Who Switch From an Approved Anti-CD20 Therapy",
-      "url": "https://clinicaltrials.gov/study/NCT07609719",
-      "published_at": "2026-09-30T00:00:00+00:00",
-      "summary": "The purpose of this study is to assess the imaging biomarkers, patient outcomes, safety, tolerability, and treatment satisfaction of ocrelizumab (OCR) combined with recombinant human hyaluronidase (rHuPH20) administered subcutaneously (SC) in participants with relapsing multiple sclerosis (RMS) or primary progressive multiple sclerosis (PPMS) after switching from another anti-cluster of differentiation 20 (aCD20) therapy approved for RMS (ofatumumab SC, ublituximab-xiiy intravenous \\[IV\\], ocrelizumab IV) or PPMS (ocrelizumab IV).",
-      "kind": "clinical_trial",
-      "external_id": "NCT07609719",
-      "score": 100,
-      "topics": [
-        "treatment",
-        "regulatory",
-        "research",
-        "diagnosis"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "1e8ccc27875e67c4",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "Educational Programs Based on Healthy Habits to Improve Quality of Life and Psychosocial Profile in Women With Neurodegenerative Diseases: the ADVICE Protocol Study (Phase 2)",
-      "url": "https://clinicaltrials.gov/study/NCT06884579",
-      "published_at": "2026-09-30T00:00:00+00:00",
-      "summary": "This phase of the project aims to compare in-person, supervised educational programs (EP) with online self-guided EPs in individuals with relapsing-remitting multiple sclerosis. A total of 75 participants will be randomly assigned to one of three groups: a supervised and individualized educational program focused on HIIT training, a supervised and individualized educational program focused on strength training, and a non-supervised, self-guided educational program based on resistance band training. Additionally, sessions on the Mediterranean diet (both supervised and non-supervised) and cognitive-behavioral interventions will be included. A control evaluation will be conducted three months after the intervention to assess the effects of the educational programs, followed by another evaluation three months later to analyze residual effects. Women who participated in Phase 1 of the study will be invited to take part in this second phase.",
-      "kind": "clinical_trial",
-      "external_id": "NCT06884579",
-      "score": 100,
-      "topics": [
-        "clinical_trial",
-        "research",
-        "quality_of_life",
-        "nutrition"
       ],
       "status": "new"
     }

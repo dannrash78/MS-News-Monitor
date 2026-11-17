@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T13:27:56.669644+00:00",
+  "updated_at": "2026-11-17T14:14:22.778943+00:00",
   "articles": [
     {
       "id": "6a4e64b11a3d0fd8",
@@ -430,6 +430,24 @@
       "status": "new"
     },
     {
+      "id": "c7b504b451df795d",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "ADONeSS - Study of Autoimmune Diseases of the Nervous System",
+      "url": "https://clinicaltrials.gov/study/NCT07930663",
+      "published_at": "2026-11-12T00:00:00+00:00",
+      "summary": "Auto-immune conditions affecting the central nervous system are complex and can be serious life-threatening disorders. Some are well described and have established pathways of diagnosis and management e.g. multiple sclerosis (MS). But most others are quite rare, with little knowledge on clinical course, effect of treatments and long-term outcomes. Current treatments are mainly based on case reviews and expert opinions that are often limited to very few cases encountered. Through the ADONeS Study data on a substantial number of patients could be collected and shared through collaborative research.",
+      "kind": "clinical_trial",
+      "external_id": "NCT07930663",
+      "score": 100,
+      "topics": [
+        "treatment",
+        "research",
+        "diagnosis"
+      ],
+      "status": "new"
+    },
+    {
       "id": "8143ccdff063e595",
       "source_id": "clinicaltrials-ms",
       "source": "ClinicalTrials.gov – Multiple Sclerosis",
@@ -545,6 +563,43 @@
       "status": "new"
     },
     {
+      "id": "f08822637b778c78",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "Targeting Agonists of Glucagon-like Peptide-1 Receptor for Multiple Sclerosis",
+      "url": "https://clinicaltrials.gov/study/NCT07497399",
+      "published_at": "2026-11-10T00:00:00+00:00",
+      "summary": "The goal of this clinical trial is to evaluate if the study drug will reduce brain and retinal atrophy by reducing inflammation and subsequently slowing neurodegeneration in people with Multiple Sclerosis. The main outcome for the trial is change in normalized brain parenchymal volume (nBPV), measured by magnetic resonance imaging (MRI).\n\nResearchers will compare outcomes from participants randomized to the study drug, versus participants randomized to placebo, to see if there are signs of slowed neurodegeneration (i.e., reduction in brain and retinal atrophy).",
+      "kind": "clinical_trial",
+      "external_id": "NCT07497399",
+      "score": 100,
+      "topics": [
+        "clinical_trial",
+        "treatment",
+        "research"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "28997da8c529a723",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "A Study to Evaluate the Efficacy, Safety and Pharmacokinetics (PK) of a Higher Dose of Ocrelizumab in Adults With Relapsing Multiple Sclerosis (RMS)",
+      "url": "https://clinicaltrials.gov/study/NCT04544436",
+      "published_at": "2026-11-10T00:00:00+00:00",
+      "summary": "This is a randomized, double-blind, controlled, parallel group, multicenter study to evaluate efficacy, safety and PK of a higher dose of ocrelizumab per intravenous (IV) infusion every 24 weeks (Q24W) in participants with RMS, in comparison to the approved 600 milligrams (mg) dose of ocrelizumab.",
+      "kind": "clinical_trial",
+      "external_id": "NCT04544436",
+      "score": 100,
+      "topics": [
+        "clinical_trial",
+        "treatment",
+        "regulatory",
+        "research"
+      ],
+      "status": "new"
+    },
+    {
       "id": "a9e314e181912b99",
       "source_id": "clinicaltrials-ms",
       "source": "ClinicalTrials.gov – Multiple Sclerosis",
@@ -577,6 +632,29 @@
         "clinical_trial",
         "regulatory",
         "research"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "fb3a0413040c1bce",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "Tele-rehabilitation Program in People With Multiple Sclerosis and Mild Disability",
+      "url": "https://clinicaltrials.gov/study/NCT07924410",
+      "published_at": "2026-11-09T00:00:00+00:00",
+      "summary": "MS-FatigueCARE is a prospective, multicenter study aimed at investigating the mechanisms underlying fatigue in people with multiple sclerosis (MS) and mild disability, and at evaluating the efficacy of a personalized home-based telerehabilitation program. Fatigue is one of the most debilitating symptoms of MS and can significantly impact daily activities and quality of life, even in individuals with low levels of neurological disability. Current assessment relies primarily on patient-reported measures, highlighting the need for objective and sensitive fatigue biomarkers.\n\nThe study comprises two complementary phases. Phase 1 is a cross-sectional observational study comparing people with relapsing-remitting MS and mild disability (EDSS score 0-3.5) with healthy controls. The objective is to investigate the relationship between perceived fatigue and objective physiological and motor parameters, focusing specifically on oxygen consumption (VO₂), the metabolic cost of walking (CW), postural control, and gait-related parameters. In participants with MS, the potential association between fatigue and Epstein-Barr virus (EBV) serological status or reactivation will also be examined.\n\nPhase 2 is a single-blind, randomized controlled crossover study involving MS participants who completed Phase 1. Participants will be randomly assigned to either a six-week multidomain telerehabilitation program-based on non-immersive virtual reality and \"serious games\"-or a self-managed therapeutic education program. The telerehabilitation intervention integrates motor, cognitive, and cardiorespiratory exercises to be performed at home four times a week for 60 minutes, with remote monitoring by rehabilitation professionals. After a six-week washout period, participants will switch to the alternative intervention. The primary outcome is the energy cost of walking, measured during the 6-Minute Walking Test. Secondary outcomes include subjective fatigue, cognitive and psychological functioning, walking and balance performance, quality of life, usability, and treatment adherence, as well as instrumental measures of VO₂/VCO₂, postural control, and lower-limb kinematics.\n\nOverall, MS-FatigueCARE aims to identify objective markers of fatigue and determine whether a personalized, multi-domain telerehabilitation approach can reduce fatigue and improve functional outcomes and quality of life for people with MS, while fostering accessible and continuous rehabilitative care.",
+      "kind": "clinical_trial",
+      "external_id": "NCT07924410",
+      "score": 100,
+      "topics": [
+        "clinical_trial",
+        "treatment",
+        "regulatory",
+        "research",
+        "diagnosis",
+        "rehabilitation",
+        "symptoms",
+        "quality_of_life"
       ],
       "status": "new"
     },
@@ -652,24 +730,6 @@
         "treatment",
         "research",
         "rehabilitation"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "f08822637b778c78",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "Targeting Agonists of Glucagon-like Peptide-1 Receptor for Multiple Sclerosis",
-      "url": "https://clinicaltrials.gov/study/NCT07497399",
-      "published_at": "2026-11-05T00:00:00+00:00",
-      "summary": "The goal of this clinical trial is to evaluate if the study drug will reduce brain and retinal atrophy by reducing inflammation and subsequently slowing neurodegeneration in people with Multiple Sclerosis. The main outcome for the trial is change in normalized brain parenchymal volume (nBPV), measured by magnetic resonance imaging (MRI).\n\nResearchers will compare outcomes from participants randomized to the study drug, versus participants randomized to placebo, to see if there are signs of slowed neurodegeneration (i.e., reduction in brain and retinal atrophy).",
-      "kind": "clinical_trial",
-      "external_id": "NCT07497399",
-      "score": 100,
-      "topics": [
-        "clinical_trial",
-        "treatment",
-        "research"
       ],
       "status": "new"
     },
@@ -1810,62 +1870,6 @@
         "rehabilitation",
         "symptoms",
         "quality_of_life"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "3677512aaa9e00d3",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "Cooling During Inpatient Rehabilitation in Persons With MS",
-      "url": "https://clinicaltrials.gov/study/NCT07852156",
-      "published_at": "2026-10-01T00:00:00+00:00",
-      "summary": "The goal of this clinical trial is to shed light on the use of cooling during intensive active training sessions during a three-week multidisciplinary inpatient rehabilitation stay in persons with Multiple Sclerosis. The objectives of this study are:\n\n* to investigate the effects of one week of using a cooling vest during intensive active training sessions compared with one week of not using a cooling vest during inpatient rehabilitation on the state fatigue in persons with Multiple Sclerosis.\n* to investigate the effects of one week of using a cooling vest during intensive active training sessions compared with one week of not using a cooling vest during inpatient rehabilitation on the walking capacity, functional lower limb muscle strength, balance and cognition in persons with Multiple Sclerosis.\n* to investigate the effects of the three-week inpatient rehabilitation on the cardiorespiratory fitness, muscle strength and trait fatigue in persons with Multiple Sclerosis.\n\nResearchers will compare the effects of one week of using a cooling vest during intensive active training sessions with one week of not using a cooling vest during intensive active training sessions during three weeks of inpatient rehabilitation.\n\nParticipants will\n\n* Wear a cooling vest during intensive active training sessions for one week\n* Attend the assessment appointments during study participation\n* Keep a diary recording their use of a cooling vest during intensive active training sessions",
-      "kind": "clinical_trial",
-      "external_id": "NCT07852156",
-      "score": 100,
-      "topics": [
-        "clinical_trial",
-        "research",
-        "rehabilitation",
-        "symptoms"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "449dc8002fbbd916",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "Safety and Tolerability of TOP-N53 Applied on Digital Ulcers in Patients With Systemic Sclerosis",
-      "url": "https://clinicaltrials.gov/study/NCT06954597",
-      "published_at": "2026-10-01T00:00:00+00:00",
-      "summary": "The main goal of this clinical trial is to learn about how safe the new drug TOP-N53 solution is when it is applied to open wounds on the fingertip (digital ulcers) in people with an uncommon illness that results in hard, thickened areas of skin and additional problems with internal organs and blood vessels (systemic sclerosis). Another goal is to learn if different strengths of TOP-N53 can treat certain aspects of the illness. Men and women between 18 and 69 years of age with this illness may participate in the clinical trial. A parallel treatment with Sildenafil 20 mg is allowed for clinical trial participants.\n\nThe main questions the clinical trial aims to answer are:\n\n* Does TOP-N53 cause medical problems at the fingertip wound after it is directly applied to the wound?\n* Does TOP-N53 affect certain aspects of the illness like blood flow in the fingertip wounds, itch, pain, redness, bruises and bleeding at or beyond the fingertip wounds?\n\nResearchers will compare TOP-N53 solution in different strengths to a placebo (a look-alike substance that contains no drug) to see if TOP-N53 works to affect the aspects of the illness listed above.\n\nParticipants will receive one or two treatments with the placebo or different strengths of TOP-N53. The higher strength of the drug will only be given to participants after the lower strength was found to be safe.\n\nParticipants will visit the clinic up to 8 times within a maximum of 31 days. 2 visits may be done by telephone. The doctors will ask questions to ensure that it is safe for the participants to be in the clinical trial, apply the drug and follow-up on any medical problem after the treatment. They will also test if the drug works to treat the illness by several test methods before and after the treatment. Participants will help to find out whether the drug works to treat the illness and is safe by answering questions in a diary at different timepoints before and after treatment.",
-      "kind": "clinical_trial",
-      "external_id": "NCT06954597",
-      "score": 100,
-      "topics": [
-        "clinical_trial",
-        "treatment",
-        "research",
-        "symptoms"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "e910108a8c416fc8",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "A Study to Learn About a Medicine Called PF-08154225 in Participants With Autoimmune Diseases",
-      "url": "https://clinicaltrials.gov/study/NCT07782450",
-      "published_at": "2026-10-01T00:00:00+00:00",
-      "summary": "The purpose of this study is to learn about the safety and effects of the study medication called PF-08154225 for the potential treatment of autoimmune diseases. An autoimmune disease is a condition that makes a person's immune system attack its healthy cells by mistake. This study is particularly looking at autoimmune diseases called as Systemic Lupus Erythematosus (SLE), Rheumatoid Arthritis (RA), Idiopathic Inflammatory Myositis (IIM) or Systemic Sclerosis (SSc).\n\nThis study is divided into 3 parts: Part 1a, Part 1b and Part 2. Parts 1a and 1b are seeking participants with Systemic Lupus Erythematosus (SLE) or Rheumatoid Arthritis and Part 2 with also Idiopathic Inflammatory Myositis (IIM) or Systemic Sclerosis (SSc).\n\nParticipants can take part only in one part of the study.\n\nAll participants in this study will receive PF-08154225 at the study clinic. In Part 1a participants will receive single administration of PF-08154225 after which they will be observed at the study clinic during regular visits through week 16 or longer.\n\nIn Part 1b the participants will receive multiple administration of PF-08154225 after which they will be monitored in similar a manner as in Part 1a through week 24 or longer.\n\nIn Part 2 participants will receive multiple administrations of PF-08154225. After the last injection they will be monitored for safety through week 52 or longer.",
-      "kind": "clinical_trial",
-      "external_id": "NCT07782450",
-      "score": 100,
-      "topics": [
-        "treatment",
-        "regulatory",
-        "research"
       ],
       "status": "new"
     }

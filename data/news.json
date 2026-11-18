@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T14:14:22.778943+00:00",
+  "updated_at": "2026-11-18T13:44:46.512788+00:00",
   "articles": [
     {
       "id": "6a4e64b11a3d0fd8",
@@ -103,6 +103,24 @@
         "clinical_trial",
         "treatment",
         "research"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "2da1ddd528984ab1",
+      "source_id": "ms-news-today",
+      "source": "Multiple Sclerosis News Today",
+      "title": "Daily supplement may help ease MS fatigue, small trial suggests",
+      "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/11/17/daily-supplement-help-ease-ms-fatigue-small-trial-suggests/",
+      "published_at": "Tue, 17 Nov 2026 18:15:14 +0000",
+      "summary": "<a href=\"https://multiplesclerosisnewstoday.com/news-posts/2026/11/17/daily-supplement-help-ease-ms-fatigue-small-trial-suggests/\" title=\"Daily supplement may help ease MS fatigue, small trial suggests\" rel=\"nofollow\"><img width=\"800\" height=\"533\" src=\"https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/10/iStock-2228306373-800x533.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"A person pours pills from a bottle into their hand.\" style=\"display: block; margin: auto; margin-bottom: 15px;max-width: 100%;\" link_thumbnail=\"1\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/10/iStock-2228306373-800x533.jpg 800w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/10/iStock-2228306373-380x253.jpg 380w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/10/iStock-2228306373-768x512.jpg 768w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/10/iStock-2228306373-1536x1024.jpg 1536w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/10/iStock-2228306373.jpg 1800w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-wp-pid=\"167420\" /></a><p>A daily supplement combining probiotics and prebiotics may help manage fatigue in people with multiple sclerosis (MS), according to a small clinical trial. Probiotics are live microorganisms thought to help with gut health, while prebiotics are substances that support beneficial gut microbes. Data showed that participants taking Familact, a supplement containing nine bacterial strains and [&#8230;]</p> <p>The post <a href=\"https://multiplesclerosisnewstoday.com/news-posts/2026/11/17/daily-supplement-help-ease-ms-fatigue-small-trial-suggests/\">Daily supplement may help ease MS fatigue, small trial suggests</a> appeared first on <a href=\"https://multiplesclerosisnewstoday.com\">Multiple Sclerosis News Today</a>.</p>",
+      "kind": "news",
+      "score": 100,
+      "topics": [
+        "clinical_trial",
+        "research",
+        "symptoms",
+        "nutrition"
       ],
       "status": "new"
     },
@@ -1848,27 +1866,6 @@
         "clinical_trial",
         "research",
         "rehabilitation",
-        "quality_of_life"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "dd23ed1b3da6f3fe",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "Effectiveness of a One-year Group Program for Fatigue Management in Minimally Impaired People With Multiple Sclerosis",
-      "url": "https://clinicaltrials.gov/study/NCT07028879",
-      "published_at": "2026-10-02T00:00:00+00:00",
-      "summary": "Fatigue is one of the most common symptoms, experienced by between 50% and 100% of people with multiple sclerosis (MS), and contributes significantly to the consequences of MS and perceived disability in the daily lives of those with the condition. On the one hand, practicing different forms of physical exercise (PE) has demonstrated effective management of perceived fatigue, and the literature strongly supports the need for regular exercise in patients with MS.\n\nOn the other hand, energy conservation programs and cognitive-behavioral interventions have demonstrated improvements in self-efficacy, participation in social life, perceived control over their disease, and a reduction in the perceived impact of fatigue, particularly in the physical and psychosocial domains of life.\n\nTherefore, in this study, a physical therapist and an occupational therapist will conduct a one-year group program focused on educational and practical learning of techniques and strategies, keeping in mind that lifestyle changes take time to become permanent.\n\nIt is important to highlight that, as MS generally presents in early adulthood, there is growing interest in exploring rehabilitation techniques very early after diagnosis or in minimally affected MS patients (0-4.5 on the EDSS), we are therefore interested in exploring this program in this population group with MS, the majority of whom are actively employed, and evaluating the effects on perceived fatigue severity, quality of life, incidental and planned exercise, sleep quality, anxiety and depression, and perceived self-efficacy.\n\nStudy participants will be recruited by the neuroimmunology team at Hospital Clínic de Barcelona, who will select those who meet the inclusion criteria from the multiple sclerosis patients seen. Those patients who, despite meeting the inclusion criteria, are unable to attend the sessions (due to availability, geographic location, or other personal reasons) will form the comparison group. Therefore, there is no random assignment in this study. For this study, a total sample of 28 patients will be divided into three groups of 7, 7, and 14 participants, respectively. The last group will not receive treatment and will be used as a control group. Patients who do receive treatment will be assigned to groups on a first-come, first-served basis, and the therapeutic program will be the same for both groups. This separation is done to improve the quality of the intervention by allowing participants greater interaction in small groups.\n\nParticipants who must withdraw from the study for reasons beyond their control, having completed less than a third of the program, and participants who, despite being considered good candidates, are unable to attend the sessions for work, personal, or geographic reasons, will be evaluated at the beginning and end of the study using the same scales as the control group to compare the results obtained.\n\nThe sessions will be held at the day hospital for neurodegenerative diseases at the Hospital Clínic de Barcelona, twice a week: one physiotherapy session and one occupational therapy session. Implicit assessments will be conducted at the start of the program, at 6 months, one year, and 6 months after completion of the program.\n\nThere are no risks beyond the risks inherent in sports practice, which may exist in physical therapy sessions.",
-      "kind": "clinical_trial",
-      "external_id": "NCT07028879",
-      "score": 100,
-      "topics": [
-        "treatment",
-        "research",
-        "diagnosis",
-        "rehabilitation",
-        "symptoms",
         "quality_of_life"
       ],
       "status": "new"

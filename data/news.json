@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T13:44:46.512788+00:00",
+  "updated_at": "2026-11-19T14:14:21.257592+00:00",
   "articles": [
     {
       "id": "6a4e64b11a3d0fd8",
@@ -33,6 +33,43 @@
         "clinical_trial",
         "treatment",
         "research"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "4bda02b86588b057",
+      "source_id": "ms-news-today",
+      "source": "Multiple Sclerosis News Today",
+      "title": "Neuroprotective therapy cleared by FDA for testing in acute MS relapses",
+      "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/11/18/neuroprotective-therapy-cleared-testing-acute-ms-relapses/",
+      "published_at": "Wed, 18 Nov 2026 18:45:53 +0000",
+      "summary": "<a href=\"https://multiplesclerosisnewstoday.com/news-posts/2026/11/18/neuroprotective-therapy-cleared-testing-acute-ms-relapses/\" title=\"Neuroprotective therapy cleared by FDA for testing in acute MS relapses\" rel=\"nofollow\"><img width=\"800\" height=\"444\" src=\"https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/11/iStock-1240333879-800x444.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"In this illustration, a clinician holds a clipboard while pointing to the words &quot;medical tests,&quot; which hover above a microscope positioned over a beaker.\" style=\"display: block; margin: auto; margin-bottom: 15px;max-width: 100%;\" link_thumbnail=\"1\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/11/iStock-1240333879-800x444.jpg 800w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/11/iStock-1240333879-380x211.jpg 380w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/11/iStock-1240333879-768x427.jpg 768w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/11/iStock-1240333879-1536x853.jpg 1536w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/11/iStock-1240333879.jpg 1800w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-wp-pid=\"167411\" /></a><p>Oculis is expanding the clinical development of privosegtor, its experimental nerve-protecting therapy, to include the treatment of acute relapses in people with multiple sclerosis (MS). The move follows the U.S. Food and Drug Administration’s (FDA) clearance of an investigational new drug (IND) application, paving the way for clinical trials in this new indication. Privosegtor was [&#8230;]</p> <p>The post <a href=\"https://multiplesclerosisnewstoday.com/news-posts/2026/11/18/neuroprotective-therapy-cleared-testing-acute-ms-relapses/\">Neuroprotective therapy cleared by FDA for testing in acute MS relapses</a> appeared first on <a href=\"https://multiplesclerosisnewstoday.com\">Multiple Sclerosis News Today</a>.</p>",
+      "kind": "news",
+      "score": 100,
+      "topics": [
+        "clinical_trial",
+        "treatment",
+        "regulatory",
+        "research"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "480f9c865b408859",
+      "source_id": "ms-news-today",
+      "source": "Multiple Sclerosis News Today",
+      "title": "MS therapy preserves cognitive function over 4 years, study shows",
+      "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/11/18/ms-therapy-preserves-cognitive-function-4-years-study-shows/",
+      "published_at": "Wed, 18 Nov 2026 14:00:18 +0000",
+      "summary": "<a href=\"https://multiplesclerosisnewstoday.com/news-posts/2026/11/18/ms-therapy-preserves-cognitive-function-4-years-study-shows/\" title=\"MS therapy preserves cognitive function over 4 years, study shows\" rel=\"nofollow\"><img width=\"800\" height=\"422\" src=\"https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/08/iStock-1483266787-800x422.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"A researcher seated at a desk with a computer and microscope reads data on a tablet.\" style=\"display: block; margin: auto; margin-bottom: 15px;max-width: 100%;\" link_thumbnail=\"1\" decoding=\"async\" srcset=\"https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/08/iStock-1483266787-800x422.jpg 800w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/08/iStock-1483266787-380x200.jpg 380w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/08/iStock-1483266787-768x405.jpg 768w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/08/iStock-1483266787-1536x810.jpg 1536w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/08/iStock-1483266787.jpg 1800w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-wp-pid=\"164950\" /></a><p>Most people with highly active relapsing multiple sclerosis (MS) who received the approved therapy Mavenclad (cladribine) maintained their cognitive function over four years, while experiencing improved quality of life. That’s according to pooled results from 280 patients who completed the global Phase 4 CLARIFY-MS clinical trial (NCT03369665), where they were given Mavenclad for two years, [&#8230;]</p> <p>The post <a href=\"https://multiplesclerosisnewstoday.com/news-posts/2026/11/18/ms-therapy-preserves-cognitive-function-4-years-study-shows/\">MS therapy preserves cognitive function over 4 years, study shows</a> appeared first on <a href=\"https://multiplesclerosisnewstoday.com\">Multiple Sclerosis News Today</a>.</p>",
+      "kind": "news",
+      "score": 100,
+      "topics": [
+        "clinical_trial",
+        "treatment",
+        "regulatory",
+        "research",
+        "quality_of_life"
       ],
       "status": "new"
     },
@@ -113,7 +150,7 @@
       "title": "Daily supplement may help ease MS fatigue, small trial suggests",
       "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/11/17/daily-supplement-help-ease-ms-fatigue-small-trial-suggests/",
       "published_at": "Tue, 17 Nov 2026 18:15:14 +0000",
-      "summary": "<a href=\"https://multiplesclerosisnewstoday.com/news-posts/2026/11/17/daily-supplement-help-ease-ms-fatigue-small-trial-suggests/\" title=\"Daily supplement may help ease MS fatigue, small trial suggests\" rel=\"nofollow\"><img width=\"800\" height=\"533\" src=\"https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/10/iStock-2228306373-800x533.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"A person pours pills from a bottle into their hand.\" style=\"display: block; margin: auto; margin-bottom: 15px;max-width: 100%;\" link_thumbnail=\"1\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/10/iStock-2228306373-800x533.jpg 800w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/10/iStock-2228306373-380x253.jpg 380w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/10/iStock-2228306373-768x512.jpg 768w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/10/iStock-2228306373-1536x1024.jpg 1536w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/10/iStock-2228306373.jpg 1800w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-wp-pid=\"167420\" /></a><p>A daily supplement combining probiotics and prebiotics may help manage fatigue in people with multiple sclerosis (MS), according to a small clinical trial. Probiotics are live microorganisms thought to help with gut health, while prebiotics are substances that support beneficial gut microbes. Data showed that participants taking Familact, a supplement containing nine bacterial strains and [&#8230;]</p> <p>The post <a href=\"https://multiplesclerosisnewstoday.com/news-posts/2026/11/17/daily-supplement-help-ease-ms-fatigue-small-trial-suggests/\">Daily supplement may help ease MS fatigue, small trial suggests</a> appeared first on <a href=\"https://multiplesclerosisnewstoday.com\">Multiple Sclerosis News Today</a>.</p>",
+      "summary": "<a href=\"https://multiplesclerosisnewstoday.com/news-posts/2026/11/17/daily-supplement-help-ease-ms-fatigue-small-trial-suggests/\" title=\"Daily supplement may help ease MS fatigue, small trial suggests\" rel=\"nofollow\"><img width=\"800\" height=\"533\" src=\"https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/10/iStock-2228306373-800x533.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"A person pours pills from a bottle into their hand.\" style=\"display: block; margin: auto; margin-bottom: 15px;max-width: 100%;\" link_thumbnail=\"1\" decoding=\"async\" loading=\"lazy\" srcset=\"https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/10/iStock-2228306373-800x533.jpg 800w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/10/iStock-2228306373-380x253.jpg 380w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/10/iStock-2228306373-768x512.jpg 768w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/10/iStock-2228306373-1536x1024.jpg 1536w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/10/iStock-2228306373.jpg 1800w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-wp-pid=\"167420\" /></a><p>A daily supplement combining probiotics and prebiotics may help manage fatigue in people with multiple sclerosis (MS), according to a small clinical trial. Probiotics are live microorganisms thought to help with gut health, while prebiotics are substances that support beneficial gut microbes. Data showed that participants taking Familact, a supplement containing nine bacterial strains and [&#8230;]</p> <p>The post <a href=\"https://multiplesclerosisnewstoday.com/news-posts/2026/11/17/daily-supplement-help-ease-ms-fatigue-small-trial-suggests/\">Daily supplement may help ease MS fatigue, small trial suggests</a> appeared first on <a href=\"https://multiplesclerosisnewstoday.com\">Multiple Sclerosis News Today</a>.</p>",
       "kind": "news",
       "score": 100,
       "topics": [
@@ -353,6 +390,65 @@
       "status": "new"
     },
     {
+      "id": "63c19901ca93ec88",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "Effectiveness of Home-Based Exercise and Brain Stimulation for Reducing Fatigue in Patients With Multiple Sclerosis",
+      "url": "https://clinicaltrials.gov/study/NCT07567989",
+      "published_at": "2026-11-18T00:00:00+00:00",
+      "summary": "This randomized, double-blind, parallel-group clinical trial aims to assess the effectiveness of a combined intervention consisting of a home-based therapeutic exercise program and transcranial direct current stimulation (tDCS) for the management of fatigue in patients with multiple sclerosis (MS). Fatigue is one of the most disabling and prevalent symptoms in MS, significantly impacting patients' quality of life and functional independence.\n\nParticipants diagnosed with MS who meet inclusion criteria will be randomized into two groups:\n\nGroup 1: Home-based therapeutic exercise plus sham (placebo) tDCS\n\nGroup 2: Home-based therapeutic exercise plus active tDCS\n\nThe intervention will span a defined period, with tDCS sessions applied over the dorsolateral prefrontal cortex (DLPFC) using a standard montage and parameters validated in previous studies. The sham stimulation group will follow identical procedures without active current delivery, preserving blinding for participants and evaluators.\n\nThe therapeutic exercise program is designed to be feasible for home implementation, targeting key domains affected in MS such as strength, endurance, balance, and mobility. Exercises will be prescribed based on individual patient assessments and progressively adjusted throughout the intervention period.\n\nPrimary outcome measures will include functional capacity, evaluated through the Six-Minute Walk Test (6MWT), and fatigue levels, assessed via the Fatigue Severity Scale (FSS) and a Visual Analogue Scale (VAS) for fatigue. Secondary observations may include adherence rates to the exercise program and subjective reports of tolerability and perceived benefits.\n\nThis trial seeks to explore whether combining a physical intervention (exercise) with a neuromodulation technique (tDCS) can offer additive benefits in managing fatigue, beyond what exercise alone provides. The ultimate goal is to develop accessible, non-pharmacological treatment strategies to improve daily functioning and quality of life for individuals living with multiple sclerosis.",
+      "kind": "clinical_trial",
+      "external_id": "NCT07567989",
+      "score": 100,
+      "topics": [
+        "clinical_trial",
+        "treatment",
+        "research",
+        "rehabilitation",
+        "symptoms",
+        "quality_of_life"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "681eeaaf50fb3c36",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "Ocrelizumab Discontinuation in Relapsing Multiple Sclerosis",
+      "url": "https://clinicaltrials.gov/study/NCT05285891",
+      "published_at": "2026-11-17T00:00:00+00:00",
+      "summary": "This study is a prospective, multi-center, randomized, double blinded, placebo-controlled study of OCR treatment-discontinuation in patients with early RMS. All eligible participants will be initiated on OCR using the standard approved administration schedule of two 300 mg infusions separated by 14 days (i.e., Days 0 and 14) for a total of 600 mg, followed by 600 mg infusions at Month 6,12, 18, and 24. At Month 24, participants will be randomized (2:1) to one of two Arms with randomized treatment beginning at Month 30: Arm 1: placebo infusions every 6 months; or Arm 2: OCR infusions every 6 months. The treatment period will be for a total of 60 months.",
+      "kind": "clinical_trial",
+      "external_id": "NCT05285891",
+      "score": 100,
+      "topics": [
+        "clinical_trial",
+        "treatment",
+        "regulatory",
+        "research"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "30e56a2ca1e9488f",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "An Open-label Study of AZD0120 in Adults With Multiple Sclerosis",
+      "url": "https://clinicaltrials.gov/study/NCT07224373",
+      "published_at": "2026-11-17T00:00:00+00:00",
+      "summary": "This trial is a Phase 1b, open-label, multi-center, clinical study of AZD0120, a BCMA/CD19 dual targeting CAR+ T-cell therapy, to evaluate the safety and tolerability in adult participants with relapsing and progessive Multiple Sclerosis.",
+      "kind": "clinical_trial",
+      "external_id": "NCT07224373",
+      "score": 100,
+      "topics": [
+        "clinical_trial",
+        "treatment",
+        "regulatory",
+        "research"
+      ],
+      "status": "new"
+    },
+    {
       "id": "410528348f2ab42f",
       "source_id": "clinicaltrials-ms",
       "source": "ClinicalTrials.gov – Multiple Sclerosis",
@@ -362,6 +458,24 @@
       "summary": "This study will evaluate the safety and tolerability of IMS001 and explore its possible effects in adults with multiple sclerosis. IMS001 is an investigational cell therapy consisting of mesenchymal-like stem cells derived from human embryonic stem cells.\n\nThe study plans to enroll 4 adults aged 18 to 65 years with relapsing-remitting or secondary progressive multiple sclerosis in China. Each participant will receive a single infusion of IMS001 into a vein. All participants will receive IMS001, and both participants and the study team will know which treatment is given.\n\nParticipants will undergo screening for up to 4 weeks before treatment. After the infusion, they will be assessed over 12 months for side effects and changes in multiple sclerosis, including relapses, disability, brain magnetic resonance imaging (MRI) findings, vision, movement, and thinking abilities.\n\nParticipants will then enter an additional 24-month follow-up period to monitor long-term safety, including serious side effects and possible tumor development. Total participation may last up to 37 months, including screening.",
       "kind": "clinical_trial",
       "external_id": "NCT07935031",
+      "score": 100,
+      "topics": [
+        "treatment",
+        "research",
+        "symptoms"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "42a91f0fd57e772b",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "Psychodrama for Adults With Relapsing-Remitting Multiple Sclerosis: A Mixed-Methods Study",
+      "url": "https://clinicaltrials.gov/study/NCT07928765",
+      "published_at": "2026-11-13T00:00:00+00:00",
+      "summary": "This single-group, mixed-methods study explored changes following a 13-week group psychodrama programme in adults with relapsing-remitting multiple sclerosis (MS). Participants were recruited from the demyelinating diseases unit of Mersin University Hospital, Türkiye, and attended weekly sessions of approximately 180 minutes in addition to their standard medical treatment. Loneliness, fatigue, cognitive performance, depressive and anxiety symptoms, and sleep quality were assessed at baseline, after the intervention and at 6-month follow-up. Individual semi-structured interviews conducted after the intervention and at follow-up explored participants' experiences of physical, cognitive, psychological and social change. Quantitative and qualitative findings were integrated within a convergent mixed-methods design.",
+      "kind": "clinical_trial",
+      "external_id": "NCT07928765",
       "score": 100,
       "topics": [
         "treatment",
@@ -466,6 +580,25 @@
       "status": "new"
     },
     {
+      "id": "30b8d491306ec0cf",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "The Effects of Tai Chi in Individuals With Multiple Sclerosis",
+      "url": "https://clinicaltrials.gov/study/NCT07928557",
+      "published_at": "2026-11-12T00:00:00+00:00",
+      "summary": "This study aimed to evaluate the effects of Tai Chi exercise on cognitive functions, fatigue, and depressive symptoms in individuals with Multiple Sclerosis (MS). MS is a chronic neurological disease characterized by demyelination within the central nervous system and is frequently associated with cognitive, physical, and psychological impairments.\n\nIndividuals diagnosed with MS were assigned to either an 8-week Tai Chi exercise program or a home-based Frenkel exercise program. Cognitive functions were assessed using the Brief International Cognitive Assessment for Multiple Sclerosis (BICAMS), which comprises the Symbol Digit Modalities Test (SDMT), California Verbal Learning Test-II (CVLT-II), and Brief Visuospatial Memory Test-Revised (BVMT-R). Fatigue was evaluated using the Fatigue Impact Scale (FIS), while depressive symptoms were assessed using the Beck Depression Inventory (BDI).\n\nThe study aimed to investigate the effects of Tai Chi exercise compared with a home-based exercise program on cognitive performance, fatigue, and depressive symptoms in individuals with MS. The findings may contribute to the evidence base for non-pharmacological rehabilitation approaches in MS management.",
+      "kind": "clinical_trial",
+      "external_id": "NCT07928557",
+      "score": 100,
+      "topics": [
+        "treatment",
+        "research",
+        "rehabilitation",
+        "symptoms"
+      ],
+      "status": "new"
+    },
+    {
       "id": "8143ccdff063e595",
       "source_id": "clinicaltrials-ms",
       "source": "ClinicalTrials.gov – Multiple Sclerosis",
@@ -501,25 +634,6 @@
         "research",
         "symptoms",
         "quality_of_life"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "30b8d491306ec0cf",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "THE EFFECTS OF TAI CHI IN INDIVIDUALS WITH MULTIPLE SCLEROSIS",
-      "url": "https://clinicaltrials.gov/study/NCT07928557",
-      "published_at": "2026-11-10T00:00:00+00:00",
-      "summary": "This study aimed to evaluate the effects of Tai Chi exercise on cognitive functions, fatigue, and depressive symptoms in individuals with Multiple Sclerosis (MS). MS is a chronic neurological disease characterized by demyelination within the central nervous system and is frequently associated with cognitive, physical, and psychological impairments.\n\nIndividuals diagnosed with MS were assigned to either an 8-week Tai Chi exercise program or a home-based Frenkel exercise program. Cognitive functions were assessed using the Brief International Cognitive Assessment for Multiple Sclerosis (BICAMS), which comprises the Symbol Digit Modalities Test (SDMT), California Verbal Learning Test-II (CVLT-II), and Brief Visuospatial Memory Test-Revised (BVMT-R). Fatigue was evaluated using the Fatigue Impact Scale (FIS), while depressive symptoms were assessed using the Beck Depression Inventory (BDI).\n\nThe study aimed to investigate the effects of Tai Chi exercise compared with a home-based exercise program on cognitive performance, fatigue, and depressive symptoms in individuals with MS. The findings may contribute to the evidence base for non-pharmacological rehabilitation approaches in MS management.",
-      "kind": "clinical_trial",
-      "external_id": "NCT07928557",
-      "score": 100,
-      "topics": [
-        "treatment",
-        "research",
-        "rehabilitation",
-        "symptoms"
       ],
       "status": "new"
     },
@@ -1753,119 +1867,6 @@
         "research",
         "rehabilitation",
         "symptoms",
-        "quality_of_life"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "61f9e775d3e384a5",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "Neurorehabilitation of Cognitive Deficits in Multiple Sclerosis Using an Adaptive Cognitive Exergame",
-      "url": "https://clinicaltrials.gov/study/NCT07086950",
-      "published_at": "2026-10-05T00:00:00+00:00",
-      "summary": "Approximately 2.8 million people worldwide suffer from multiple sclerosis (MS). In 40 to 70% of cases, individuals with MS experience cognitive impairments that significantly interfere with their personal lives, careers, and quality of life. Current pharmacological and neurorehabilitation treatment options do not adequately reduce cognitive deficits. The absence of standards of care in Switzerland or internationally regarding cognitive neurorehabilitation in MS highlights the need for effective interventions with lasting effects.\n\nTo address this need, we are exploring different approaches to support and improve cognitive impairments through training exercises using computerized tools. Traditionally, these exercises are in paper-and-pencil format, consisting of tests, puzzles, and memory tasks. While this approach is useful, computerized tools now allow us to offer more playful, interactive, and engaging approaches.\n\nIn this study, we are examining the effect of serious video games (a medical device) on cognitive deficits related to MS. The serious video games we are testing have already been evaluated at CHUV in individuals with MS and cognitive impairments. This recent study demonstrated the feasibility and safety of using these games in people with MS. With the current study, we aim to test these tools on a larger scale in order to better understand their effects on cognitive functions. More specifically, we seek to determine which of the two proposed interventions provides the greatest cognitive benefits.",
-      "kind": "clinical_trial",
-      "external_id": "NCT07086950",
-      "score": 100,
-      "topics": [
-        "treatment",
-        "research",
-        "rehabilitation",
-        "quality_of_life"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "4afcc05d57c288d4",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "Enhancing Self-Esteem in Patients With Multiple Sclerosis: A Randomised Controlled Trial of the Lexical Association Technique",
-      "url": "https://clinicaltrials.gov/study/NCT07064291",
-      "published_at": "2026-10-02T00:00:00+00:00",
-      "summary": "The goal of this clinical trial is to learn whether the Lexical Association Technique (LAT) can improve well-being in people recently diagnosed with multiple sclerosis (MS), either relapsing-remitting (RRMS) or secondary progressive (SPMS).\n\nThe main questions it aims to answer are:\n\n* Does the LAT increase well-being more than a placebo technique ?\n* Does this technique help reduce psychological distress and improve quality of life ?\n\nParticipants will:\n\n* Be randomly assigned to either the LAT group or the active control group\n* Complete short visualization exercises at home using a personal computer\n* Fill out questionnaires about self-esteem, stress, anxiety, depression, quality of life, and adjustment to illness\n* Take part in the study over several weeks, with assessments before, after, and 14 days after the intervention\n\nResearchers will compare results between the two groups (LAT group vs. Control group) to test the immediate and lasting effects of the LAT.",
-      "kind": "clinical_trial",
-      "external_id": "NCT07064291",
-      "score": 100,
-      "topics": [
-        "clinical_trial",
-        "research",
-        "rehabilitation",
-        "quality_of_life"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "b5e1b3f9473de43b",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "Testosterone Treatment for Erectile Dysfunction and Multiple Sclerosis",
-      "url": "https://clinicaltrials.gov/study/NCT04601233",
-      "published_at": "2026-10-02T00:00:00+00:00",
-      "summary": "The purpose of the study is to determine the effects of testosterone treatment on erectile function, fatigue, depression, cognitive function, quality of life, urinary incontinence, pain, and damage to neurons in male Multiple Sclerosis patients with low testosterone, using questionnaires, blood samples and a rectal exam in volunteers 55 years and older.",
-      "kind": "clinical_trial",
-      "external_id": "NCT04601233",
-      "score": 100,
-      "topics": [
-        "treatment",
-        "research",
-        "symptoms",
-        "quality_of_life"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "1f17d636f6a6b767",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "A Study of the MIND Diet for Persons With Multiple Sclerosis",
-      "url": "https://clinicaltrials.gov/study/NCT06992115",
-      "published_at": "2026-10-02T00:00:00+00:00",
-      "summary": "This study will assess the impact of a MIND (Mediterranean-DASH Intervention for Neurodegenerative Delay) diet on brain health and MS symptoms. Participants will be randomly assigned to one of two arms: the diet intervention arm or the \"continue current diet\"/control arm. Participants randomized to the dietary intervention arm will change their diet to follow a MIND dietary pattern for one year; diet-related education and programming is provided to support this change. Participants randomized to the continue/control arm will be asked to continue their current dietary habits, without major change for one year; multiple sclerosis (MS) MS-related related education and programming (unrelated to diet) is provided. All participants will be asked to provide blood \\& stool samples and to complete online questionnaires \\& three in-person assessments.",
-      "kind": "clinical_trial",
-      "external_id": "NCT06992115",
-      "score": 100,
-      "topics": [
-        "clinical_trial",
-        "research",
-        "symptoms",
-        "nutrition"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "333366457430a918",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "A Clinical Study to Evaluate LVIVO-TaVec400 for the Treatment of Relapsed/Refractory Autoimmune Diseases",
-      "url": "https://clinicaltrials.gov/study/NCT07583030",
-      "published_at": "2026-10-02T00:00:00+00:00",
-      "summary": "This is a prospective, single-arm, open-label dose-escalation clinical study to evaluate LVIVO-TaVec400 in the treatment of relapsed/refractory autoimmune diseases.",
-      "kind": "clinical_trial",
-      "external_id": "NCT07583030",
-      "score": 100,
-      "topics": [
-        "treatment",
-        "regulatory",
-        "research"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "0191a04baec920d7",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "Inductive Therapeutic Exercise in Multiple Sclerosis",
-      "url": "https://clinicaltrials.gov/study/NCT07847853",
-      "published_at": "2026-10-02T00:00:00+00:00",
-      "summary": "ETOTUR is a research project comprising two complementary stages. The first is an observational study in approximately 50 healthy adults to develop and validate a mobile tool for quantitative assessment of muscle tone using the pendulum test. Measurements obtained with the mobile tool will be compared with laboratory reference systems, and preliminary reference values will be established.\n\nThe second stage, which is the focus of this clinical trial registration, is a pilot controlled study involving approximately 30 adults with multiple sclerosis and altered muscle tone and standing postural control. Participants will receive either Inductive Therapeutic Exercise (ETI, from the Spanish \"Ejercicio Terapéutico Inductivo\") or Sham Inductive Therapeutic Exercise (sham-ETI), a simulated intervention, with one individual session of approximately 40 minutes per week for 8 weeks.\n\nETI combines specific active movements and breathing patterns intended to elicit involuntary neuromuscular responses in other body regions. Sham-ETI uses similar movements while omitting the principal movement and breathing components intended to produce induction.\n\nParticipants will be assigned using a nonrandom sequential balancing procedure based on relevant baseline characteristics. Outcome assessment will be performed by a physiotherapist blinded to group allocation.\n\nOutcomes will be assessed at baseline, immediately after the 8-week intervention, and approximately one month later. The main outcomes are lower-limb muscle tone assessed using the pendulum test, standing postural control measured with a pressure platform, and health-related quality of life assessed with the Multiple Sclerosis Quality of Life-54 questionnaire (MSQoL-54). Adherence, tolerability, and intervention-related clinical incidents will also be recorded.\n\nThe study will explore whether changes following ETI differ from those observed after sham-ETI and will provide preliminary information to support the design of subsequent confirmatory research.",
-      "kind": "clinical_trial",
-      "external_id": "NCT07847853",
-      "score": 100,
-      "topics": [
-        "clinical_trial",
-        "research",
-        "rehabilitation",
         "quality_of_life"
       ],
       "status": "new"

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T13:18:48.904865+00:00",
+  "updated_at": "2026-11-22T13:11:14.002959+00:00",
   "articles": [
     {
       "id": "6a4e64b11a3d0fd8",
@@ -480,6 +480,24 @@
         "clinical_trial",
         "treatment",
         "regulatory",
+        "research"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "330b977992beb62c",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "Study of KITE-363 in Participants With Autoimmune Neurologic Diseases That Did Not Respond to Usual Treatment",
+      "url": "https://clinicaltrials.gov/study/NCT07304154",
+      "published_at": "2026-11-17T00:00:00+00:00",
+      "summary": "This study will have two Phases: Phase 1a and Phase 1b. The goals of this clinical study are to learn more about the study drug KITE-363, by evaluating its safety, tolerability and efficacy in participants with relapsed/refractory autoimmune neurologic diseases.\n\nThe primary objectives of this study are:\n\n* To evaluate the safety and tolerability of KITE-363 in participants with autoimmune neurologic diseases\n* To determine the recommended dose for Phase 1b\n* To evaluate the safety and preliminary efficacy of KITE-363 in participants with autoimmune neurologic diseases",
+      "kind": "clinical_trial",
+      "external_id": "NCT07304154",
+      "score": 100,
+      "topics": [
+        "clinical_trial",
+        "treatment",
         "research"
       ],
       "status": "new"
@@ -1528,24 +1546,6 @@
         "rehabilitation",
         "symptoms",
         "quality_of_life"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "330b977992beb62c",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "Study of KITE-363 in Participants With Autoimmune Neurologic Diseases That Did Not Respond to Usual Treatment",
-      "url": "https://clinicaltrials.gov/study/NCT07304154",
-      "published_at": "2026-10-19T00:00:00+00:00",
-      "summary": "This study will have two Phases: Phase 1a and Phase 1b. The goals of this clinical study are to learn more about the study drug KITE-363, by evaluating its safety, tolerability and efficacy in participants with relapsed/refractory autoimmune neurologic diseases.\n\nThe primary objectives of this study are:\n\n* To evaluate the safety and tolerability of KITE-363 in participants with autoimmune neurologic diseases\n* To determine the recommended dose for Phase 1b\n* To evaluate the safety and preliminary efficacy of KITE-363 in participants with autoimmune neurologic diseases",
-      "kind": "clinical_trial",
-      "external_id": "NCT07304154",
-      "score": 100,
-      "topics": [
-        "clinical_trial",
-        "treatment",
-        "research"
       ],
       "status": "new"
     },

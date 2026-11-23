@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T13:11:14.002959+00:00",
+  "updated_at": "2026-11-23T15:48:39.059766+00:00",
   "articles": [
     {
       "id": "6a4e64b11a3d0fd8",
@@ -426,6 +426,25 @@
       "status": "new"
     },
     {
+      "id": "fe045e96df061179",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "A Study to Evaluate the Efficacy and Safety of Ocrelizumab in Adults With Primary Progressive Multiple Sclerosis",
+      "url": "https://clinicaltrials.gov/study/NCT04035005",
+      "published_at": "2026-11-19T00:00:00+00:00",
+      "summary": "This study will evaluate the efficacy and safety of ocrelizumab (Ocrevus®) compared with placebo in participants with primary progressive multiple sclerosis (PPMS), including participants later in their disease course. This study will consist of the following phases: screening, double-blind treatment, an optional post-double-progression ocrelizumab (PDP OCR) treatment, follow-up 1 (FU1), an optional open-label extension (OLE), and follow-up 2 (FU2).",
+      "kind": "clinical_trial",
+      "external_id": "NCT04035005",
+      "score": 100,
+      "topics": [
+        "clinical_trial",
+        "treatment",
+        "regulatory",
+        "research"
+      ],
+      "status": "new"
+    },
+    {
       "id": "63c19901ca93ec88",
       "source_id": "clinicaltrials-ms",
       "source": "ClinicalTrials.gov – Multiple Sclerosis",
@@ -443,6 +462,26 @@
         "rehabilitation",
         "symptoms",
         "quality_of_life"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "ffbafde928a9fbe5",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "Effect of Low Histamine-Based Modified Mediterranean Diet in Multiple Sclerosis",
+      "url": "https://clinicaltrials.gov/study/NCT07501520",
+      "published_at": "2026-11-18T00:00:00+00:00",
+      "summary": "This randomized controlled trial will evaluate the effects of a low histamine-based modified Mediterranean diet in adults with relapsing-remitting multiple sclerosis (RRMS). The study will compare three groups: a low-histamine modified Mediterranean diet, a traditional Mediterranean diet, and a control group without dietary intervention. The main outcomes include clinical measures such as disability status, fatigue, and quality of life, as well as blood markers including plasma histamine, diamine oxidase concentration, total antioxidant capacity, and oxidative stress indicators. The goal is to determine whether reducing dietary histamine within a Mediterranean diet pattern provides additional benefits beyond a traditional Mediterranean diet in improving symptoms and biological markers related to inflammation and oxidative stress in RRMS.",
+      "kind": "clinical_trial",
+      "external_id": "NCT07501520",
+      "score": 100,
+      "topics": [
+        "clinical_trial",
+        "research",
+        "symptoms",
+        "quality_of_life",
+        "nutrition"
       ],
       "status": "new"
     },
@@ -499,6 +538,25 @@
         "clinical_trial",
         "treatment",
         "research"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "51bf1c935c1fdf46",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "Correlation Between Physical Activity and Pulmonary Endurance in MS Patients",
+      "url": "https://clinicaltrials.gov/study/NCT07943247",
+      "published_at": "2026-11-17T00:00:00+00:00",
+      "summary": "Multiple sclerosis (MS) is a chronic neurological disease that can affect movement, muscle strength, physical activity, and breathing. Individuals with MS may experience reduced physical activity and changes in pulmonary function, even during the early stages of the disease. However, the relationship between physical activity levels and pulmonary function in individuals with MS remains insufficiently understood. This observational study aims to investigate whether physical activity levels are associated with pulmonary function in adults with multiple sclerosis. A total of 94 participants with a confirmed diagnosis of MS are expected to be recruited. Physical activity will be assessed using the Arabic version of the International Physical Activity Questionnaire-Short Form (IPAQ-SF), while pulmonary function will be evaluated using spirometry. The study will examine whether individuals with different levels of physical activity also demonstrate differences in pulmonary function. The findings may help improve understanding of physical and respiratory health in individuals with MS and inform future rehabilitation assessment and management strategies.",
+      "kind": "clinical_trial",
+      "external_id": "NCT07943247",
+      "score": 100,
+      "topics": [
+        "regulatory",
+        "research",
+        "diagnosis",
+        "rehabilitation"
       ],
       "status": "new"
     },
@@ -594,6 +652,25 @@
         "treatment",
         "research",
         "symptoms"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "886851affa5723f8",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "A Multicenter Phase 1 Study of Orca-Q in Primary Progressive Multiple Sclerosis",
+      "url": "https://clinicaltrials.gov/study/NCT06900192",
+      "published_at": "2026-11-13T00:00:00+00:00",
+      "summary": "A study of allogeneic hematopoietic cell transplantation (alloHCT) with Orca-Q for the treatment of primary progressive multiple sclerosis (PPMS).",
+      "kind": "clinical_trial",
+      "external_id": "NCT06900192",
+      "score": 100,
+      "topics": [
+        "clinical_trial",
+        "treatment",
+        "regulatory",
+        "research"
       ],
       "status": "new"
     },
@@ -1105,6 +1182,25 @@
       "score": 100,
       "topics": [
         "clinical_trial",
+        "research",
+        "diagnosis"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "57002dba1dc63868",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "A Study of Ocrelizumab Administered Subcutaneously in Participants With Multiple Sclerosis Who Switch From an Approved Anti-CD20 Therapy",
+      "url": "https://clinicaltrials.gov/study/NCT07609719",
+      "published_at": "2026-10-30T00:00:00+00:00",
+      "summary": "The purpose of this study is to assess the imaging biomarkers, patient outcomes, safety, tolerability, and treatment satisfaction of ocrelizumab (OCR) combined with recombinant human hyaluronidase (rHuPH20) administered subcutaneously (SC) in participants with relapsing multiple sclerosis (RMS) or primary progressive multiple sclerosis (PPMS) after switching from another anti-cluster of differentiation 20 (aCD20) therapy approved for RMS (ofatumumab SC, ublituximab-xiiy intravenous \\[IV\\], ocrelizumab IV) or PPMS (ocrelizumab IV).",
+      "kind": "clinical_trial",
+      "external_id": "NCT07609719",
+      "score": 100,
+      "topics": [
+        "treatment",
+        "regulatory",
         "research",
         "diagnosis"
       ],
@@ -1771,104 +1867,6 @@
         "regulatory",
         "research",
         "diagnosis"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "db24947a33e5969b",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "C-CAR168, an Autologous Anti-CD20/BCMA Chimeric Antigen Receptor T-Cell Therapy, in Participants With Systemic Sclerosis (SSc) Refractory to Standard Therapy",
-      "url": "https://clinicaltrials.gov/study/NCT07854483",
-      "published_at": "2026-10-13T00:00:00+00:00",
-      "summary": "This Phase 1b, multicenter, open-label study will evaluate the safety and efficacy of a single infusion of autologous anti-CD20/BCMA chimeric antigen receptor T cells (C-CAR168) following lymphodepleting chemotherapy in participants with refractory Systemic Sclerosis (SSc) who are not responding to standard therapy. Approximately 6-12 participants will undergo leukapheresis, lymphodepletion with fludarabine and cyclophosphamide, and infusion of C-CAR168. Participants will be followed for 24 months (2 years) to evaluate safety, CAR T-cell persistence, pharmacokinetics/pharmacodynamics, biomarkers, and preliminary efficacy results. Long-term safety follow-up for gene therapy-related events will continue for up to 15 years following CAR T-cell infusion.",
-      "kind": "clinical_trial",
-      "external_id": "NCT07854483",
-      "score": 100,
-      "topics": [
-        "clinical_trial",
-        "treatment",
-        "regulatory",
-        "research",
-        "diagnosis"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "8815e1564ff9cb94",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "C-CAR168, an Autologous Anti-CD20/BCMA Chimeric Antigen Receptor T-Cell Therapy, in Participants With Progressive Multiple Sclerosis Refractory to Standard Therapy",
-      "url": "https://clinicaltrials.gov/study/NCT07825389",
-      "published_at": "2026-10-13T00:00:00+00:00",
-      "summary": "This is a global, multicenter, Phase 1b/2 study evaluating the safety and efficacy of C-CAR168, an autologous anti-CD20/BCMA chimeric antigen receptor T-cell therapy, in participants with progressive multiple sclerosis refractory to standard-of-care therapy. The study includes participants with secondary progressive multiple sclerosis (SPMS) and primary progressive multiple sclerosis (PPMS).",
-      "kind": "clinical_trial",
-      "external_id": "NCT07825389",
-      "score": 100,
-      "topics": [
-        "clinical_trial",
-        "treatment",
-        "research"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "aae568d8cfb78cf2",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "Bridging Gaps in the Multidimensional Assessment and Management of Overlapping Symptoms in Multiple Sclerosis and Functional Motor Disorders: Prevalence and Rehabilitation Effectiveness",
-      "url": "https://clinicaltrials.gov/study/NCT07856485",
-      "published_at": "2026-10-09T00:00:00+00:00",
-      "summary": "Multiple sclerosis (MS) is a chronic immune-mediated disease of the central nervous system that may cause a broad range of motor and non-motor symptoms. New or worsening neurological symptoms in people with MS are frequently interpreted as a possible relapse. However, relapse-like episodes are not always caused by new inflammatory disease activity and may instead reflect infection, fever, comorbidities, fluctuations of pre-existing symptoms, or an overlapping functional neurological disorder. Functional motor disorders (FMDs) are characterized by altered voluntary motor control and may present with weakness, tremor, gait disturbance, postural instability, abnormal movements, or impaired motor performance. These manifestations may resemble MS-related symptoms and may coexist with established structural neurological disease. In people with MS, functional motor symptoms may therefore be misclassified as relapse or disease progression, potentially leading to unnecessary investigations, corticosteroid treatment, inappropriate escalation of disease-modifying therapy, avoidable healthcare use, and delayed access to appropriate rehabilitation. Despite growing recognition of FMD-MS overlap, its prevalence, clinical characteristics, and optimal management remain insufficiently defined. This multicenter prospective study aims to improve the identification, characterization, and management of FMD-MS overlap in people with MS presenting with acute neurological symptom worsening. The study consists of two sequential and interconnected parts.\n\nPart A is an observational, cross-sectional diagnostic and prevalence study. A total of 192 adults with MS according to the 2017 revisions of the McDonald criteria and reporting new or worsening neurological symptoms within the previous 30 days will be enrolled at two tertiary MS centers in Italy. No study-assigned treatment will be administered during Part A. Participants will undergo a standardized multidimensional assessment including demographic and MS-related clinical information, neurological examination, evaluation of positive functional motor signs, disability and functional measures, gait and balance assessments, patient-reported outcome measures, and review of laboratory and magnetic resonance imaging findings obtained as part of routine clinical care when clinically indicated.\n\nThe primary aim of Part A is to estimate the prevalence of FMD-MS overlap, also referred to in the protocol as functional pseudorelapse, among people with MS presenting with acute symptom worsening. Additional aims are to distinguish FMD-MS overlap from true MS relapse and other causes of symptom worsening and to identify demographic, clinical, functional, gait, balance, psychological, quality-of-life, and routine-care imaging characteristics associated with each diagnostic category.\n\nPart B is a pilot randomized, assessor-blinded, active-controlled rehabilitation study. Approximately 26 participants with confirmed FMD-MS overlap identified during Part A and meeting the additional rehabilitation eligibility criteria will enter Part B. These 26 participants are included within the overall cohort of 192 participants and are not an additional study population.\n\nParticipants entering Part B will be randomized in a 1:1 ratio to either a targeted FMD-specific multidisciplinary rehabilitation programme or conventional MS rehabilitation. The experimental programme will include five consecutive days of in-person rehabilitation focused on education regarding functional symptom mechanisms, movement retraining using attentional-redirection strategies, and development of an individualized self-management plan. This will be followed by a 12-week home-based programme supported by weekly telemedicine sessions. The active comparator will consist of conventional MS rehabilitation addressing mobility, strength, gait, balance, endurance, fatigue management, and functional independence, without protocolized FMD-specific techniques.\n\nPart B aims to assess the feasibility, safety, and preliminary efficacy of the FMD-specific rehabilitation programme compared with conventional MS rehabilitation. Outcomes will be assessed at baseline, immediately after the five-day intervention, and at three months. The main efficacy outcome will be change in functional motor symptom severity, with additional evaluation of disability, functional performance, gait, balance, fatigue, pain, emotional functioning, quality of life, healthcare utilization, and costs.\n\nOverall, the study is expected to provide prospective evidence on the frequency and clinical profile of FMD-MS overlap and preliminary evidence on whether a mechanism-specific rehabilitation approach may improve outcomes in affected people with MS.",
-      "kind": "clinical_trial",
-      "external_id": "NCT07856485",
-      "score": 100,
-      "topics": [
-        "clinical_trial",
-        "treatment",
-        "regulatory",
-        "research",
-        "diagnosis",
-        "rehabilitation",
-        "symptoms",
-        "quality_of_life"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "e9347ac6520157c1",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "Validity and Reliability of the Language Memory Test (LMT) in Belgium",
-      "url": "https://clinicaltrials.gov/study/NCT07868887",
-      "published_at": "2026-10-09T00:00:00+00:00",
-      "summary": "This study aims to evaluate the practical and research utility of a new test assessing language and memory in people with MS. To this end, we are administering the test to a group of 100 individuals with MS who are receiving treatment at the National MS Center Melsbroek.\n\nThese data will allow us to determine whether scores on the new test correlate with those of established cognitive tests. Subsequently, we will administer the new test to 100 individuals without an MS diagnosis who are matched for age, gender, and education level. This will enable us to assess whether there are significant differences in scores between individuals with MS and those without the diagnosis.\n\nOne year later, we will re-administer the tests to the participants with MS to determine the extent to which changes in scores on the new test correspond to changes in scores on established tests.",
-      "kind": "clinical_trial",
-      "external_id": "NCT07868887",
-      "score": 100,
-      "topics": [
-        "treatment",
-        "research",
-        "diagnosis"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "35f26f12331e5350",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "Efficacy of Cognitive Behavioral Therapy for Insomnia to Treat Insomnia Symptoms in Individuals With Multiple Sclerosis",
-      "url": "https://clinicaltrials.gov/study/NCT06428006",
-      "published_at": "2026-10-08T00:00:00+00:00",
-      "summary": "The incidence of insomnia is estimated to be as high as 90% in individuals with MS due to insomnia being underdiagnosed. Sleep disturbances in people with MS have been associated with reduced cognitive performance, physical function, psychological well-being, quality of life, and occupational function, as well as increased prevalence of fatigue, pain, depression, and anxiety. The objective of the proposed study is to determine the efficacy of cognitive behavioral therapy for insomnia (CBT-I) to improve insomnia symptoms (Aim 1) fatigue, and health-related quality of life (Aim 2) in individuals with multiple sclerosis compared to an active control group, and to determine the characteristics of participants that predict improvement in sleep outcomes (Exploratory Aim 3).",
-      "kind": "clinical_trial",
-      "external_id": "NCT06428006",
-      "score": 100,
-      "topics": [
-        "treatment",
-        "research",
-        "symptoms",
-        "quality_of_life"
       ],
       "status": "new"
     }

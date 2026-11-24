@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T15:48:39.059766+00:00",
+  "updated_at": "2026-11-24T15:39:58.424246+00:00",
   "articles": [
     {
       "id": "6a4e64b11a3d0fd8",
@@ -408,6 +408,42 @@
       "status": "new"
     },
     {
+      "id": "8143ccdff063e595",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "A Study of Orelabrutinib in Patients With Primary Progressive Multiple Sclerosis",
+      "url": "https://clinicaltrials.gov/study/NCT07067463",
+      "published_at": "2026-11-24T00:00:00+00:00",
+      "summary": "Orelabrutinib is a CNS-penetrable BTK inhibitor. This is a phase 3, randomized, double-blind, parallel-group, multicenter study to evaluate the efficacy and safety of orelabrutinib compared with placebo in patients with PPMS. Patients will be treated for approximately 30 to 60 months, with a minimum treatment duration of 12 months. The study will enroll approximately 705 subjects in a 2:1 randomization (orelabrutinib: placebo), globally.",
+      "kind": "clinical_trial",
+      "external_id": "NCT07067463",
+      "score": 100,
+      "topics": [
+        "clinical_trial",
+        "treatment",
+        "research"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "33603fb7ddc42b56",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "Evaluation of the Impact of Virtual Park on Training Motivation in Adult Patients",
+      "url": "https://clinicaltrials.gov/study/NCT07616050",
+      "published_at": "2026-11-23T00:00:00+00:00",
+      "summary": "The purpose of this clinical study is to evaluate the feasibility, usability, and motivational impact of VirtualPark, a virtual reality-based dual-task rehabilitation system, in adults with neurological and age-related conditions.\n\nVirtualPark is a virtual reality application designed to deliver cognitive exercises during cycling training using a commercially available ergometer (THERA-Trainer Tigo). The system integrates physical and cognitive tasks in simulated real-life environments.\n\nThe intervention integrates motor and cognitive training tasks targeting domains such as attention, inhibition, working memory, and navigation.\n\nThis is a prospective, multicenter, randomized, cross-over pilot study. It will compare cycling training performed with and without virtual reality. Participants will complete both intervention conditions over a 4-week period separated by a wash-out phase with standard rehabilitation activities. The order of conditions will be randomized.\n\nThe study will assess motivation during rehabilitation training, usability and user experience of the system, as well as exploratory effects on cognitive and motor performance, functional abilities, perceived exertion, and safety.\n\nThe study will enroll adult participants (≥18 years) with conditions such as stroke, Parkinson's disease, multiple sclerosis, amyotrophic lateral sclerosis, mild cognitive impairment, spinal cord injury, and frail older adults.",
+      "kind": "clinical_trial",
+      "external_id": "NCT07616050",
+      "score": 100,
+      "topics": [
+        "clinical_trial",
+        "research",
+        "rehabilitation"
+      ],
+      "status": "new"
+    },
+    {
       "id": "93b6a1d39839d9b5",
       "source_id": "clinicaltrials-ms",
       "source": "ClinicalTrials.gov – Multiple Sclerosis",
@@ -422,6 +458,25 @@
         "clinical_trial",
         "treatment",
         "research"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "08666eb278073f63",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "Monthly Monitoring of Plasma NfL in Treated Relapsing-remitting Multiple Sclerosis to Detect Persistent Infraclinical Disease Activity",
+      "url": "https://clinicaltrials.gov/study/NCT07292480",
+      "published_at": "2026-11-20T00:00:00+00:00",
+      "summary": "Reference MRI scan is recommended 6 months after treatment onset in patients with multiple sclerosis (MS), and follow-up scans at 12 months later to monitor subclinical activity. When monitoring treatment response in patients treated with disease modifying treatments (DMTs), the measurement of new or enlarging T2/FLAIR hyperintense lesions (NELs) is the preferred MRI method supplemented by contrast-enhancing lesions (CELs) for monitoring treatment response. However, some studies have suggested the deposition of gadolinium-based contrast agents in the basal ganglia and dentate nucleus of patients who underwent serial MRI acquisitions. Although significant clinical consequences of these deposits have not been demonstrated, further studies are required to better understand the potential long-term biological and clinical effects of gadolinium administration. To circumvent this potential risk, several recommendations suggested avoiding unnecessary use of gadolinium for follow-up scans. New sequences are also developed to replace gadolinium injection for the detection of active lesions. Moreover, MRI remains costly and time-consuming. In addition, systematic yearly MRI monitoring is not adapted to detect silent active lesions. This can delay identification of treatment failure and increase the risk of relapses and disability worsening, especially in the context of escalation therapy.\n\nTherefore, biological markers could allow more frequent analysis of disease activity and detect treatment failure earlier than classical clinical and MRI monitoring. Their use would greatly help clinicians to switch for high efficacy treatments (HET) and avoid potential relapses.\n\nMeasurement of a structural axonal protein, neurofilament, in serum or plasma has shown promise as a marker of neuroaxonal injury and a measure of treatment response. In MS, cerebrospinal fluid (CSF) neurofilament-light chain (NfL) is also increased and is positively associated with MRI lesion load and disability scores and is a marker of treatment response.\n\nWThe study authors hypothesize that monthly plasma neurofilament-light chain (pNfL) monitoring can sensitively highlight subclinical (radiological disease activity) RDA by performing early MRI scans to confirm EDA and lead to timely treatment escalation.\n\nThe main objective of this study is to compare the time to EDA in both arms (monthly pNfL monitoring vs. standard care with regular MRI scans), in patients with EDA.",
+      "kind": "clinical_trial",
+      "external_id": "NCT07292480",
+      "score": 100,
+      "topics": [
+        "treatment",
+        "regulatory",
+        "research",
+        "nutrition"
       ],
       "status": "new"
     },
@@ -789,24 +844,6 @@
       "status": "new"
     },
     {
-      "id": "8143ccdff063e595",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "A Study of Orelabrutinib in Patients With Primary Progressive Multiple Sclerosis",
-      "url": "https://clinicaltrials.gov/study/NCT07067463",
-      "published_at": "2026-11-10T00:00:00+00:00",
-      "summary": "Orelabrutinib is a CNS-penetrable BTK inhibitor. This is a phase 3, randomized, double-blind, parallel-group, multicenter study to evaluate the efficacy and safety of orelabrutinib compared with placebo in patients with PPMS. Patients will be treated for approximately 30 to 60 months, with a minimum treatment duration of 12 months. The study will enroll approximately 705 subjects in a 2:1 randomization (orelabrutinib: placebo), globally.",
-      "kind": "clinical_trial",
-      "external_id": "NCT07067463",
-      "score": 100,
-      "topics": [
-        "clinical_trial",
-        "treatment",
-        "research"
-      ],
-      "status": "new"
-    },
-    {
       "id": "b997129885d15461",
       "source_id": "clinicaltrials-ms",
       "source": "ClinicalTrials.gov – Multiple Sclerosis",
@@ -918,6 +955,25 @@
         "treatment",
         "regulatory",
         "research"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "22b9de922d432231",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "Influence of Therapeutic Failure on the Psychosocial Experience in Multiple Sclerosis",
+      "url": "https://clinicaltrials.gov/study/NCT07372599",
+      "published_at": "2026-11-10T00:00:00+00:00",
+      "summary": "Multiple sclerosis (MS), an inflammatory, neurodegenerative disease of the central nervous system, affects around 120,000 patients in France and is the leading cause of non-traumatic disability in young adults. It affects patients' health-related quality of life (QoL) and has a significant economic impact on patients and society as a whole. Early initiation of disease-modifying therapy (DMT) is recommended in relapsing-remitting MS (RRMS). Nevertheless, according to a recent French cohort, 30% of patients initially treated with a first-line FT will switch to a highly effective compound within 5 years due to its ineffectiveness. Therapeutic failure (Th-F) is therefore a frequent occurrence, but its psychological, social and economic consequences are poorly understood. These elements are generally the subject of measurements reported by patients, and several studies have highlighted the importance of taking them into account in the management of these patients.\n\nHere, the investigators will study two categories of these measures in a Th-F situation. On the one hand, patient-reported outcome measurements (PROMs) will be examined. Patients' psychological distress and their QoL are two important examples of psychosocial impacts in patients with MS, compared to the general population. The impact on activity levels is also well known, but the specific effect of Th-F has not yet been studied. On the other hand, patients' experiences of their care pathway and their opinion on the quality of care (patient-reported experience measurement \\[PREM\\]) will also be studied. Some PREMs refer to care coordination, satisfaction with the relationship with carers or doctors' empathy levels. To date, data on the experience of MS patients regarding their care pathway remains limited and non-existent during Th-F.\n\nFinally, the influence of socioeconomic status (SES) on PROMs and PREMs is worth considering. In the general population, patients' experience of care can be influenced by their socioeconomic status. Compared with research on other diseases (notably cardiovascular diseases and cancers), there is relatively little work on the association between socioeconomic status and MS and none has focused on the topic of Th-F.\n\nThe investigators therefore hypothesise that a quality of care perceived favourably by MS patients may moderate the negative impact of Th-F on their QoL, anxiety/depression and activity levels (as recently described in oncology), and a more recent measure of abilities assessing well-being defined in a broad sense, as a function of their SES.",
+      "kind": "clinical_trial",
+      "external_id": "NCT07372599",
+      "score": 100,
+      "topics": [
+        "treatment",
+        "regulatory",
+        "research",
+        "quality_of_life"
       ],
       "status": "new"
     },
@@ -1109,25 +1165,6 @@
         "rehabilitation",
         "symptoms",
         "quality_of_life"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "08666eb278073f63",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "Monthly Monitoring of Plasma NfL in Treated Relapsing-remitting Multiple Sclerosis to Detect Persistent Infraclinical Disease Activity",
-      "url": "https://clinicaltrials.gov/study/NCT07292480",
-      "published_at": "2026-11-03T00:00:00+00:00",
-      "summary": "Reference MRI scan is recommended 6 months after treatment onset in patients with multiple sclerosis (MS), and follow-up scans at 12 months later to monitor subclinical activity. When monitoring treatment response in patients treated with disease modifying treatments (DMTs), the measurement of new or enlarging T2/FLAIR hyperintense lesions (NELs) is the preferred MRI method supplemented by contrast-enhancing lesions (CELs) for monitoring treatment response. However, some studies have suggested the deposition of gadolinium-based contrast agents in the basal ganglia and dentate nucleus of patients who underwent serial MRI acquisitions. Although significant clinical consequences of these deposits have not been demonstrated, further studies are required to better understand the potential long-term biological and clinical effects of gadolinium administration. To circumvent this potential risk, several recommendations suggested avoiding unnecessary use of gadolinium for follow-up scans. New sequences are also developed to replace gadolinium injection for the detection of active lesions. Moreover, MRI remains costly and time-consuming. In addition, systematic yearly MRI monitoring is not adapted to detect silent active lesions. This can delay identification of treatment failure and increase the risk of relapses and disability worsening, especially in the context of escalation therapy.\n\nTherefore, biological markers could allow more frequent analysis of disease activity and detect treatment failure earlier than classical clinical and MRI monitoring. Their use would greatly help clinicians to switch for high efficacy treatments (HET) and avoid potential relapses.\n\nMeasurement of a structural axonal protein, neurofilament, in serum or plasma has shown promise as a marker of neuroaxonal injury and a measure of treatment response. In MS, cerebrospinal fluid (CSF) neurofilament-light chain (NfL) is also increased and is positively associated with MRI lesion load and disability scores and is a marker of treatment response.\n\nWThe study authors hypothesize that monthly plasma neurofilament-light chain (pNfL) monitoring can sensitively highlight subclinical (radiological disease activity) RDA by performing early MRI scans to confirm EDA and lead to timely treatment escalation.\n\nThe main objective of this study is to compare the time to EDA in both arms (monthly pNfL monitoring vs. standard care with regular MRI scans), in patients with EDA.",
-      "kind": "clinical_trial",
-      "external_id": "NCT07292480",
-      "score": 100,
-      "topics": [
-        "treatment",
-        "regulatory",
-        "research",
-        "nutrition"
       ],
       "status": "new"
     },
@@ -1828,45 +1865,6 @@
         "regulatory",
         "research",
         "rehabilitation"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "43d34c20ec3be561",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "Non-inferiority Study of Frexalimab Subcutaneous Administration Compared to Intravenous Administration in Adult Participants With Multiple Sclerosis",
-      "url": "https://clinicaltrials.gov/study/NCT07325292",
-      "published_at": "2026-10-13T00:00:00+00:00",
-      "summary": "This is a randomized, open-label, parallel, Phase 3 study with 2-arms for treatment.\n\nThe purpose of this study is to evaluate SC administration of frexalimab every 4 weeks (q4w) compared to IV administration of frexalimab q4w in male and female participants with RMS and nrSPMS (aged 18 to 60 years at the time of enrollment). People diagnosed with MS are eligible for enrollment as long as they meet all the inclusion criteria and none of the exclusion criteria.\n\nStudy details include:\n\nThe study intervention duration will be 48 weeks (12 months) for Parts A and B combined. Optional Part C will last until the initiation of a long term safety study for Frexalimab.The follow up duration after the end of study intervention (in case of discontinuation) will be 6 months.\n\nThe number of scheduled visits (Parts A and B) will be 17 for participants receiving frexalimab SC or IV, with an on-site visit frequency of every month between Week 4 and Week 24 in Part A, then every 1 to 3 months in Part B, then every 6 months in Part C. Participants discontinuing treatment before the End of Study will have an additional 3 follow-up visits.",
-      "kind": "clinical_trial",
-      "external_id": "NCT07325292",
-      "score": 100,
-      "topics": [
-        "clinical_trial",
-        "treatment",
-        "regulatory",
-        "research"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "2f204435e7f53893",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "Study of COYA 302 for the Treatment of ALS",
-      "url": "https://clinicaltrials.gov/study/NCT07161999",
-      "published_at": "2026-10-13T00:00:00+00:00",
-      "summary": "The ALSTARS trial will be conducted across 20-25 sites in the US and Canada, and will evaluate the safety and efficacy of an investigational treatment called COYA 302 for adults with Amyotrophic Lateral Sclerosis (ALS).\n\nCOYA 302 is an investigational and proprietary biologic combination therapy with a dual immunomodulatory mechanism of action intended to enhance the anti-inflammatory function of regulatory T cells (Tregs) and suppress the inflammation produced by activated monocytes and macrophages. It is comprised of low dose interleukin-2 (LD IL-2) and DRL\\_AB (a biosimilar candidate for abatacept). Participants will be randomly assigned to receive one of 2 regimens of COYA 302 or placebo (an inactive substance) in a 1:1:1 ratio for 24 weeks in the double-blind (DB) period. Those who complete this part of the study will be eligible to receive one of the two regimens of COYA 302 for an additional 24 weeks in a blinded active extension phase (EXT). Upon completion of the EXT phase of the study, participants will be invited to participate in an open label extension (OLE).\n\nThe study will assess changes in disease progression using established ALS clinical outcome measures, including the ALS Functional Rating Scale-Revised (ALSFRS-R), neurofilament (NfL), maximal inspiratory pressure (MIP), slow vital capacity (SVC), and neurological assessments. Additional objectives include evaluation of biomarkers and safety through routine clinical assessments and adverse event monitoring.",
-      "kind": "clinical_trial",
-      "external_id": "NCT07161999",
-      "score": 100,
-      "topics": [
-        "clinical_trial",
-        "treatment",
-        "regulatory",
-        "research",
-        "diagnosis"
       ],
       "status": "new"
     }

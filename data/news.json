@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T15:39:58.424246+00:00",
+  "updated_at": "2026-11-25T15:24:34.645288+00:00",
   "articles": [
     {
       "id": "6a4e64b11a3d0fd8",
@@ -408,6 +408,44 @@
       "status": "new"
     },
     {
+      "id": "5a904aa9b7064bfa",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "A Study of Orelabrutinib in Patients With Secondary Progressive Multiple Sclerosis",
+      "url": "https://clinicaltrials.gov/study/NCT07299019",
+      "published_at": "2026-11-25T00:00:00+00:00",
+      "summary": "Orelabrutinib is a CNS-penetrable BTK inhibitor. This is a phase 3, randomized, double-blind, parallel-group, multicenter study to evaluate the efficacy and safety of orelabrutinib compared with placebo in patients with non-active Secondary Progress MS. Patients will be treated for approximately 24 to 60 months, with a minimum treatment duration of 12 months. The study will enroll approximately 990 subjects in a 2:1 randomization (orelabrutinib: placebo), globally.",
+      "kind": "clinical_trial",
+      "external_id": "NCT07299019",
+      "score": 100,
+      "topics": [
+        "clinical_trial",
+        "treatment",
+        "research"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "2d9811e1fab914fe",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "tsDCS for Neurological Patiens. A Clinical, Neurophysiological and Biomolecular Study.",
+      "url": "https://clinicaltrials.gov/study/NCT07959068",
+      "published_at": "2026-11-25T00:00:00+00:00",
+      "summary": "The project investigates the effects of non-invasive cervical trans-spinal direct current stimulation combined with rehabilitation therapy in patients with motor impairments caused by stroke or progressive multiple sclerosis. Its main objective is to determine whether this stimulation can amplify descending motor signals and increase spinal motoneuronal excitability to improve functional recovery of the upper limbs. The research evaluates these outcomes through clinical assessments, kinematic movement analysis, and the monitoring of blood biomarkers associated with neural plasticity and oxidative stress.",
+      "kind": "clinical_trial",
+      "external_id": "NCT07959068",
+      "score": 100,
+      "topics": [
+        "treatment",
+        "regulatory",
+        "research",
+        "diagnosis",
+        "rehabilitation"
+      ],
+      "status": "new"
+    },
+    {
       "id": "8143ccdff063e595",
       "source_id": "clinicaltrials-ms",
       "source": "ClinicalTrials.gov – Multiple Sclerosis",
@@ -477,6 +515,26 @@
         "regulatory",
         "research",
         "nutrition"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "b8dc477b243f7fe0",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "Inspiratory Muscle Training in Individuals With Multiple Sclerosis",
+      "url": "https://clinicaltrials.gov/study/NCT07672535",
+      "published_at": "2026-11-20T00:00:00+00:00",
+      "summary": "Multiple sclerosis (MS) is a chronic disease affecting the central nervous system, characterized by inflammation, demyelination, and axonal degeneration, and primarily affects young adults. Muscle weakness, sensory disturbances, spasticity, pain, visual impairment, ataxia, fatigue, cognitive dysfunction, and respiratory complications are among the most commonly reported symptoms in individuals with MS. Although inspiratory muscle training has been shown to have beneficial effects in individuals with MS, the effects of different inspiratory muscle training intensities on respiratory muscle strength and pulmonary function have not been sufficiently investigated.\n\nThe primary aim of this study is to investigate the effectiveness and clinical feasibility of high-intensity interval inspiratory muscle training in individuals with MS. The secondary aim is to compare the effects of high-intensity interval inspiratory muscle training, low-intensity inspiratory muscle training, and conventional rehabilitation on respiratory muscle strength, pulmonary function, cough effectiveness, exercise capacity, lower extremity functional muscle strength, balance, fatigue, dysphagia severity, sleep quality, and quality of life in individuals with MS.\n\nParticipants will be randomly assigned to one of three groups: a high-intensity interval inspiratory muscle training group, a low-intensity inspiratory muscle training group, or a conventional rehabilitation group. All three groups will receive conventional rehabilitation, while the inspiratory muscle training groups will additionally receive their respective inspiratory muscle training programs. This study aims to be the first randomized controlled trial to evaluate the effects of high-intensity interval inspiratory muscle training in individuals with MS.",
+      "kind": "clinical_trial",
+      "external_id": "NCT07672535",
+      "score": 100,
+      "topics": [
+        "clinical_trial",
+        "research",
+        "rehabilitation",
+        "symptoms",
+        "quality_of_life"
       ],
       "status": "new"
     },
@@ -748,24 +806,6 @@
       "status": "new"
     },
     {
-      "id": "5a904aa9b7064bfa",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "A Study of Orelabrutinib in Patients With Secondary Progressive Multiple Sclerosis",
-      "url": "https://clinicaltrials.gov/study/NCT07299019",
-      "published_at": "2026-11-12T00:00:00+00:00",
-      "summary": "Orelabrutinib is a CNS-penetrable BTK inhibitor. This is a phase 3, randomized, double-blind, parallel-group, multicenter study to evaluate the efficacy and safety of orelabrutinib compared with placebo in patients with non-active Secondary Progress MS. Patients will be treated for approximately 24 to 60 months, with a minimum treatment duration of 12 months. The study will enroll approximately 990 subjects in a 2:1 randomization (orelabrutinib: placebo), globally.",
-      "kind": "clinical_trial",
-      "external_id": "NCT07299019",
-      "score": 100,
-      "topics": [
-        "clinical_trial",
-        "treatment",
-        "research"
-      ],
-      "status": "new"
-    },
-    {
       "id": "77961c003505840f",
       "source_id": "clinicaltrials-ms",
       "source": "ClinicalTrials.gov – Multiple Sclerosis",
@@ -840,6 +880,25 @@
         "research",
         "rehabilitation",
         "symptoms"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "5df396d720d723e6",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "A Study to Investigate Long-term Safety and Tolerability of Frexalimab in Participants With Multiple Sclerosis",
+      "url": "https://clinicaltrials.gov/study/NCT07930624",
+      "published_at": "2026-11-12T00:00:00+00:00",
+      "summary": "Study LTS18002 is a global, multicenter, open-label (OL), Phase 3, long-term safety and efficacy extension study.\n\nThe purpose of this study is to provide continued access to frexalimab for participants with MS, and to evaluate the long-term safety and efficacy profile of frexalimab. This study will monitor delayed AEs, assess the durability of safety findings and characterize any emerging safety signals that may develop over an extended follow up period.\n\nStudy details include:\n\n* The study duration will be up to 4 years.\n* The OL treatment duration will be up to 96 weeks (corresponding to approximately 2 years) per participant.\n* There is an additional 24 weeks of safety follow up from the last dose of OL frexalimab for all participants (safety follow-up period/EOS: 4, 12 and 24 weeks after last investigational medicinal product(IMP) or OL frexalimab administration).\n* The number of visits over the 2-year duration will be dependent on subgroup assignment which is based on parent study from which the participant has entered the LTS18002 :\n\n  1. ACT16877, EFC17504, EFC18098, and ASY22814 participants\n\n     * Will have on-site visits every 12 weeks (9 visits)\n\n       * Additionally, there will be 16 on-site visits for OL frexalimab administration (Week 4, 8, 16, 20, 28, 32, 40, 44, 52, 56, 64, 68, 76, 80, 88, and 92) for all participants EXCEPT those entering from EFC18098 (frexalimab open label administration is conducted at home via SC large volume (OBDS VT) device)\n\n         * There will be 3 follow up visits beginning 4 weeks after the last administration of OL frexalimab\n\n           * Home administration is allowed for participants from ACT16877, based on Investigator judgement, participant/caregiver training and local availability. Home nurse services are mandatory for at-home administration.\n\n             * Home nurse services for at home administration may be considered for EFC17504 participants after Week 24 administration of OL frexalimab, based on availability. Participants that have initiated OL frexalimab via home administration during the parent study may continue to receive it in this manner.\n\n               * NOTE: For participants from EFC17504, all on-site visits including monthly IMP administrations will include safety labs (biochemistry, hematology liver chemistry, and immunoglobulins) and physical exams\n  2. EFC17919A/B participants\n\n     * Will have on site visits every 12 weeks (9 visits)\n\n       * Will have a total of 16 visits for OL frexalimab administration (Week 4, 8, 16, 20, 28, 32, 40, 44, 52, 56, 64, 68, 76, 80, 88, and 92)\n\n         * Additionally, there will be up to 3 visits for administration of DB treatment (until results become available and randomization assignment availability).\n\n           * Home nurse services for at home administration may be considered for EFC17919A/B participants after Week 24 administration of OL frexalimab, based on availability.\n\nNOTE: all on-site visits including monthly IMP administrations will include safety labs (biochemistry, hematology liver chemistry, and immunoglobulins) and physical exams.",
+      "kind": "clinical_trial",
+      "external_id": "NCT07930624",
+      "score": 100,
+      "topics": [
+        "clinical_trial",
+        "treatment",
+        "regulatory",
+        "research"
       ],
       "status": "new"
     },
@@ -1808,63 +1867,6 @@
         "treatment",
         "regulatory",
         "research"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "121998797413b217",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "A Study to Learn More About The Safety of Diroximel Fumarate (VUMERITY®) in Participants Who Took it During Pregnancy And About the Health of Their Babies",
-      "url": "https://clinicaltrials.gov/study/NCT05688436",
-      "published_at": "2026-10-15T00:00:00+00:00",
-      "summary": "In this study, researchers will learn more about the effects of diroximel fumarate (DRF), also known as VUMERITY®, when taken during pregnancy in people with multiple sclerosis, also known as MS. In MS, the immune system attacks the nerves in the brain and spinal cord. The affected areas are called lesions. The damage makes it difficult for the brain and spinal cord to function and send messages throughout the body. MS can be a progressive disease, which means it may get worse over time. In relapsing forms of MS (RMS), new symptoms may happen, and existing symptoms may get better or worse over time. DRF is an approved drug that is used to treat people with RMS.\n\nThis is known as an \"observational\" study, which collects health information about study participants without changing their medical care. The main goal of this study is to collect birth and health information from 3 groups of participants and their babies. These groups are:\n\n* Those who took DRF during their pregnancy\n* Those who took disease-modifying therapies (DMTs) for RMS during their pregnancy, but not DRF. DMTs are drugs that slow how the disease develops over time, not just relieve symptoms.\n* Those who did not take any drugs for RMS during their pregnancy\n\nThe main question researchers want to learn about in this study is:\n\n• How many participants' babies were born with major congenital malformations (MCMs)? MCMs are problems with how a baby's body forms before birth.\n\nIn this study, researchers will measure how often the following outcomes happen and compare them between groups:\n\n* Loss of pregnancy before 20 weeks\n* Loss of pregnancy at or after 20 weeks (stillbirth)\n* Babies born early (before 37 weeks)\n* Babies who are smaller than expected for the stage of pregnancy\n* Live births\n\nThis study will be done as follows:\n\n* The study includes data in adult women with multiple sclerosis on pregnancies happening between October 29th, 2019 and July 31st, 2030. Information will start being collected when the participant decides to join the study.\n* Medical records and clinical notes will be reviewed at the end of the study.\n* The study will include information from pregnancy through delivery, and for babies up to 1 year after birth.\n* The study is planned to end by 30th April 2031.",
-      "kind": "clinical_trial",
-      "external_id": "NCT05688436",
-      "score": 100,
-      "topics": [
-        "treatment",
-        "regulatory",
-        "research",
-        "symptoms"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "9c15c835a854bc0b",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "Mental Rotation and Motor Imagery Training in Multiple Sclerosis",
-      "url": "https://clinicaltrials.gov/study/NCT07749690",
-      "published_at": "2026-10-15T00:00:00+00:00",
-      "summary": "This randomized controlled trial investigated the effects of sequential laterality, motor imagery, and mental rotation training in individuals with relapsing-remitting multiple sclerosis. Both groups received conventional physiotherapy, while the intervention group received structured cognitive-motor training and the control group received active visual-attention training.",
-      "kind": "clinical_trial",
-      "external_id": "NCT07749690",
-      "score": 100,
-      "topics": [
-        "clinical_trial",
-        "treatment",
-        "research",
-        "rehabilitation"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "0aa45e9c5a0b117f",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "Evaluation of the NEUROSWING Orthosis on Walking Speed in a Population With Dorsal and/or Plantar Flexor Deficits, With a View to a Reimbursement Application",
-      "url": "https://clinicaltrials.gov/study/NCT07108088",
-      "published_at": "2026-10-14T00:00:00+00:00",
-      "summary": "The aim of this randomized, cross-over, multi-center, intention-to-treat, open-label study study is to determine the benefits of the NEUROSWING device on gait speed in patients with dorsal and/or plantar flexor deficits, compared with the use of a carbon orthosis. Each patient will benefit in random order from a 14-day investigation period with the NEUROSWING device and a 14-day control period with a carbon orthosis. These two 2-week periods will be separated by one week, during which no orthosis will be worn and no evaluation will be carried out. Patients will be randomized to determine which phase they will start with. The primary endpoint is walking speed, which will be measured by comparing the results of the 10-meter walk test. For the secondary endpoints, patients will be assessed using the Functional Gait Assessment (FGA), the 6-minute test and an analysis system that will analyze other gait parameters (duration of the different phases of the gait cycle, cadence and step length). In order to carry out the assessments, each patient included will have 12 visits spread over 5 weeks.",
-      "kind": "clinical_trial",
-      "external_id": "NCT07108088",
-      "score": 100,
-      "topics": [
-        "clinical_trial",
-        "regulatory",
-        "research",
-        "rehabilitation"
       ],
       "status": "new"
     }

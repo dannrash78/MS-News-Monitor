@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T15:24:34.645288+00:00",
+  "updated_at": "2026-11-26T14:54:12.127736+00:00",
   "articles": [
     {
       "id": "6a4e64b11a3d0fd8",
@@ -33,6 +33,23 @@
         "clinical_trial",
         "treatment",
         "research"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "37cdf033a12b9f90",
+      "source_id": "ms-news-today",
+      "source": "Multiple Sclerosis News Today",
+      "title": "FDA to review simplified infusion schedule for relapsing MS therapy",
+      "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/11/25/fda-review-simplified-infusion-schedule-relapsing-ms-therapy/",
+      "published_at": "Wed, 25 Nov 2026 15:30:25 +0000",
+      "summary": "<a href=\"https://multiplesclerosisnewstoday.com/news-posts/2026/11/25/fda-review-simplified-infusion-schedule-relapsing-ms-therapy/\" title=\"FDA to review simplified infusion schedule for relapsing MS therapy\" rel=\"nofollow\"><img width=\"800\" height=\"533\" src=\"https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/11/iStock-1485546621-800x533.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"A man sits in a chair receiving an IV infusion.\" style=\"display: block; margin: auto; margin-bottom: 15px;max-width: 100%;\" link_thumbnail=\"1\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/11/iStock-1485546621-800x533.jpg 800w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/11/iStock-1485546621-380x253.jpg 380w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/11/iStock-1485546621-768x512.jpg 768w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/11/iStock-1485546621-1536x1024.jpg 1536w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/11/iStock-1485546621.jpg 1800w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-wp-pid=\"167665\" /></a><p>The U.S. Food and Drug Administration (FDA) has agreed to review an application seeking approval of a simplified dosing schedule for starting treatment with Briumvi (ublituximab-xiiy) in adults with relapsing forms of multiple sclerosis (MS). The supplemental biologics license application (BLA) submitted by the therapy’s developer, TG Therapeutics, proposes combining the two initial infusions currently given [&#8230;]</p> <p>The post <a href=\"https://multiplesclerosisnewstoday.com/news-posts/2026/11/25/fda-review-simplified-infusion-schedule-relapsing-ms-therapy/\">FDA to review simplified infusion schedule for relapsing MS therapy</a> appeared first on <a href=\"https://multiplesclerosisnewstoday.com\">Multiple Sclerosis News Today</a>.</p>",
+      "kind": "news",
+      "score": 100,
+      "topics": [
+        "treatment",
+        "regulatory",
+        "nutrition"
       ],
       "status": "new"
     },
@@ -1848,25 +1865,6 @@
         "research",
         "rehabilitation",
         "quality_of_life"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "1eb28ba437f86b42",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "Autologous CD19/BCMA Dual-Target CAR-T for Relapsed/Refractory Autoimmune Diseases",
-      "url": "https://clinicaltrials.gov/study/NCT07361094",
-      "published_at": "2026-10-15T00:00:00+00:00",
-      "summary": "Autoimmune diseases occur when the immune system mistakenly attacks the body's own tissues, leading to chronic inflammation and damage to organs such as the kidneys, lungs, muscles, nerves, or blood cells. Although many treatments are available, some patients do not respond adequately or experience repeated disease flares despite long-term therapy. New treatment approaches are therefore needed for patients with relapsed or refractory autoimmune diseases. This study is an exploratory clinical trial designed to evaluate the safety and potential benefits of a novel cell-based therapy called autologous CD19-BCMA dual-target CAR T-cell therapy. This treatment uses a patient's own immune cells, which are collected from the blood, modified in the laboratory to recognize specific immune cells involved in autoimmune disease, and then infused back into the patient. The study includes adult patients with certain relapsed or refractory autoimmune diseases, such as systemic lupus erythematosus, systemic sclerosis, inflammatory muscle diseases, Sjögren's syndrome, autoimmune hemolytic anemia, and multiple sclerosis. After cell collection and preparative treatment, participants will receive a single infusion of the investigational CAR T-cell therapy and will be closely monitored for safety. The main purpose of this study is to better understand the safety of this treatment, including possible side effects. The study will also explore how the disease responds to treatment over time. Participants will be followed for up to two years after treatment to assess safety and clinical outcomes. The results of this study may help researchers better understand whether this type of cell therapy could be a feasible treatment option for patients with difficult-to-treat autoimmune diseases in the future.",
-      "kind": "clinical_trial",
-      "external_id": "NCT07361094",
-      "score": 100,
-      "topics": [
-        "clinical_trial",
-        "treatment",
-        "regulatory",
-        "research"
       ],
       "status": "new"
     }

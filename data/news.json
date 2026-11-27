@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T14:54:12.127736+00:00",
+  "updated_at": "2026-11-27T14:51:09.926989+00:00",
   "articles": [
     {
       "id": "6a4e64b11a3d0fd8",
@@ -43,7 +43,7 @@
       "title": "FDA to review simplified infusion schedule for relapsing MS therapy",
       "url": "https://multiplesclerosisnewstoday.com/news-posts/2026/11/25/fda-review-simplified-infusion-schedule-relapsing-ms-therapy/",
       "published_at": "Wed, 25 Nov 2026 15:30:25 +0000",
-      "summary": "<a href=\"https://multiplesclerosisnewstoday.com/news-posts/2026/11/25/fda-review-simplified-infusion-schedule-relapsing-ms-therapy/\" title=\"FDA to review simplified infusion schedule for relapsing MS therapy\" rel=\"nofollow\"><img width=\"800\" height=\"533\" src=\"https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/11/iStock-1485546621-800x533.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"A man sits in a chair receiving an IV infusion.\" style=\"display: block; margin: auto; margin-bottom: 15px;max-width: 100%;\" link_thumbnail=\"1\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/11/iStock-1485546621-800x533.jpg 800w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/11/iStock-1485546621-380x253.jpg 380w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/11/iStock-1485546621-768x512.jpg 768w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/11/iStock-1485546621-1536x1024.jpg 1536w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/11/iStock-1485546621.jpg 1800w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-wp-pid=\"167665\" /></a><p>The U.S. Food and Drug Administration (FDA) has agreed to review an application seeking approval of a simplified dosing schedule for starting treatment with Briumvi (ublituximab-xiiy) in adults with relapsing forms of multiple sclerosis (MS). The supplemental biologics license application (BLA) submitted by the therapy’s developer, TG Therapeutics, proposes combining the two initial infusions currently given [&#8230;]</p> <p>The post <a href=\"https://multiplesclerosisnewstoday.com/news-posts/2026/11/25/fda-review-simplified-infusion-schedule-relapsing-ms-therapy/\">FDA to review simplified infusion schedule for relapsing MS therapy</a> appeared first on <a href=\"https://multiplesclerosisnewstoday.com\">Multiple Sclerosis News Today</a>.</p>",
+      "summary": "<a href=\"https://multiplesclerosisnewstoday.com/news-posts/2026/11/25/fda-review-simplified-infusion-schedule-relapsing-ms-therapy/\" title=\"FDA to review simplified infusion schedule for relapsing MS therapy\" rel=\"nofollow\"><img width=\"800\" height=\"533\" src=\"https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/11/iStock-1485546621-800x533.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"A man sits in a chair receiving an IV infusion.\" style=\"display: block; margin: auto; margin-bottom: 15px;max-width: 100%;\" link_thumbnail=\"1\" decoding=\"async\" srcset=\"https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/11/iStock-1485546621-800x533.jpg 800w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/11/iStock-1485546621-380x253.jpg 380w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/11/iStock-1485546621-768x512.jpg 768w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/11/iStock-1485546621-1536x1024.jpg 1536w, https://multiplesclerosisnewstoday.com/wp-content/uploads/2026/11/iStock-1485546621.jpg 1800w\" sizes=\"(max-width: 800px) 100vw, 800px\" data-wp-pid=\"167665\" /></a><p>The U.S. Food and Drug Administration (FDA) has agreed to review an application seeking approval of a simplified dosing schedule for starting treatment with Briumvi (ublituximab-xiiy) in adults with relapsing forms of multiple sclerosis (MS). The supplemental biologics license application (BLA) submitted by the therapy’s developer, TG Therapeutics, proposes combining the two initial infusions currently given [&#8230;]</p> <p>The post <a href=\"https://multiplesclerosisnewstoday.com/news-posts/2026/11/25/fda-review-simplified-infusion-schedule-relapsing-ms-therapy/\">FDA to review simplified infusion schedule for relapsing MS therapy</a> appeared first on <a href=\"https://multiplesclerosisnewstoday.com\">Multiple Sclerosis News Today</a>.</p>",
       "kind": "news",
       "score": 100,
       "topics": [
@@ -425,6 +425,24 @@
       "status": "new"
     },
     {
+      "id": "dcf444da79faa9ad",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "Ublituximab (Briumvi) for Early Forms of Relapsing Multiple Sclerosis",
+      "url": "https://clinicaltrials.gov/study/NCT07225361",
+      "published_at": "2026-11-27T00:00:00+00:00",
+      "summary": "In this prospective, open-label, single-arm, single-institution trial, the investigators will accomplish the following two aims:\n\n1. study the safety and tolerability of Ublituximab (Briumvi) twice annually in participants with early MS over a treatment observation period of \\~12 months.\n2. study the pre- and post-treatment change in plasma neurofilament light chain, tested at baseline pre-Ublituximab treatment, and q24 weeks for 96 weeks post Ublituximab treatment initiation.",
+      "kind": "clinical_trial",
+      "external_id": "NCT07225361",
+      "score": 100,
+      "topics": [
+        "treatment",
+        "regulatory",
+        "research"
+      ],
+      "status": "new"
+    },
+    {
       "id": "5a904aa9b7064bfa",
       "source_id": "clinicaltrials-ms",
       "source": "ClinicalTrials.gov – Multiple Sclerosis",
@@ -463,6 +481,47 @@
       "status": "new"
     },
     {
+      "id": "8a5b4ae49b23cbad",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "Effect of Home Exercise Program on Various Parameters in Patients With Multiple Sclerosis",
+      "url": "https://clinicaltrials.gov/study/NCT05447143",
+      "published_at": "2026-11-25T00:00:00+00:00",
+      "summary": "Multiple Sclerosis (MS) is a chronic, inflammatory, neurodegenerative, and autoimmune disease that progresses with progressive neurological dysfunction and affects the central nervous system. A multidisciplinary rehabilitation approach is crucial in the systematic and supportive treatment of MS. Exercise training is a therapeutic approach that minimizes functional capacity loss and slows progression in MS. Randomized controlled studies have shown that exercise training improves physical fitness, reduces motor fatigue, and improves the quality of life and psychological state in individuals with MS.\n\nWhen the literature is examined, it is seen that popular exercises such as pilates, yoga, and Tai-Chi are used in addition to aerobics, strengthening, endurance, and stretching exercises in the treatment of individuals with MS. In order to eliminate the economic burden, which is one of the exercise barriers of individuals, and to gain exercise habits, home exercise programs should be expanded. When the literature is examined, it is emphasized that the importance of home exercise programs is emphasized, and it is very important in the treatment of patients who cannot attend an exercise program, especially by going to any center for various reasons. However, there is little information on the effectiveness and content of home exercise programs in patients with MS. From this point of view, this study is capable of supporting the missing part of the literature.",
+      "kind": "clinical_trial",
+      "external_id": "NCT05447143",
+      "score": 100,
+      "topics": [
+        "clinical_trial",
+        "treatment",
+        "regulatory",
+        "research",
+        "rehabilitation",
+        "symptoms",
+        "quality_of_life"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "e23359114c073912",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "Acute Intermittent Hypoxia Combined With Gait Training in Multiple Sclerosis",
+      "url": "https://clinicaltrials.gov/study/NCT07631923",
+      "published_at": "2026-11-25T00:00:00+00:00",
+      "summary": "This interventional, randomized, sham-controlled study will examine whether Acute Intermittent Hypoxia (AIH) delivered immediately before Myoelectric Interface Neurorehabilitation Training (MINT)-based locomotor training improves gait in people with Multiple Sclerosis. The primary objectives are to evaluate changes in gait speed and endurance, with secondary objectives assessing spatiotemporal gait parameters, fatigue, and safety. Participants will receive AIH or sham priming followed by standardized treadmill and/or overground gait training, with outcome measures collected before and after the intervention across multiple sessions.",
+      "kind": "clinical_trial",
+      "external_id": "NCT07631923",
+      "score": 100,
+      "topics": [
+        "clinical_trial",
+        "research",
+        "rehabilitation",
+        "symptoms"
+      ],
+      "status": "new"
+    },
+    {
       "id": "8143ccdff063e595",
       "source_id": "clinicaltrials-ms",
       "source": "ClinicalTrials.gov – Multiple Sclerosis",
@@ -476,6 +535,25 @@
       "topics": [
         "clinical_trial",
         "treatment",
+        "research"
+      ],
+      "status": "new"
+    },
+    {
+      "id": "a18721d52db3cf50",
+      "source_id": "clinicaltrials-ms",
+      "source": "ClinicalTrials.gov – Multiple Sclerosis",
+      "title": "Study to Evaluate Safety, Efficacy and Pharmacokinetics (PK) of a Modified Regimen of Ublituximab",
+      "url": "https://clinicaltrials.gov/study/NCT05877963",
+      "published_at": "2026-11-24T00:00:00+00:00",
+      "summary": "The primary purpose of this phase 3b study is to assess the efficacy of a modified regimen of ublituximab in participants with relapsing multiple sclerosis (RMS) as measured by T1 Gadolinium (Gd)-enhancing lesions in Part A; PK in Part B along with efficacy of ublituximab as measured by T1 Gd-enhancing lesions in participants who had a suboptimal experience on prior anti-CD20 therapy in Part C. The study consists of 3 parts: Part A is single-armed and open-label, Part B is randomized, double-blind, placebo-controlled, and Part C is single-armed and open-label.",
+      "kind": "clinical_trial",
+      "external_id": "NCT05877963",
+      "score": 100,
+      "topics": [
+        "clinical_trial",
+        "treatment",
+        "regulatory",
         "research"
       ],
       "status": "new"
@@ -1589,25 +1667,6 @@
       "status": "new"
     },
     {
-      "id": "a18721d52db3cf50",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "Study to Evaluate Safety, Efficacy and Pharmacokinetics (PK) of a Modified Regimen of Ublituximab",
-      "url": "https://clinicaltrials.gov/study/NCT05877963",
-      "published_at": "2026-10-23T00:00:00+00:00",
-      "summary": "The primary purpose of this phase 3b study is to assess the efficacy of a modified regimen of ublituximab in participants with relapsing multiple sclerosis (RMS) as measured by T1 Gadolinium (Gd)-enhancing lesions in Part A; PK in Part B along with efficacy of ublituximab as measured by T1 Gd-enhancing lesions in participants who had a suboptimal experience on prior anti-CD20 therapy in Part C. The study consists of 3 parts: Part A is single-armed and open-label, Part B is randomized, double-blind, placebo-controlled, and Part C is single-armed and open-label.",
-      "kind": "clinical_trial",
-      "external_id": "NCT05877963",
-      "score": 100,
-      "topics": [
-        "clinical_trial",
-        "treatment",
-        "regulatory",
-        "research"
-      ],
-      "status": "new"
-    },
-    {
       "id": "dbc8ff1df22ac48f",
       "source_id": "clinicaltrials-ms",
       "source": "ClinicalTrials.gov – Multiple Sclerosis",
@@ -1810,61 +1869,6 @@
         "regulatory",
         "diagnosis",
         "symptoms"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "954f9ec983568b92",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "Sacral Neuromodulation for Neurogenic Lower Urinary Tract, Bowel and Sexual Dysfunction",
-      "url": "https://clinicaltrials.gov/study/NCT05380856",
-      "published_at": "2026-10-16T00:00:00+00:00",
-      "summary": "A multi-center double-blinded placebo-controlled randomized clinical trial.\n\nThe patients will be randomized into two groups.\n\nTo investigate the efficacy of SNM to improve the key bladder diary variables compared to placebo (i.e. sham) for patients with MS having refractory neurogenic lower urinary tract dysfunction (NLUTD).\n\nAfter first step SNM-procedure and a 3-4 weeks test period patients with more than 50% improvement in the key bladder diary variables will have the IPG implanted. After a month of optimization patients will into two groups: IPG ON or IPG OFF.\n\nPeriod of randomization: four months. Number anticipated to be included: 60 patients",
-      "kind": "clinical_trial",
-      "external_id": "NCT05380856",
-      "score": 100,
-      "topics": [
-        "clinical_trial",
-        "research",
-        "symptoms"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "1a4b062ac14133c4",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "Central Vein Sign: a Diagnostic Biomarker in Multiple Sclerosis",
-      "url": "https://clinicaltrials.gov/study/NCT04495556",
-      "published_at": "2026-10-16T00:00:00+00:00",
-      "summary": "The need for improved diagnostic methods in Multiple Sclerosis (MS) is widely recognized. Although Magnetic Resonance Imaging (MRI) is a longstanding tool for detecting MS lesions, diagnostic inaccuracies persist. Up to 20% of people diagnosed with MS (1 in 5) are later found not to have the disease. This is highly consequential, as more than two-thirds of misdiagnosed patients are unnecessarily exposed to risks from disease-modifying therapies, which in rare cases can be life-threatening.\n\nMoreover, the current standard in MS diagnosis - the McDonald criteria, which combine clinical symptoms and MRI findings - were developed from studies in people with typical clinical presentations of MS. This reduces the specificity of these criteria, rendering them uninformative for the nearly half of MS patients who present to neurologists with atypical or nonclassical symptoms.\n\nTimeliness of MS diagnosis is also key, as diagnostic delay is common in cases of relapsing-remitting MS and can carry severe and lifelong consequences.\n\nThe CentrAl Vein Sign in MS (CAVS-MS) study has been designed to assess whether Central Vein Sign (CVS) criteria can help address some of these unmet diagnostic needs. It will specifically explore the role of presentation type by enrolling a mixed population of patients with typical clinical presentations (n = 200) and those with atypical presentations, including suggestive MRI findings in the absence of neurologic symptoms (n = 200) across North America.",
-      "kind": "clinical_trial",
-      "external_id": "NCT04495556",
-      "score": 100,
-      "topics": [
-        "research",
-        "diagnosis",
-        "symptoms"
-      ],
-      "status": "new"
-    },
-    {
-      "id": "99177232f65f625f",
-      "source_id": "clinicaltrials-ms",
-      "source": "ClinicalTrials.gov – Multiple Sclerosis",
-      "title": "An Online Tailored Cognitive Therapy-Based Intervention for Depression in Multiple Sclerosis: ACTION-MS Online",
-      "url": "https://clinicaltrials.gov/study/NCT07875309",
-      "published_at": "2026-10-15T00:00:00+00:00",
-      "summary": "Individuals with MS experience significantly high levels of depression which are higher than in any other chronic illness or neurological disorder. Depression can occur at any point in the course of the disease. Cognitive behavioural therapy (CBT) has been found to be effective in treating depression in people with MS. However, many individuals with MS who would benefit from CBT for depression do not participate in face-to-face treatment due to lack of clinician referral, accessibility, modality preference, cost, and mobility and travel issues due to health reasons.\n\nGiven the acceptability and preference for telehealth treatment options, digital-based psychological interventions can be another appealing treatment option as these programs have the ability to deliver interactive CBT treatments for depression to individuals with MS at a time and location convenient to the individual.\n\nThe current trial proposes to test the acceptability, effectiveness, satisfaction and cost-effectiveness of an 8-week online depression intervention targeting individuals with multiple sclerosis and compare this intervention with an 8-week online health and wellbeing in MS informational intervention.",
-      "kind": "clinical_trial",
-      "external_id": "NCT07875309",
-      "score": 100,
-      "topics": [
-        "treatment",
-        "research",
-        "rehabilitation",
-        "quality_of_life"
       ],
       "status": "new"
     }
